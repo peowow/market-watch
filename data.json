@@ -1,68 +1,104 @@
 {
-  "updated": "2026-10-10T18:36:53.188444+00:00",
+  "updated": "2026-10-10T22:20:31.049278+00:00",
   "quotes": {
     "CL=F": {
       "price": 91.85,
       "prev_close": 91.49,
       "change_pct": 0.393,
       "quote_time": "2026-10-09T16:55:00-04:00",
-      "name": "Crude Oil (WTI)"
+      "name": "Crude Oil (WTI)",
+      "news": [],
+      "news_errors": [
+        "Google News: HTTPError"
+      ]
     },
     "NG=F": {
       "price": 3.22,
       "prev_close": 3.168,
       "change_pct": 1.641,
       "quote_time": "2026-10-09T17:00:00-04:00",
-      "name": "Natural Gas"
+      "name": "Natural Gas",
+      "news": [],
+      "news_errors": [
+        "Google News: HTTPError"
+      ]
     },
     "^TNX": {
       "price": 5.244,
       "prev_close": 5.231,
       "change_pct": 0.249,
       "quote_time": "2026-10-09T13:55:00-05:00",
-      "name": "US 10-Year Treasury Yield (%)"
+      "name": "US 10-Year Treasury Yield (%)",
+      "news": [],
+      "news_errors": [
+        "Google News: HTTPError"
+      ]
     },
     "CADUSD=X": {
       "price": 0.7016,
       "prev_close": 0.7014,
       "change_pct": 0.027,
       "quote_time": "2026-10-09T22:00:00+01:00",
-      "name": "CAD/USD"
+      "name": "CAD/USD",
+      "news": [],
+      "news_errors": [
+        "Google News: HTTPError"
+      ]
     },
     "VET": {
       "price": 11.87,
       "prev_close": 11.86,
       "change_pct": 0.084,
       "quote_time": "2026-10-09T17:30:00-04:00",
-      "name": "Vermilion Energy (VET)"
+      "name": "Vermilion Energy (VET)",
+      "news": [],
+      "news_errors": [
+        "Google News: HTTPError"
+      ]
     },
     "VG": {
       "price": 13.18,
       "prev_close": 13.29,
       "change_pct": -0.828,
       "quote_time": "2026-10-09T20:00:00-04:00",
-      "name": "Venture Global (VG)"
+      "name": "Venture Global (VG)",
+      "news": [],
+      "news_errors": [
+        "Google News: HTTPError"
+      ]
     },
     "AMD": {
       "price": 608.4943,
       "prev_close": 620.68,
       "change_pct": -1.963,
       "quote_time": "2026-10-09T19:55:00-04:00",
-      "name": "AMD"
+      "name": "AMD",
+      "news": [],
+      "news_errors": [
+        "Google News: HTTPError"
+      ]
     },
     "TM": {
       "price": 185.7,
       "prev_close": 186.0,
       "change_pct": -0.161,
       "quote_time": "2026-10-09T19:50:00-04:00",
-      "name": "Toyota Motor (TM)"
+      "name": "Toyota Motor (TM)",
+      "news": [],
+      "news_errors": [
+        "Google News: HTTPError"
+      ]
     },
     "CLS": {
       "price": 360.804,
       "prev_close": 356.53,
       "change_pct": 1.199,
       "quote_time": "2026-10-09T18:45:00-04:00",
-      "name": "Celestica, Inc."
+      "name": "Celestica, Inc.",
+      "news": [],
+      "news_errors": [
+        "Google News: HTTPError"
+      ]
     }
   }
 }
