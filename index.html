@@ -16,13 +16,13 @@
   h1 { font-size:20px; margin:8px 0 2px; }
   h2 { font-size:15px; margin:0 0 10px; }
   a { color:var(--accent); }
-  .sub { color:var(--muted); font-size:13px; margin-bottom:14px; }
+  .top { display:flex; align-items:flex-start; justify-content:space-between; gap:12px; flex-wrap:wrap; }
+  .sub { color:var(--muted); font-size:13px; margin-bottom:10px; }
   .card { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:14px; margin-bottom:16px; }
   .hint { color:var(--muted); font-size:12.5px; margin-top:8px; }
   .controls { display:flex; align-items:center; gap:10px; flex-wrap:wrap; }
   input, select, button { font:inherit; }
   input[type=number], input[type=text], input[type=password], select { padding:7px 9px; font-size:16px; border:1px solid var(--line); border-radius:8px; background:var(--bg); color:var(--text); max-width:100%; }
-  .controls input[type=number] { width:80px; }
   .controls input[type=range] { flex:1; min-width:140px; accent-color:var(--accent); }
   table { width:100%; border-collapse:collapse; }
   th, td { padding:8px 6px; text-align:right; border-bottom:1px solid var(--line); font-variant-numeric:tabular-nums; vertical-align:middle; }
@@ -36,12 +36,17 @@
   .muted { color:var(--muted); }
   .empty { color:var(--muted); padding:8px 0; }
   .err { color:var(--muted); font-style:italic; text-align:right; }
+  a.tk { color:inherit; text-decoration:none; }
+  a.tk .nm { border-bottom:1px dotted var(--muted); }
+  a.tk:hover, a.tk:focus-visible { color:var(--accent); }
+  a.tk:hover .nm, a.tk:focus-visible .nm { border-bottom-color:var(--accent); }
   .lim { width:68px; text-align:right; }
   .x { background:none; border:none; color:var(--muted); font-size:20px; line-height:1; cursor:pointer; padding:2px 6px; border-radius:6px; }
   .x:hover { color:var(--bad); }
   .btn { background:var(--accent); color:#fff; border:none; border-radius:8px; padding:8px 14px; font-size:15px; font-weight:600; cursor:pointer; }
   .btn.secondary { background:transparent; color:var(--text); border:1px solid var(--line); }
   .btn:disabled { opacity:.55; cursor:default; }
+  .linkbtn { background:none; border:none; color:var(--accent); cursor:pointer; padding:4px 0; font-size:13px; }
   .banner { background:#fff3cd; color:#664d03; border-radius:8px; padding:8px 12px; margin-bottom:12px; font-size:13px; }
   .savebar { display:flex; align-items:center; justify-content:space-between; gap:10px; flex-wrap:wrap; margin-top:10px; padding:8px 10px; border:1px dashed var(--line); border-radius:8px; font-size:13px; }
   .form { display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:10px; align-items:end; }
@@ -52,13 +57,22 @@
   details summary { cursor:pointer; font-weight:600; }
   details .form { margin-top:12px; }
   details p { margin:10px 0 0; font-size:13px; color:var(--muted); }
+  .ngroup { padding:10px 0; border-bottom:1px solid var(--line); }
+  .ngroup:last-child { border-bottom:none; padding-bottom:0; }
+  .nhead { display:flex; align-items:baseline; gap:10px; flex-wrap:wrap; font-weight:600; margin-bottom:4px; }
+  .nhead .sym { font-weight:400; }
+  ul.nlist { list-style:none; margin:0; padding:0; }
+  ul.nlist li { padding:5px 0; }
+  ul.nlist a { color:var(--text); text-decoration:none; }
+  ul.nlist a:hover, ul.nlist a:focus-visible { color:var(--accent); text-decoration:underline; }
+  .nmeta { color:var(--muted); font-size:12px; }
   @media (max-width: 520px) {
     main { padding:10px; }
     .card { padding:10px; }
     table { font-size:14px; }
     th, td { padding:7px 3px; }
     th { font-size:11px; }
-    .lim { width:52px; padding:5px 6px; font-size:15px; }
+    .lim { width:62px; padding:5px 4px; font-size:15px; }
     .x { padding:2px 3px; }
     tr.hit td:first-child { padding-left:8px; }
   }
@@ -66,20 +80,31 @@
 </head>
 <body>
 <main>
-  <h1>Market Movers</h1>
-  <div class="sub" id="updated">Loading…</div>
+  <div class="top">
+    <div>
+      <h1>Market Movers</h1>
+      <div class="sub" id="updated">Loading…</div>
+    </div>
+    <button class="btn" id="refresh" type="button">Refresh now</button>
+  </div>
+  <div class="msg" id="refreshMsg"></div>
   <div class="banner" id="stale" hidden></div>
 
   <section class="card">
     <h2>Movers</h2>
+    <div id="movers"></div>
+    <div class="hint">A ticker is listed here when its move reaches its own "Alert at ±%" in the table below (3% if that box is blank).</div>
+  </section>
+
+  <section class="card">
+    <h2>News on movers</h2>
     <div class="controls">
-      <label for="thr">Default threshold ±</label>
-      <input type="number" id="thr" min="0" step="0.1" value="3">
-      <span>%</span>
-      <input type="range" id="rng" min="0" max="15" step="0.1" value="3" aria-label="Default threshold slider">
+      <label for="nwin">Published in the last</label>
+      <strong id="nwinVal">5 hours</strong>
+      <input type="range" id="nwin" min="1" max="12" step="1" value="5" aria-label="News window in hours">
     </div>
-    <div class="hint">Tickers with their own threshold (set in the table below) use that one instead.</div>
-    <div id="movers" style="margin-top:10px"></div>
+    <div id="news" style="margin-top:6px"></div>
+    <div class="hint" id="newsNote">Headlines from Yahoo Finance and Google News (CNBC, BNN Bloomberg, Reuters and others). They match the ticker's topic, so they are leads and not proof of why it moved.</div>
   </section>
 
   <section class="card">
@@ -89,7 +114,7 @@
       <span id="savebarText"></span>
       <button class="btn" id="saveThr" type="button" hidden>Save for all devices</button>
     </div>
-    <div class="hint">"Alert at ±%" is each ticker's own threshold. Leave it blank to use the default. Highlighted rows are past their threshold.</div>
+    <div class="hint">"Alert at ±%" is each ticker's own threshold. Leave it blank to use 3%. Highlighted rows are past their threshold. Tap a name to open it on Yahoo Finance.</div>
     <div class="msg" id="allMsg"></div>
   </section>
 
@@ -109,17 +134,20 @@
         <input type="text" id="newgrp" maxlength="40">
       </label>
       <label>Alert at ±% (optional)
-        <input type="number" id="nthr" min="0" step="0.1" placeholder="Default">
+        <input type="number" id="nthr" min="0" step="0.1" placeholder="3">
+      </label>
+      <label>News search (optional)
+        <input type="text" id="nq" maxlength="80" placeholder="e.g. gold prices">
       </label>
       <button class="btn" id="addBtn" type="submit">Add</button>
     </form>
-    <div class="hint">Find symbols by searching on <a href="https://finance.yahoo.com" target="_blank" rel="noopener">finance.yahoo.com</a>. Futures end in =F (crude CL=F, gold GC=F), currencies in =X, Canadian stocks in .TO.</div>
+    <div class="hint">Find symbols by searching on <a href="https://finance.yahoo.com" target="_blank" rel="noopener">finance.yahoo.com</a>. Futures end in =F (crude CL=F, gold GC=F), currencies in =X, Canadian stocks in .TO. The news search is what Google News looks for. If blank, the company name is used.</div>
     <div class="msg" id="addMsg"></div>
   </section>
 
   <details class="card" id="setup">
-    <summary>One-time setup to add/remove tickers from this page</summary>
-    <p>Adding a ticker saves a small change to your GitHub repository, so this page needs permission. Paste a GitHub token here once. It is stored only in this browser and never leaves it except to talk to GitHub. You'll need to do this once on each device (phone, laptop).</p>
+    <summary>One-time setup to add/remove tickers and use Refresh now</summary>
+    <p>Adding a ticker or pressing Refresh now makes a small change to your GitHub repository, so this page needs permission. Paste a GitHub token here once. It is stored only in this browser and never leaves it except to talk to GitHub. The token needs <b>Contents</b> and <b>Actions</b> set to Read and write. You'll need to do this once on each device (phone, laptop).</p>
     <div class="form">
       <label>GitHub token
         <input type="password" id="tok" placeholder="github_pat_…" autocomplete="off">
@@ -139,15 +167,21 @@
 <script>
 const $ = id => document.getElementById(id);
 const esc = s => String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const sleep = ms => new Promise(r => setTimeout(r, ms));
 const LS = {
   get(k, d = null) { try { const v = localStorage.getItem(k); return v === null ? d : v; } catch (e) { return d; } },
   set(k, v) { try { localStorage.setItem(k, v); } catch (e) {} },
   del(k) { try { localStorage.removeItem(k); } catch (e) {} }
 };
 
-let watchlist = {};   // { group: [ {symbol, name?, threshold?} ] }
-let quotes = {};      // { symbol: {price, change_pct, ...} | {error} }
+const DEFAULT_THR = 3;   // used for any ticker whose own "Alert at" box is blank
+const NEWS_SHOW = 6;     // headlines shown per mover before "Show more"
+
+let watchlist = {};   // { group: [ {symbol, name?, threshold?, news?} ] }
+let quotes = {};      // { symbol: {price, change_pct, news, ...} | {error} }
 let updatedAt = null;
+let newsHours = 5;
+const newsExpanded = new Set();
 let overrides = {};   // per-device thresholds: symbol -> number, or null meaning "use default"
 try { overrides = JSON.parse(LS.get("thr_over", "{}")) || {}; } catch (e) { overrides = {}; }
 const saveOverrides = () => LS.set("thr_over", JSON.stringify(overrides));
@@ -157,32 +191,70 @@ const fmtPrice = (v, sym = "") => /=X$/.test(sym) || v < 1 ? v.toFixed(4) : v >=
 const fmtPct = v => (v > 0 ? "+" : "") + v.toFixed(2) + "%";
 const cls = v => v > 0 ? "up" : v < 0 ? "down" : "";
 const label = (it, q) => it.name || (q && q.name) || it.symbol;
+const plural = (n, w) => n + " " + w + (n === 1 ? "" : "s");
 function setMsg(el, text, kind) { el.textContent = text; el.className = "msg" + (kind ? " " + kind : ""); }
+function ago(iso) {
+  const m = Math.max(0, Math.round((Date.now() - Date.parse(iso)) / 60000));
+  if (m < 1) return "just now";
+  if (m < 60) return m + "m ago";
+  const h = Math.floor(m / 60), r = m % 60;
+  return h + "h" + (r ? " " + r + "m" : "") + " ago";
+}
+const quoteUrl = sym => "https://finance.yahoo.com/quote/" + encodeURIComponent(sym).replace(/%3D/g, "=");
+function tickerLink(it, q, group) {
+  return `<a class="tk" href="${esc(quoteUrl(it.symbol))}" target="_blank" rel="noopener noreferrer" title="Open ${esc(it.symbol)} on Yahoo Finance"><span class="nm">${esc(label(it, q))}</span><div class="sym">${esc(it.symbol)}${group ? " · " + esc(group) : ""}</div></a>`;
+}
 
 /* ---------- thresholds ---------- */
-function defaultThr() { const v = parseFloat($("thr").value); return isNaN(v) || v < 0 ? 0 : v; }
 function baseLimit(it) { return typeof it.threshold === "number" ? it.threshold : null; }
 function customLimit(it) {
   if (Object.prototype.hasOwnProperty.call(overrides, it.symbol)) return overrides[it.symbol];
   return baseLimit(it);
 }
-function limitFor(it) { const c = customLimit(it); return c === null ? defaultThr() : c; }
+function limitFor(it) { const c = customLimit(it); return c === null ? DEFAULT_THR : c; }
 function allItems() {
   const out = [];
   for (const [g, rows] of Object.entries(watchlist)) rows.forEach(it => out.push(Object.assign({}, it, {group: g})));
   return out;
 }
 function isHit(it, q) { return !!(q && !q.error && typeof q.change_pct === "number" && Math.abs(q.change_pct) >= limitFor(it)); }
+function moverList() {
+  return allItems().map(it => ({it, q: quotes[it.symbol]})).filter(x => isHit(x.it, x.q))
+    .sort((a, b) => Math.abs(b.q.change_pct) - Math.abs(a.q.change_pct));
+}
 
 /* ---------- rendering ---------- */
 function renderMovers() {
-  const movers = allItems().map(it => ({it, q: quotes[it.symbol]})).filter(x => isHit(x.it, x.q))
-    .sort((a, b) => Math.abs(b.q.change_pct) - Math.abs(a.q.change_pct));
+  const movers = moverList();
   $("movers").innerHTML = movers.length
     ? "<table><tr><th>Name</th><th>% change</th><th>Price / value</th><th>Limit</th></tr>" +
-      movers.map(({it, q}) => `<tr><td>${esc(label(it, q))}<div class="sym">${esc(it.symbol)} · ${esc(it.group)}</div></td>
+      movers.map(({it, q}) => `<tr><td>${tickerLink(it, q, it.group)}</td>
         <td class="${cls(q.change_pct)}">${fmtPct(q.change_pct)}</td><td>${fmtPrice(q.price, it.symbol)}</td><td class="muted">±${limitFor(it)}%</td></tr>`).join("") + "</table>"
     : '<div class="empty">Nothing has moved past its threshold.</div>';
+}
+
+function renderNews() {
+  const movers = moverList(), el = $("news");
+  if (!movers.length) { el.innerHTML = '<div class="empty">No movers right now, so there is no news to show.</div>'; return; }
+  const cutoff = Date.now() - newsHours * 36e5;
+  el.innerHTML = movers.map(({it, q}) => {
+    const arts = (q.news || [])
+      .filter(a => a && /^https?:\/\//i.test(a.url || "") && Date.parse(a.published) >= cutoff)
+      .sort((a, b) => Date.parse(b.published) - Date.parse(a.published));
+    const open = newsExpanded.has(it.symbol), shown = open ? arts : arts.slice(0, NEWS_SHOW);
+    let body;
+    if (arts.length) {
+      body = '<ul class="nlist">' + shown.map(a =>
+        `<li><a href="${esc(a.url)}" target="_blank" rel="noopener noreferrer">${esc(a.title)}</a>
+         <div class="nmeta">${esc(a.source || "")} · ${ago(a.published)}${a.via ? " · via " + esc(a.via) : ""}</div></li>`).join("") + "</ul>" +
+        (arts.length > NEWS_SHOW ? `<button type="button" class="linkbtn" data-more="${esc(it.symbol)}">${open ? "Show fewer" : "Show " + (arts.length - NEWS_SHOW) + " more"}</button>` : "");
+    } else if ((q.news_errors || []).length && !(q.news || []).length) {
+      body = `<div class="empty">News couldn't be loaded for this ticker (${esc(q.news_errors.join("; "))}).</div>`;
+    } else {
+      body = `<div class="empty">No articles in the last ${plural(newsHours, "hour")}.${newsHours < 12 ? " Try sliding the window wider." : ""}</div>`;
+    }
+    return `<div class="ngroup"><div class="nhead">${tickerLink(it, q)}<span class="${cls(q.change_pct)}">${fmtPct(q.change_pct)}</span></div>${body}</div>`;
+  }).join("");
 }
 
 function renderAll() {
@@ -197,8 +269,8 @@ function renderAll() {
       if (!q) cells = '<td colspan="2" class="err">waiting for next update</td>';
       else if (q.error) cells = '<td colspan="2" class="err">no data (check the symbol)</td>';
       else cells = `<td class="${cls(q.change_pct)}">${fmtPct(q.change_pct)}</td><td>${fmtPrice(q.price, it.symbol)}</td>`;
-      h += `<tr data-sym="${esc(it.symbol)}"><td>${esc(label(it, q))}<div class="sym">${esc(it.symbol)}</div></td>${cells}
-        <td><input class="lim" type="number" min="0" step="0.1" data-sym="${esc(it.symbol)}" value="${c === null ? "" : c}" placeholder="${defaultThr()}" aria-label="Threshold for ${esc(it.symbol)}"></td>
+      h += `<tr data-sym="${esc(it.symbol)}"><td>${tickerLink(it, q)}</td>${cells}
+        <td><input class="lim" type="number" min="0" step="0.1" data-sym="${esc(it.symbol)}" value="${c === null ? "" : c}" placeholder="${DEFAULT_THR}" aria-label="Threshold for ${esc(it.symbol)}"></td>
         <td><button class="x" type="button" data-rm="${esc(it.symbol)}" title="Remove ${esc(it.symbol)}" aria-label="Remove ${esc(it.symbol)}">×</button></td></tr>`;
     }
   }
@@ -212,8 +284,6 @@ function markHits() {
   document.querySelectorAll("#all tr[data-sym]").forEach(tr => {
     const it = items[tr.dataset.sym];
     tr.classList.toggle("hit", !!(it && isHit(it, quotes[it.symbol])));
-    const inp = tr.querySelector(".lim");
-    if (inp) inp.placeholder = defaultThr();
   });
   updateSavebar();
 }
@@ -240,7 +310,7 @@ function renderHeader() {
   const ageH = (Date.now() - updatedAt) / 36e5, day = new Date().getDay();
   const stale = ageH > 80 || (day >= 2 && day <= 5 && ageH > 30);
   $("stale").hidden = !stale;
-  if (stale) $("stale").textContent = "Data is " + Math.round(ageH) + " hours old. The scheduled update may not have run.";
+  if (stale) $("stale").textContent = "Data is " + Math.round(ageH) + " hours old. The scheduled update may not have run. Try Refresh now.";
 }
 
 function refreshGroupOptions() {
@@ -249,7 +319,7 @@ function refreshGroupOptions() {
   if (prev && [...sel.options].some(o => o.value === prev)) sel.value = prev;
   $("newgrpWrap").hidden = sel.value !== "__new__";
 }
-function render() { renderMovers(); renderAll(); }
+function render() { renderMovers(); renderNews(); renderAll(); }
 
 /* ---------- data loading ---------- */
 function normalize(wl) {
@@ -260,15 +330,29 @@ function normalize(wl) {
       const it = {symbol: r.symbol.trim()};
       if (r.name) it.name = String(r.name);
       if (typeof r.threshold === "number") it.threshold = r.threshold;
+      if (r.news) it.news = String(r.news);
       return it;
     });
   }
   return out;
 }
 async function loadQuotes() {
-  const r = await fetch("data.json?t=" + Date.now(), {cache: "no-store"});
-  if (!r.ok) throw new Error("data.json " + r.status);
-  const d = await r.json();
+  let d = null;
+  // With a token, read straight from GitHub so a fresh update shows up at once
+  // instead of waiting for the website itself to be republished.
+  if (LS.get("gh_token") && repoInfo()) {
+    try {
+      const info = repoInfo();
+      const r = await fetch(`${API}/repos/${info.owner}/${info.repo}/contents/data.json?t=${Date.now()}`,
+        {headers: Object.assign(ghHeaders(), {"Accept": "application/vnd.github.raw+json"}), cache: "no-store"});
+      if (r.ok) d = await r.json();
+    } catch (e) {}
+  }
+  if (!d) {
+    const r = await fetch("data.json?t=" + Date.now(), {cache: "no-store"});
+    if (!r.ok) throw new Error("data.json " + r.status);
+    d = await r.json();
+  }
   quotes = d.quotes || {};
   updatedAt = d.updated ? new Date(d.updated) : null;
   renderHeader();
@@ -327,14 +411,46 @@ async function updateWatchlist(mutate, message) {
 async function ghDispatch() {
   try {
     const info = repoInfo();
+    if (!info) return {ok: false, status: 0};
     const rr = await fetch(`${API}/repos/${info.owner}/${info.repo}`, {headers: ghHeaders()});
     const ref = rr.ok ? (await rr.json()).default_branch : "main";
     const r = await fetch(`${API}/repos/${info.owner}/${info.repo}/actions/workflows/update.yml/dispatches`, {
       method: "POST", headers: Object.assign({"Content-Type": "application/json"}, ghHeaders()), body: JSON.stringify({ref})
     });
-    return r.status === 204;
-  } catch (e) { return false; }
+    return {ok: r.status === 204, status: r.status};
+  } catch (e) { return {ok: false, status: 0}; }
 }
+
+/* ---------- Refresh now ---------- */
+let refreshing = false;
+async function refreshNow() {
+  if (refreshing) return;
+  const msg = $("refreshMsg"), btn = $("refresh");
+  if (!LS.get("gh_token")) {
+    setMsg(msg, "To use Refresh now, finish the one-time setup at the bottom of the page first.", "err");
+    $("setup").open = true; $("setup").scrollIntoView({behavior: "smooth"});
+    return;
+  }
+  refreshing = true; btn.disabled = true; btn.textContent = "Refreshing…";
+  const done = (text, kind) => { setMsg(msg, text, kind); btn.disabled = false; btn.textContent = "Refresh now"; refreshing = false; };
+  const before = updatedAt ? updatedAt.getTime() : 0;
+  setMsg(msg, "Starting the update…");
+  const res = await ghDispatch();
+  if (!res.ok) {
+    if (res.status === 401) return done(ghError(401, "starting the update"), "err");
+    if (res.status === 403 || res.status === 404) return done("GitHub wouldn't start the update. Check the token has Actions set to Read and write, and that update.yml is in .github/workflows.", "err");
+    return done("Couldn't start the update (GitHub error " + res.status + "). Try again in a minute.", "err");
+  }
+  setMsg(msg, "Update started. This usually takes 1–2 minutes…");
+  const deadline = Date.now() + 5 * 60e3;
+  while (Date.now() < deadline) {
+    await sleep(8000);
+    try { await loadQuotes(); } catch (e) {}
+    if (updatedAt && updatedAt.getTime() > before) { render(); return done("Updated.", "ok"); }
+  }
+  done("Still waiting. The update may be queued behind another run. Reload the page in a minute or two.", "err");
+}
+$("refresh").addEventListener("click", refreshNow);
 
 /* ---------- polling for new tickers' data ---------- */
 let pollTimer = null, pollUntil = 0;
@@ -349,13 +465,22 @@ function startPolling() {
 }
 
 /* ---------- events ---------- */
-function onDefaultChange(v) {
-  $("thr").value = v; $("rng").value = Math.min(v, 15);
-  LS.set("thr", v);
-  renderMovers(); markHits();
+function setNewsHours(v) {
+  newsHours = Math.min(12, Math.max(1, parseInt(v, 10) || 5));
+  $("nwin").value = newsHours;
+  $("nwinVal").textContent = plural(newsHours, "hour");
+  LS.set("news_hours", newsHours);
+  renderNews();
 }
-$("thr").addEventListener("input", e => onDefaultChange(e.target.value));
-$("rng").addEventListener("input", e => onDefaultChange(e.target.value));
+$("nwin").addEventListener("input", e => setNewsHours(e.target.value));
+
+$("news").addEventListener("click", e => {
+  const b = e.target.closest("[data-more]");
+  if (!b) return;
+  const s = b.dataset.more;
+  newsExpanded.has(s) ? newsExpanded.delete(s) : newsExpanded.add(s);
+  renderNews();
+});
 
 $("all").addEventListener("input", e => {
   const inp = e.target.closest(".lim");
@@ -365,7 +490,7 @@ $("all").addEventListener("input", e => {
   if (inp.value.trim() === "" || isNaN(v) || v < 0) {
     if (it && baseLimit(it) !== null) overrides[s] = null; else delete overrides[s];
   } else overrides[s] = v;
-  saveOverrides(); renderMovers(); markHits();
+  saveOverrides(); renderMovers(); renderNews(); markHits();
 });
 
 $("all").addEventListener("click", async e => {
@@ -417,25 +542,27 @@ $("addForm").addEventListener("submit", async e => {
   if (group === "__new__") group = $("newgrp").value.trim();
   if (!group) { setMsg(msg, "Pick a group or type a new group name.", "err"); return; }
   const nm = $("nm").value.trim().slice(0, 60);
+  const nq = $("nq").value.trim().slice(0, 80);
   const t = $("nthr").value.trim(), thr = t === "" ? null : parseFloat(t);
   if (thr !== null && (isNaN(thr) || thr < 0)) { setMsg(msg, "The threshold must be a number of 0 or more.", "err"); return; }
   const btn = $("addBtn");
   btn.disabled = true; setMsg(msg, "Saving " + sym + "…");
   try {
     await updateWatchlist(wl => {
-      if (Object.values(wl).some(rows => rows.some(x => String(x.symbol).toUpperCase() === sym))) throw new Error(sym + " is already on your list.");
+      if (Object.values(wl).some(rows => Array.isArray(rows) && rows.some(x => String(x.symbol).toUpperCase() === sym))) throw new Error(sym + " is already on your list.");
       if (!Array.isArray(wl[group])) wl[group] = [];
       const item = {symbol: sym};
       if (nm) item.name = nm;
       if (thr !== null) item.threshold = thr;
+      if (nq) item.news = nq;
       wl[group].push(item);
     }, "Add " + sym);
-    $("sym").value = ""; $("nm").value = ""; $("nthr").value = ""; $("newgrp").value = "";
+    $("sym").value = ""; $("nm").value = ""; $("nthr").value = ""; $("nq").value = ""; $("newgrp").value = "";
     refreshGroupOptions(); render();
-    const started = await ghDispatch();
+    const started = (await ghDispatch()).ok;
     setMsg(msg, started
-      ? "Added " + sym + ". Its data is being fetched now and should appear in about 2–4 minutes. This page checks automatically."
-      : "Added " + sym + ", but the update couldn't be started automatically. It will fill in at the next scheduled run, or press Run workflow in the Actions tab.", "ok");
+      ? "Added " + sym + ". Its data is being fetched now and should appear in about 1–3 minutes. This page checks automatically."
+      : "Added " + sym + ", but the update couldn't be started automatically. Press Refresh now at the top, or it will fill in at the next scheduled update.", "ok");
     startPolling();
   } catch (err) { setMsg(msg, err.message, "err"); }
   finally { btn.disabled = false; }
@@ -455,8 +582,8 @@ $("saveTok").addEventListener("click", async () => {
   try {
     const r = await fetch(`${API}/repos/${info.owner}/${info.repo}`, {headers: ghHeaders()});
     if (r.ok) {
-      setMsg(msg, `Connected to ${info.owner}/${info.repo}. You can now add and remove tickers.`, "ok");
-      try { await loadWatchlist(); refreshGroupOptions(); render(); } catch (e) {}
+      setMsg(msg, `Connected to ${info.owner}/${info.repo}. You can now add and remove tickers and use Refresh now.`, "ok");
+      try { await loadWatchlist(); await loadQuotes(); refreshGroupOptions(); render(); } catch (e) {}
     } else setMsg(msg, ghError(r.status, "opening the repository"), "err");
   } catch (e) { setMsg(msg, "Couldn't reach GitHub. Check your internet connection.", "err"); }
 });
@@ -466,8 +593,7 @@ $("clearTok").addEventListener("click", () => {
 
 /* ---------- start ---------- */
 (async function init() {
-  const s = LS.get("thr");
-  if (s !== null && !isNaN(parseFloat(s))) { $("thr").value = s; $("rng").value = Math.min(parseFloat(s), 15); }
+  setNewsHours(LS.get("news_hours", 5));
   const rp = LS.get("gh_repo"); if (rp) $("repoIn").value = rp;
   if (LS.get("gh_token")) setMsg($("tokMsg"), "A token is saved in this browser.", "ok");
   try { await loadWatchlist(); }
