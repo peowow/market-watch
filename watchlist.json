@@ -2,11 +2,13 @@
   "Commodities": [
     {
       "symbol": "CL=F",
-      "name": "Crude Oil (WTI)"
+      "name": "Crude Oil (WTI)",
+      "threshold": 2
     },
     {
       "symbol": "NG=F",
-      "name": "Natural Gas"
+      "name": "Natural Gas",
+      "threshold": 2
     }
   ],
   "Financials": [
@@ -16,29 +18,34 @@
     },
     {
       "symbol": "CADUSD=X",
-      "name": "CAD/USD"
+      "name": "CAD/USD",
+      "threshold": 0.25
     }
   ],
   "Equities": [
     {
       "symbol": "VET",
-      "name": "Vermilion Energy (VET)"
+      "name": "Vermilion Energy (VET)",
+      "threshold": 3
     },
     {
       "symbol": "VG",
       "name": "Venture Global (VG)",
-      "threshold": 0.1
+      "threshold": 3
     },
     {
       "symbol": "AMD",
-      "name": "AMD"
+      "name": "AMD",
+      "threshold": 3
     },
     {
       "symbol": "TM",
-      "name": "Toyota Motor (TM)"
+      "name": "Toyota Motor (TM)",
+      "threshold": 2
     },
     {
-      "symbol": "CLS"
+      "symbol": "CLS",
+      "threshold": 3
     }
   ]
 }
