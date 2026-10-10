@@ -47,10 +47,30 @@ jobs:
         run: python fetch_data.py
       - name: Commit updated data
         if: steps.gate.outputs.go == 'true'
+        env:
+          BRANCH: ${{ github.event.repository.default_branch || 'main' }}
         run: |
+          # Always put the fresh data.json on top of the newest version of the repo.
+          # (The old "pull --rebase" could hit a merge conflict if the repo had moved on,
+          # for example when an old run is re-run with "Re-run jobs".)
           git config user.name "market-watch-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add data.json
-          git diff --staged --quiet || git commit -m "Update data"
-          git pull --rebase
-          git push
+          cp data.json "$RUNNER_TEMP/data.json"
+          for attempt in 1 2 3; do
+            git fetch origin "$BRANCH"
+            git reset --hard "origin/$BRANCH"
+            cp "$RUNNER_TEMP/data.json" data.json
+            git add data.json
+            if git diff --staged --quiet; then
+              echo "No change to save."
+              exit 0
+            fi
+            git commit -m "Update data"
+            if git push origin "HEAD:$BRANCH"; then
+              exit 0
+            fi
+            echo "Push failed (attempt $attempt of 3). Trying again..."
+            sleep 3
+          done
+          echo "Could not save data.json after 3 attempts."
+          exit 1
