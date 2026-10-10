@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Market Movers</title>
+<style>
+  :root { --bg:#f6f7f9; --card:#fff; --text:#16181d; --muted:#6b7280; --line:#e5e7eb; --up:#0a7d3b; --down:#c62828; --accent:#2f5bea; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#0f1115; --card:#181b21; --text:#eceef2; --muted:#9aa1ad; --line:#2a2f38; --up:#4cd28a; --down:#ff6b6b; --accent:#7c9bff; }
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--text); font:15px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif; }
+  main { max-width:760px; margin:0 auto; padding:16px; }
+  h1 { font-size:20px; margin:8px 0 2px; }
+  h2 { font-size:15px; margin:0 0 10px; }
+  .sub { color:var(--muted); font-size:13px; margin-bottom:14px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:14px; margin-bottom:16px; }
+  .controls { display:flex; align-items:center; gap:10px; flex-wrap:wrap; }
+  .controls input[type=number] { width:80px; padding:6px 8px; font-size:16px; border:1px solid var(--line); border-radius:8px; background:var(--bg); color:var(--text); }
+  .controls input[type=range] { flex:1; min-width:140px; accent-color:var(--accent); }
+  table { width:100%; border-collapse:collapse; }
+  th, td { padding:8px 6px; text-align:right; border-bottom:1px solid var(--line); font-variant-numeric:tabular-nums; }
+  th:first-child, td:first-child { text-align:left; }
+  th { color:var(--muted); font-weight:600; font-size:12px; text-transform:uppercase; letter-spacing:.03em; }
+  tr:last-child td { border-bottom:none; }
+  tr.group td { text-align:left; background:var(--bg); color:var(--muted); font-weight:700; font-size:12px; text-transform:uppercase; letter-spacing:.05em; }
+  .up { color:var(--up); } .down { color:var(--down); }
+  .sym { color:var(--muted); font-size:12px; }
+  .empty { color:var(--muted); padding:8px 0; }
+  .err { color:var(--muted); font-style:italic; }
+  .banner { background:#fff3cd; color:#664d03; border-radius:8px; padding:8px 12px; margin-bottom:12px; font-size:13px; display:none; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Market Movers</h1>
+  <div class="sub" id="updated">Loading…</div>
+  <div class="banner" id="stale"></div>
+
+  <section class="card">
+    <h2>Movers (at or beyond threshold)</h2>
+    <div class="controls">
+      <label for="thr">Threshold ±</label>
+      <input type="number" id="thr" min="0" step="0.1" value="3">
+      <span>%</span>
+      <input type="range" id="rng" min="0" max="15" step="0.1" value="3" aria-label="Threshold slider">
+    </div>
+    <div id="movers" style="margin-top:10px"></div>
+  </section>
+
+  <section class="card">
+    <h2>All tickers</h2>
+    <div id="all"></div>
+  </section>
+</main>
+
+<script>
+const $ = id => document.getElementById(id);
+let data = null;
+
+const fmtPrice = v => v >= 1000 ? v.toLocaleString(undefined,{maximumFractionDigits:2})
+                    : v >= 10 ? v.toFixed(2) : v.toFixed(4);
+const fmtPct = v => (v > 0 ? "+" : "") + v.toFixed(2) + "%";
+const cls = v => v > 0 ? "up" : v < 0 ? "down" : "";
+
+function row(r, group) {
+  if (r.error) return `<tr><td>${r.name}<div class="sym">${r.symbol}</div></td><td colspan="2" class="err">no data</td></tr>`;
+  return `<tr><td>${r.name}<div class="sym">${r.symbol}${group ? " · " + group : ""}</div></td>
+    <td class="${cls(r.change_pct)}">${fmtPct(r.change_pct)}</td><td>${fmtPrice(r.price)}</td></tr>`;
+}
+const head = "<tr><th>Name</th><th>% change</th><th>Price / value</th></tr>";
+
+function render() {
+  if (!data) return;
+  const thr = parseFloat($("thr").value) || 0;
+  const all = [];
+  for (const [g, rows] of Object.entries(data.groups)) rows.forEach(r => all.push({...r, group: g}));
+  const movers = all.filter(r => !r.error && Math.abs(r.change_pct) >= thr)
+                    .sort((a,b) => Math.abs(b.change_pct) - Math.abs(a.change_pct));
+  $("movers").innerHTML = movers.length
+    ? `<table>${head}${movers.map(r => row(r, r.group)).join("")}</table>`
+    : `<div class="empty">Nothing moved ${thr}% or more.</div>`;
+
+  $("all").innerHTML = "<table>" + head + Object.entries(data.groups).map(([g, rows]) =>
+    `<tr class="group"><td colspan="3">${g}</td></tr>` + rows.map(r => row(r)).join("")).join("") + "</table>";
+}
+
+function setThreshold(v) {
+  $("thr").value = v; $("rng").value = Math.min(v, 15);
+  try { localStorage.setItem("thr", v); } catch (e) {}
+  render();
+}
+$("thr").addEventListener("input", e => setThreshold(e.target.value));
+$("rng").addEventListener("input", e => setThreshold(e.target.value));
+try { const s = localStorage.getItem("thr"); if (s !== null) { $("thr").value = s; $("rng").value = Math.min(s, 15); } } catch (e) {}
+
+fetch("data.json?t=" + Date.now()).then(r => r.json()).then(d => {
+  data = d;
+  const when = new Date(d.updated);
+  $("updated").textContent = "Last updated " + when.toLocaleString([], {weekday:"short", hour:"numeric", minute:"2-digit", timeZoneName:"short"})
+    + " · % change is vs. previous close";
+  const ageH = (Date.now() - when) / 36e5;
+  if (ageH > 30) { $("stale").style.display = "block"; $("stale").textContent = "Data is " + Math.round(ageH) + " hours old. The scheduled update may not have run."; }
+  render();
+}).catch(() => { $("updated").textContent = "Couldn't load data.json yet. Run the update workflow first."; });
+</script>
+</body>
+</html>

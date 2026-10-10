@@ -1,0 +1,16 @@
+{
+  "Commodities": [
+    {"symbol": "CL=F", "name": "Crude Oil (WTI)"},
+    {"symbol": "NG=F", "name": "Natural Gas"}
+  ],
+  "Financials": [
+    {"symbol": "^TNX", "name": "US 10-Year Treasury Yield (%)"},
+    {"symbol": "CADUSD=X", "name": "CAD/USD"}
+  ],
+  "Equities": [
+    {"symbol": "VET", "name": "Vermilion Energy (VET)"},
+    {"symbol": "VG", "name": "Venture Global (VG)"},
+    {"symbol": "AMD", "name": "AMD"},
+    {"symbol": "TM", "name": "Toyota Motor (TM)"}
+  ]
+}
