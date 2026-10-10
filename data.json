@@ -1,0 +1,75 @@
+{
+  "updated": "2026-10-10T17:56:07.060003+00:00",
+  "groups": {
+    "Commodities": [
+      {
+        "symbol": "CL=F",
+        "name": "Crude Oil (WTI)",
+        "price": 91.85,
+        "prev_close": 91.49,
+        "change_pct": 0.393,
+        "quote_time": "2026-10-09T16:55:00-04:00"
+      },
+      {
+        "symbol": "NG=F",
+        "name": "Natural Gas",
+        "price": 3.22,
+        "prev_close": 3.168,
+        "change_pct": 1.641,
+        "quote_time": "2026-10-09T17:00:00-04:00"
+      }
+    ],
+    "Financials": [
+      {
+        "symbol": "^TNX",
+        "name": "US 10-Year Treasury Yield (%)",
+        "price": 5.244,
+        "prev_close": 5.231,
+        "change_pct": 0.249,
+        "quote_time": "2026-10-09T13:55:00-05:00"
+      },
+      {
+        "symbol": "CADUSD=X",
+        "name": "CAD/USD",
+        "price": 0.7016,
+        "prev_close": 0.7014,
+        "change_pct": 0.027,
+        "quote_time": "2026-10-09T22:00:00+01:00"
+      }
+    ],
+    "Equities": [
+      {
+        "symbol": "VET",
+        "name": "Vermilion Energy (VET)",
+        "price": 11.87,
+        "prev_close": 11.86,
+        "change_pct": 0.084,
+        "quote_time": "2026-10-09T17:30:00-04:00"
+      },
+      {
+        "symbol": "VG",
+        "name": "Venture Global (VG)",
+        "price": 13.18,
+        "prev_close": 13.29,
+        "change_pct": -0.828,
+        "quote_time": "2026-10-09T20:00:00-04:00"
+      },
+      {
+        "symbol": "AMD",
+        "name": "AMD",
+        "price": 608.4943,
+        "prev_close": 620.68,
+        "change_pct": -1.963,
+        "quote_time": "2026-10-09T19:55:00-04:00"
+      },
+      {
+        "symbol": "TM",
+        "name": "Toyota Motor (TM)",
+        "price": 185.7,
+        "prev_close": 186.0,
+        "change_pct": -0.161,
+        "quote_time": "2026-10-09T19:50:00-04:00"
+      }
+    ]
+  }
+}
