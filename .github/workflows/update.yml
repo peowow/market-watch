@@ -2,12 +2,15 @@ name: Update market data
 
 on:
   schedule:
-    # GitHub cron is in UTC. These are 7:00, 8:30 and 9:15 am Eastern during
-    # daylight time (until early Nov); shift by one hour after the clocks change.
-    - cron: "0 11 * * 1-5"
-    - cron: "30 12 * * 1-5"
-    - cron: "15 13 * * 1-5"
-  workflow_dispatch: # lets you press "Run workflow" (or the page can start it)
+    # 6:00 am and 6:00 pm Eastern, Monday to Friday.
+    # GitHub schedules in UTC, and the UTC time shifts by an hour when the clocks
+    # change, so both possibilities are listed. The first step below checks the
+    # real Toronto time and skips the wrong one, so nothing needs changing in November.
+    - cron: "0 10 * * 1-5"   # 6 am during daylight time
+    - cron: "0 11 * * 1-5"   # 6 am during standard time
+    - cron: "0 22 * * 1-5"   # 6 pm during daylight time
+    - cron: "0 23 * * 1-5"   # 6 pm during standard time
+  workflow_dispatch: # the "Run workflow" button, and the page's Refresh now button
 
 permissions:
   contents: write
@@ -20,13 +23,30 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
+      - name: Check it is 6 am or 6 pm Eastern (or a manual run)
+        id: gate
+        run: |
+          HOUR=$(TZ=America/Toronto date +%H)
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "$HOUR" = "06" ] || [ "$HOUR" = "18" ]; then
+            echo "go=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "go=false" >> "$GITHUB_OUTPUT"
+            echo "Toronto hour is $HOUR, not 06 or 18 - skipping this run."
+          fi
       - uses: actions/checkout@v4
+        if: steps.gate.outputs.go == 'true'
       - uses: actions/setup-python@v5
+        if: steps.gate.outputs.go == 'true'
         with:
           python-version: "3.12"
-      - run: pip install yfinance
-      - run: python fetch_data.py
+      - name: Install yfinance
+        if: steps.gate.outputs.go == 'true'
+        run: pip install yfinance
+      - name: Fetch prices and news
+        if: steps.gate.outputs.go == 'true'
+        run: python fetch_data.py
       - name: Commit updated data
+        if: steps.gate.outputs.go == 'true'
         run: |
           git config user.name "market-watch-bot"
           git config user.email "bot@users.noreply.github.com"
