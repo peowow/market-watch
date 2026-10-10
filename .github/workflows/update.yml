@@ -1,0 +1,31 @@
+name: Update market data
+
+on:
+  schedule:
+    # GitHub cron is in UTC. These are 7:00, 8:30 and 9:15 am Eastern during
+    # daylight time (until early Nov); shift by one hour after the clocks change.
+    - cron: "0 11 * * 1-5"
+    - cron: "30 12 * * 1-5"
+    - cron: "15 13 * * 1-5"
+  workflow_dispatch: # lets you press "Run workflow" to test it manually
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install yfinance
+      - run: python fetch_data.py
+      - name: Commit updated data
+        run: |
+          git config user.name "market-watch-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data.json
+          git diff --staged --quiet || git commit -m "Update data"
+          git push
