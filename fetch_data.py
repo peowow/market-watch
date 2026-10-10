@@ -1,5 +1,6 @@
-"""Fetch latest prices (including pre-market where Yahoo provides it) and
-write data.json with % change vs. the previous regular-session close."""
+"""Fetch latest prices (including pre-market where Yahoo provides it) for every
+ticker in watchlist.json and write data.json with % change vs. the previous
+regular-session close."""
 import json
 import sys
 from datetime import datetime, timezone
@@ -16,7 +17,7 @@ def fetch(symbol):
     daily = t.history(period="10d", interval="1d", prepost=False)
     intraday = t.history(period="2d", interval="5m", prepost=True)
     if daily.empty:
-        raise ValueError("no daily data")
+        raise ValueError("no data from Yahoo for this symbol")
     if intraday.empty:
         price, ts = float(daily["Close"].iloc[-1]), daily.index[-1]
     else:
@@ -37,23 +38,35 @@ def fetch(symbol):
     }
 
 
-out = {"updated": datetime.now(timezone.utc).isoformat(), "groups": {}}
-failures = 0
+def lookup_name(symbol):
+    """Used only when a ticker was added without a display name."""
+    try:
+        info = yf.Ticker(symbol).get_info()
+        return info.get("shortName") or info.get("longName")
+    except Exception:
+        return None
+
+
+out = {"updated": datetime.now(timezone.utc).isoformat(), "quotes": {}}
+total = failures = 0
 for group, items in watchlist.items():
-    rows = []
+    if not isinstance(items, list):
+        continue
     for item in items:
-        row = {"symbol": item["symbol"], "name": item["name"]}
+        symbol = str(item.get("symbol", "")).strip()
+        if not symbol or symbol in out["quotes"]:
+            continue
+        total += 1
         try:
-            row.update(fetch(item["symbol"]))
+            quote = fetch(symbol)
         except Exception as e:  # keep going so one bad symbol doesn't kill the run
-            row["error"] = str(e)
+            quote = {"error": str(e)}
             failures += 1
-            print(f"FAILED {item['symbol']}: {e}", file=sys.stderr)
-        rows.append(row)
-    out["groups"][group] = rows
+            print(f"FAILED {symbol}: {e}", file=sys.stderr)
+        quote["name"] = item.get("name") or lookup_name(symbol) or symbol
+        out["quotes"][symbol] = quote
 
 (ROOT / "data.json").write_text(json.dumps(out, indent=2))
-total = sum(len(v) for v in watchlist.values())
 print(f"Wrote data.json ({total - failures}/{total} symbols OK)")
-if failures == total:
+if total and failures == total:
     sys.exit(1)
