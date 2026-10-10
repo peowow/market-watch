@@ -10,6 +10,7 @@ import json
 import re
 import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -146,15 +147,48 @@ def news_query(item, name):
     return cleaned or sym
 
 
+RETRY_DELAYS = (3, 8)  # seconds to wait before the 2nd and 3rd try
+
+
+def http_status(e):
+    """HTTP status code behind an error, whether it came from urllib or requests."""
+    if isinstance(e, urllib.error.HTTPError):
+        return e.code
+    return getattr(getattr(e, "response", None), "status_code", None)
+
+
+def describe_error(e):
+    code = http_status(e)
+    return f"HTTP {code}" if code else type(e).__name__
+
+
+def retryable(e):
+    code = http_status(e)
+    if code:
+        return code == 429 or code >= 500  # rate-limited or the site had a hiccup
+    return isinstance(e, (urllib.error.URLError, TimeoutError, ConnectionError)) or "RateLimit" in type(e).__name__
+
+
+def with_retries(fn):
+    for i in range(len(RETRY_DELAYS) + 1):
+        try:
+            return fn()
+        except Exception as e:
+            if i == len(RETRY_DELAYS) or not retryable(e):
+                raise
+            print(f"  {describe_error(e)}, retrying in {RETRY_DELAYS[i]}s", file=sys.stderr)
+            time.sleep(RETRY_DELAYS[i])
+
+
 def collect_news(symbol, query, now=None):
     now = now or datetime.now(timezone.utc)
     cutoff = now - timedelta(hours=NEWS_HOURS)
     found, errors = [], []
     for label, getter in (("Yahoo", lambda: yahoo_news(symbol)), ("Google News", lambda: google_news(query))):
         try:
-            found += getter()
+            found += with_retries(getter)
         except Exception as e:
-            errors.append(f"{label}: {type(e).__name__}")
+            errors.append(f"{label}: {describe_error(e)}")
             print(f"NEWS {label} failed for {symbol}: {e}", file=sys.stderr)
     seen, out = set(), []
     for a in sorted(found, key=lambda a: a["when"], reverse=True):
