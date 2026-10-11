@@ -3,23 +3,24 @@
     {
       "symbol": "CL=F",
       "name": "Crude Oil (WTI)",
-      "threshold": 2
+      "threshold": 3
     },
     {
       "symbol": "NG=F",
       "name": "Natural Gas",
-      "threshold": 2
+      "threshold": 3
     }
   ],
   "Financials": [
     {
       "symbol": "^TNX",
-      "name": "US 10-Year Treasury Yield (%)"
+      "name": "US 10-Year Treasury Yield (%)",
+      "threshold": 0.35
     },
     {
       "symbol": "CADUSD=X",
       "name": "CAD/USD",
-      "threshold": 0.25
+      "threshold": 0.35
     }
   ],
   "Equities": [
@@ -41,7 +42,7 @@
     {
       "symbol": "TM",
       "name": "Toyota Motor (TM)",
-      "threshold": 2
+      "threshold": 3
     },
     {
       "symbol": "CLS",
