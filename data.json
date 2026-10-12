@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-12T14:53:22.443879+00:00",
+  "updated": "2026-10-12T14:54:13.739641+00:00",
   "quotes": {
     "CL=F": {
-      "price": 93.85,
+      "price": 93.84,
       "prev_close": 91.85,
-      "change_pct": 2.177,
+      "change_pct": 2.167,
       "quote_time": "2026-10-12T10:40:00-04:00",
       "name": "Crude Oil (WTI)",
       "news": [
@@ -130,6 +130,13 @@
           "via": "Google News"
         },
         {
+          "title": "Oil Prices Settle More Than 1% Higher, Log Strongest Month Since March",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa1hxYUNYOVNkdlVySWM0cDd2VnBIOFY5MU56eWRhTzZvSjNBNDFjYzhzSnB2TS03V01tTUtRMU9pZURsaVdUR3BGa0VIS3VwMTA3QVR6ZWdEOGtyT1BNRUxqUXNyRnBsU2J1Mk10bjZtazlFelZCek8zSy1obXN5VzBGQlU3bnhzWHU2QU1xdGM?oc=5",
+          "source": "EnergyNow.com",
+          "published": "2026-10-12T13:51:05+00:00",
+          "via": "Google News"
+        },
+        {
           "title": "Europe faces another year of high gas prices as storage reserves run low",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWk5MRHhHWWNmcEpEeEdiM0xXWjJpYXU4QXp5N2FBWDZsZ0ZIZGtGRktSeUoxbmFoUDFkbDRmenBfbGx5T0F5RjRvbTNqNzRyWGRsTDRuOTRlYTRsa3d2MU9JUnlZNk1zcl9zNkRwblZhZEVHanVDb0pZLWpTWEpicVZuaGtXUC01SnBNXzhhVkdQcXlBVmVPMA?oc=5",
           "source": "Latest news from Azerbaijan",
@@ -177,13 +184,6 @@
           "source": "KTVB",
           "published": "2026-10-12T12:48:00+00:00",
           "via": "Google News"
-        },
-        {
-          "title": "US economic gloom could spell political doom for Republicans in midterms",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWlhycnhJT0U3WmZxV2NNYlNQTmtZbUcyMEFQOHgwbk1YZEhjclQ2T0FkelZKQmY5ODhicFVZUDJnbVc5ekZsV3BiNEU3Wm13VEJrbXA0ZVdpSHlqTFB5cGx6N3lhRGExd3F5Vm1uRHJDeEVHZ2FKNzdWRmFnQ0swcXpCelc4ZGdVR2p6dXFaTFNGWFRDOGRUMEhQZlMzdDFfS0ZqS3k5OGlaaG9UQzJnLWI4cw?oc=5",
-          "source": "Baltimore Sun",
-          "published": "2026-10-12T12:44:07+00:00",
-          "via": "Google News"
         }
       ]
     },
@@ -191,13 +191,6 @@
       "error": "no data from Yahoo for this symbol",
       "name": "TTF",
       "news": [
-        {
-          "title": "Dry Freight Route (Prompt) Brazil to Qingdao (Panamax) (Platts) Futures Price Chart \u2014 NYMEX:DFD1!",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YcUNmZGhJbE5PTllBUE03UVdpamZfRC01SndpVkVDdk1wLWF2N1RqTTlIUGV4VEtrZVRSWWxsZW40dkhtcXZacDN5NzU0aUcwVGM2b3F3cU9ZaHg4?oc=5",
-          "source": "TradingView",
-          "published": "2026-10-12T14:17:21+00:00",
-          "via": "Google News"
-        },
         {
           "title": "European gas prices rise 1.8% amid LNG supply concerns",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhbU5PODFWM0FLbkJJdkhxSGd3R010THQ2NTVWZlhJWnpUN2V5VU13YWx4cnpSTHliaGNMck84UC1BWExoLW9idTNDZEJDMUlwZHFJLXJLc2pvcmM?oc=5",
@@ -243,10 +236,10 @@
       "name": "US 10-Year Treasury Yield (%)",
       "news": [
         {
-          "title": "US yield surge triggers mortgage hedging, adds to bond market pressure",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDF3em5PS0NkZ3ZlcnJlQktDOFBTQjlhZmhpYWJ1WHRyRWlyX1dQbTJRd0FqMk52WU1zZGNvVDdJcnNCUFllLUlnUVBPVzREd3VESXpXU1dLWFpZeVQweW1RYUlqRmtfbk1DYVJ2UWt0dDVrcGUtM282UXNyR0IxejBkLWZFdHg0VF9TenZDMUc4bDZldkk0Uk82WVFObDVST2NsWE9wT0RxZF9jY1RVQg?oc=5",
-          "source": "Reuters",
-          "published": "2026-10-12T14:40:58+00:00",
+          "title": "Analysis-US yield surge triggers mortgage hedging, adds to bond market pressure",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XXzVINkUwOC1RTWZEOXJWMlN4WkhVLXJJQ01ZWTBHZjFvVFUtLUpKakZoVnVlSUl5R3VVcXRMR3pzbE44WWtZT0d4N05vRjlSaDZ3OVQ5Mmo5S0R3RGZ5WU1KUEJPSDJYWXBxcEN6ZHFLcThEN3hmY3BUdU51UHM?oc=5",
+          "source": "Bradenton Herald",
+          "published": "2026-10-12T14:51:09+00:00",
           "via": "Google News"
         },
         {
@@ -285,13 +278,6 @@
           "via": "Google News"
         },
         {
-          "title": "Global Bond Yields Turn Lower",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTFpfSFJVQXNZSERFMG4yaFVObVdNdkZZay1Td0VpbE14enhKd1g2dW5NNldSWU5VR3FFWHFHRXowZmlmSjNya256OUVMOXVFbFVpRGstSlNWbVpaX2NESWF1QUYyTXBfWldfZVhlcUFxN2NSZG16MW42RkhxOUthMFhzYXFUV2hibENLazMyX19pTVNydXNkMExveWxsWktCQUtFZGcyQWJZcmZNb3RtTkQ3M3lKTkpxcXc?oc=5",
-          "source": "WSJ",
-          "published": "2026-10-12T13:08:50+00:00",
-          "via": "Google News"
-        },
-        {
           "title": "Ray Dalio Says the AI Bubble Is Close to Bursting. A Strategist Says Zombie Companies Are the Real Risk",
           "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNS3lVandMYnVtTmstM3FOTmM1ZHFZOHlfRDhRR2VkeFFpX3hXVE9mRGxBRVcwcDYwZ21HdmRTQ1V4V0hoQkhRc05JZWlSMUcxa1d0TG5lOWxaYlhQbE5kMHNXZldkMGdabUJaODNaalpSWDVkQV9ZLVpleVVXd2NEVUVmQXN5SFU4MU9GT1RSZy1MODM3cE1Ec0Q2VnJBazhkNnN4eDd0THhLazhEUzdLaGVxNm5yTWFON1Rjb2RJendGR3ZTeDJaSEpWeDNjWTE1SHhqYndJeE5RREN2Y0tqWVltV3RZVEFLZmZudDkxU0xyV3c?oc=5",
           "source": "TradingView",
@@ -303,6 +289,13 @@
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RWGJoNHBCS1FlbVlieGRPRXFPaXhpdjNLcGd1bF8tZWNuVnh5Mk1SSE5haFFaLWxPU2dyWF9FRlN4SlN3RzdRYk9pWnJBRFA0Szdua3ZIY0lUcENTS19EVGhXalE5amRaRWx6cG83NTRIRFBubFE?oc=5",
           "source": "BigGo Finance",
           "published": "2026-10-12T12:35:00+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Why Economists Think Higher Bond Yields Are Here to Stay",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY3JyY05BTFdaaUVtQlJmc1A2RG56ZUNseXNLblJmVG5xTmZaOHNxUnhxbGJROUVacWx0SkFGT2NiaXU3dEUzOEVKdVNXWU5FejVYQnNRT2tab09QWDd3Y1NJWEFRbG5BVlEwQnNYWUR2cFVlLWJEUENHTzkxRjVNQUhYem0?oc=5",
+          "source": "WSJ",
+          "published": "2026-10-12T12:31:28+00:00",
           "via": "Google News"
         },
         {
@@ -329,9 +322,9 @@
       ]
     },
     "CADUSD=X": {
-      "price": 0.7007,
+      "price": 0.7008,
       "prev_close": 0.7031,
-      "change_pct": -0.328,
+      "change_pct": -0.324,
       "quote_time": "2026-10-12T15:50:00+01:00",
       "name": "CAD/USD",
       "news": [
@@ -366,9 +359,9 @@
       ]
     },
     "VET": {
-      "price": 11.91,
+      "price": 11.905,
       "prev_close": 11.87,
-      "change_pct": 0.337,
+      "change_pct": 0.295,
       "quote_time": "2026-10-12T10:50:00-04:00",
       "name": "Vermilion Energy (VET)",
       "news": [
@@ -389,9 +382,9 @@
       ]
     },
     "VG": {
-      "price": 13.235,
+      "price": 13.22,
       "prev_close": 13.16,
-      "change_pct": 0.57,
+      "change_pct": 0.456,
       "quote_time": "2026-10-12T10:50:00-04:00",
       "name": "Venture Global (VG)",
       "news": [
@@ -417,13 +410,6 @@
           "via": "Google News"
         },
         {
-          "title": "The South African businessman who created a globally renowned private jet business and then sold it to Warren Buffett",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUjl3Uzd4UXZITllBTFBNbDhZOWFZS0JBaHd6dWhJUmhDU05VaVdUSDd4MkZhMExTZHhzTEFhR1VhN3BhNWJoSlVuN2hVaktTbURvc1pUVjIwSzU4aHprS3NjRExoWVk1SVFMa2pabXlUVWNVRDYxTXBpRUNHSDFIdTRoSVhpYUZRYXJ3RmMzTC1TdS1QWGxMTUhISnhGeF9oRERBZmVTMHlUWjhYck41TklxRkN3WE9oUVRnRzh2ejlqb3o1Sk9fQjdNSVlxd1M2R3VKd1NZVWVSc09CT0lHTnFyUWZYMU5lSkZv?oc=5",
-          "source": "newsday.co.za",
-          "published": "2026-10-12T13:36:54+00:00",
-          "via": "Google News"
-        },
-        {
           "title": "Rooted Owl Welcomes Pawsible Ventures Co-Founder Alex Chieng to Advisory Board",
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTkU4QmFVZ1Bqck1RUnNyVHJDRnRveHE3STVScHZzUktZTXZCcWJVQ2h4dDE2TUQwRXRjUUo5SmFvU0tmeFptZUI1LTVPcEl3N3ZleGRKSGxfcFMzbGZ5Vktab3Exb1d2UjVXUGRmZjBmTFdDMTJhTm5HM2xHTndzNENBeHBoWUxCMXN6WVJyeWlaZUJGRlYzV2hrUldJejFhNkVtRFRVRlhwb3ZqY1lxYVlaQkhBczV2MlU5Q2gxVEstMXdxXzdUYWx0eW83TFRBbnNVSw?oc=5",
           "source": "StreetInsider",
@@ -435,6 +421,13 @@
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WeXZyNWpVYjllUlJHYWlGWFQ2VnZtclgyV0tmeHQ3cTNYSXJNbUdxTFdsQlJ0N2FjdExqZEpTWG10RUlNSkM3bWM4OWdadVAxTms1TzkxZVhLSWRRM1BLR1B3?oc=5",
           "source": "Ynetnews",
           "published": "2026-10-12T13:18:47+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Garuda Aerospace completes pre-IPO round; Karkhana.io raises venture debt",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVGxxbm96TEFuSUVzQ1c3Z1pkeFVKbmdBTTNEeEdqMXlGXzQwcWlWOGdpaEotQzNTMlFDbW9OeC16aU1YWXlncGxBa0xYY291MGNhY0MxNnliakFfUXJMZC10YWdnXzRZV2VRdF9Wbk1ISHl3X0ZYd3RidjBSajQtTk5fbjA4VEdPX0taazgxOWZaejlJTV9BNnRicTRDU0hrLV9hV9IBpAFBVV95cUxNVGxxbm96TEFuSUVzQ1c3Z1pkeFVKbmdBTTNEeEdqMXlGXzQwcWlWOGdpaEotQzNTMlFDbW9OeC16aU1YWXlncGxBa0xYY291MGNhY0MxNnliakFfUXJMZC10YWdnXzRZV2VRdF9Wbk1ISHl3X0ZYd3RidjBSajQtTk5fbjA4VEdPX0taazgxOWZaejlJTV9BNnRicTRDU0hrLV9hVw?oc=5",
+          "source": "VCCircle",
+          "published": "2026-10-12T13:18:40+00:00",
           "via": "Google News"
         },
         {
@@ -482,9 +475,9 @@
       ]
     },
     "AMD": {
-      "price": 587.985,
+      "price": 588.29,
       "prev_close": 608.1,
-      "change_pct": -3.308,
+      "change_pct": -3.258,
       "quote_time": "2026-10-12T10:50:00-04:00",
       "name": "AMD",
       "news": [
@@ -567,8 +560,8 @@
         },
         {
           "title": "IJM bags RM1.23 bil contract to build AT&S semiconductor manufacturing facilities in Kedah",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fX2l0cjNia0lhNjNtYTBTSE9UbWhNYXpTdjlGV3A0c3JMUDJSbHVURWZaSWVzQ1o5TTB5aUVFeHI1dVJGc29LcVNHbXFQUVV4?oc=5",
-          "source": "The Edge Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNWhtV1h4Zm9JTExTMHRIZnJpc0hJekczdzdVekx3aG9yNE1XTnNBdmt2THBmT0F1YzdRbGtOLTJtU1IyY1dxVG5hTkRydk1OYzMxWHBPWkhZMUpudEI4RFRGelp2NWFlMUN2Ulh5eG9oYWZFekpSRzNSQjRzUDR0OEVBNC1tZlQwWDlZanptQzVGMERLUmZTUlczdnBJZnVrNmUtaTBVWnVXRUh0a05TTi04cmtwZzNzR05uNHVxb0lUY29Nd2lDMVR4Z3I3NXdrRGtvTG11Yw?oc=5",
+          "source": "KLSE Screener",
           "published": "2026-10-12T12:13:35+00:00",
           "via": "Google News"
         }
@@ -596,20 +589,6 @@
           "via": "Google News"
         },
         {
-          "title": "Price to earnings forward of Toyota Motor Corporation \u2013 BOATS:TM",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLXNwVDI1S2FKSkV6LVBoWk9FY05OYTVwUTVaUVBpNlNCb29tUGNZUElOQnltSTFuSnlSa0NvTU1PVHNuMDhGWnpTRzVNVVJpdWtwa2ZPUjFSS2lNWmp5b2lHRzh0M0ZqWTJ5bjdodkRvZzRCZUIweWpZenRJem43dnZLUnU2TzZ1a1B6ZjBlSzF2VV82R1RJTzJoWnNrQQ?oc=5",
-          "source": "TradingView",
-          "published": "2026-10-12T13:39:45+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "Upcoming Car Launches in India in October 2026: Toyota Glanza Facelift, Renault Duster Hybrid, Hyundai Bayon and More",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeTh0QXpoOW56Ump5Rnp6WGltalg3SjhpMkJrMnEtRDduU0NSNEhqSzlMWk9tSmhmTDRSYjZPajFTQUl6TGhVdU11S0phRVBkWWhZQnZEbnE5ZFBKekI0MW5jM0ZyZjlxbDlWalQ5VVFtOUlpR19UbVZFeFprMDh2dQ?oc=5",
-          "source": "Autopunditz",
-          "published": "2026-10-12T13:37:52+00:00",
-          "via": "Google News"
-        },
-        {
           "title": "Toyota Fortuner Leader Edition Launched At Rs 36.51 Lakh, Gets New Features",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR2RZa2FDaDUteDFJbzlpa3JnSzRZcEwzbVVWUzA5QjROOE5lSmF3WFdjMFNJckFoT3J3VHVuZnplSTZiTjNqZ3ZGWlhHQ1ctaG9MelBhR2FlZXdKTWhJODlrOFhKRGp6enh6eUhydndtY3VGeUtLVnFmUjVvS1VLdm9iZUpZUWNKckFtZmdsVWJ4VWh4NmFHcVM4a0oxWmItVzIzMHVmSVdNNE1kalZJLTZ1aTdQdGFnSkc5c9IBxAFBVV95cUxOX2g0YXRlQmVyZC1RNGVhN0x4NVRWNmcwSFpxa2ptN2hQU2xGX3YzMEpiLTJpU011UVBUOGk0a1A1SVpiSE5WcnJmVm5rQ0k1SGlqbWljWXp3cTBmVGhLRzlnTWVFbXN5Yk4zaWxiSjdYZVBIQU1xMkdIcHNYRk41Y3c4NkszUWN1RGZZN1hpNWcwckpKZl9GSU5KOVJZeEw5Ui1PUXlia2Jqa2xoU1pOQnc4VHdkd0xaV3RubnZReXJZSTdW?oc=5",
           "source": "NDTV Profit",
@@ -617,10 +596,10 @@
           "via": "Google News"
         },
         {
-          "title": "Toyota Hilux 2022-2026 On Road Price Kohima Oct 2026 - \u20b932.68L",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNGdRMHdtWnJxR2lKMHFtbXJxZ3QxM3ZfT3RZSHFYdkJjbUZMQm9YQjFRNkg5NkRUWVJTUENfaEZYYURLVjVhTFUzN0VHbnlPdE52cTVKekpTakJJOVpyRDVMNUhWWHl0M2JWT1JrZkZCZ1E5a1B0eWI5QkltbnNjOA?oc=5",
+          "title": "Toyota Hilux 2022-2026 On Road Price Naharlagun Oct 2026 - \u20b932.97L",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPY3hlYXlHMkxJWmM0a1pqaF9HZk4zMkY2YzZYUEI1MEk3RVFHVWV5ZW9rbDhzMko5SUJkYVdfYm5RclkwRVA1aUM5cXZLdlJ1WmZYV01ld3Z3RE9MVW1Mbmc5bjlXandQMHd6RktNVTItclZrR1hBY0RINldfeVM1NEhkbnpxQQ?oc=5",
           "source": "ZigWheels.com",
-          "published": "2026-10-12T13:17:08+00:00",
+          "published": "2026-10-12T13:18:52+00:00",
           "via": "Google News"
         },
         {
@@ -664,13 +643,27 @@
           "source": "Autoblog",
           "published": "2026-10-12T12:00:00+00:00",
           "via": "Google News"
+        },
+        {
+          "title": "Toyota Tundra Resale Value: Still King After the Recall?",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa2FsakZiTXk2OVJtSGNVWHU0SEZOYTV1bmtSbjAtUk02TU1jMm81Z2FMMVVzdEZvZTZ6VVA3bUJpTUdBdDFTVHE5STh0ZXMtRWpHX3FKdTV3NmhraGd1dmVLckptZmZRLWJaazJkMEo4V0o4MnMwT19qUWZDeW1uVGtDOA?oc=5",
+          "source": "Pickup Truck +SUV Talk",
+          "published": "2026-10-12T11:47:59+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Toyota Glanza Facelift Teased Ahead of October 14 Launch",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZkgxcFVDa3dTd2cyMlc1c2ZFLVUzaFZTc2RJSG1PbU40emE1ZElCNWZkZS1LcmtxSnR0LXZhWGdvTVZVbGc3UWg5SGxtQXRuekJVRXd1MEdiRExTOVJBdTdEWWY4T1dTNWJyLUFJVUVudHdOaFNybFJLdkowZlVfZGhwSUc4MklOSzJFc0pmTUIzZk9aVE5SR2J4VEQtMG9udHc?oc=5",
+          "source": "autoX",
+          "published": "2026-10-12T11:42:00+00:00",
+          "via": "Google News"
         }
       ]
     },
     "CLS": {
-      "price": 357.51,
+      "price": 357.62,
       "prev_close": 362.16,
-      "change_pct": -1.284,
+      "change_pct": -1.254,
       "quote_time": "2026-10-12T10:50:00-04:00",
       "name": "Celestica, Inc.",
       "news": [
