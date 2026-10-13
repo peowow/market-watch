@@ -1,312 +1,340 @@
 {
-  "updated": "2026-10-13T13:28:19.563840+00:00",
+  "updated": "2026-10-13T19:02:52.620676+00:00",
   "quotes": {
     "CL=F": {
-      "price": 93.1,
+      "price": 94.21,
       "prev_close": 93.74,
-      "change_pct": -0.683,
-      "quote_time": "2026-10-13T09:15:00-04:00",
+      "change_pct": 0.501,
+      "quote_time": "2026-10-13T14:50:00-04:00",
       "name": "Crude Oil (WTI)",
       "news": [
         {
-          "title": "OPEC Bets on Global Restocking Wave, Sharply Raises 2027 Crude Oil Demand Forecast",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRFc0Smpyd0FLQnpyQWRCTmxKa3R2b1lXLS1TdTF3OG1rWnRKdWdSVjZ1ZjhBVFRodVZSWWdyeUlITEJoR2w3ODAwTkNOWlB5QUZ5cFJrM25zZDVJZUFjdXM5am1NaXM1enp0dU5FODZDOU11cENzNHl3b0VwalcwelpJakdZX3VWdmxMSGQzTXM4Q2tYbG9qYjRYMjVwSm5MT1NnT3J5Zw?oc=5",
-          "source": "\u5bcc\u9014\u725b\u725b",
-          "published": "2026-10-13T13:22:27+00:00",
+          "title": "Natural Gas, WTI Oil, Brent Oil Forecasts \u2013 WTI Oil Gains Ground As Trump Says Houthis Are Trying To Boost Oil Prices",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV3h5bXpJX1A4dllVRkdsWDNIQmpVVUlaeXlIX1JINnNOLUpRd1pzSkN6MTVoRnRacExPUjR1UTY5Q09YSHdzNGlGVGNoOE1JT3ZfNWoyb2ZqTFlYSUpvUGJFYnQwRjItVFJPSlAyOWRlajVXT3YtLTl6SXUtNzc2VGRibTVPcHFSai1zZzBJdENEUEpsZkppSHFMdVliQzdyY3k5VWh3Zm10cE1tU203LU1HaVNwSnFyNmhWeWlxZTg4aVRMY0k3R1pCRGd2WFhmZlVJTkNXNUFpdmNxQ3FBcnFRVU5EdDJwWkMxMVc3OFpJRWV2WnpV?oc=5",
+          "source": "FXEmpire",
+          "published": "2026-10-13T18:59:48+00:00",
           "via": "Google News"
         },
         {
-          "title": "Russia oil freight rates to India hit record high in October",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcUl2cUtjVEdyWE55TWpxMy1qcjJfdVZoVklJUGJIVklVNVIxM2QxNkJ2bTRIbmloM3VGVXd5bGhUaDlCUlpLS0wzS19tcXNZZ2JvMGdOSm1wZ0MxM0FmVnloREt0X2xtQWppUkxWTDBHYXNzbVAxeWVlRC1lY2dTUmRYdDZ0RDU0SHdvdnp1RmpGWWZDZkt3cWVBWmxKYWlVb0t0Z2I2QU03NFNmanlEZExHZjVQYkNYaGNrMmVR?oc=5",
-          "source": "Investing.com Nigeria",
-          "published": "2026-10-13T13:10:54+00:00",
+          "title": "South African Rand Little Change As Oil Prices Steady",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUzZ6X0xvcTQwWHhhNUdQekMxb084YW1FN3FPSTlNNWp5X05YN2NCQ042a0VsWGduWENvUFRMTEZNLWF4cFVkSHU5YzNxMGlLR3BGN1NDQ3FBaWhMUU9KNmJDMncyM0pLbUZENmFFM2RLVGtFV19hOTk4SDJ2a3NDTWZNNkFkdXM?oc=5",
+          "source": "MarketForces Africa",
+          "published": "2026-10-13T18:45:51+00:00",
           "via": "Google News"
         },
         {
-          "title": "Bitcoin Inches Higher as Crude Oil Eases -- Market Talk",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMTJOWU5Pd1hZOVRTZDVkd3U1Wi0yZVJKOGNXYzVFNUxlcDNKX1N2UGZibWFSMGhuUXQ1SEZNblhaNjM3WlNzNFh2SWRGZkwzSWd2cGVmWDIwWHNDZDVFMF94TzZsR2l3OEpVaXc4UE00OGRKdTZmN1VFYUhFcEU3d0daeXk3SkZ2RXgydFpPUzdvbWNiOXNycERYRGw?oc=5",
-          "source": "Moomoo",
-          "published": "2026-10-13T13:05:38+00:00",
+          "title": "Oilsands shares climb sharply as oil prices rise and investment returns to Canada",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdVp3VlVzMVNsSlMwNWx2NDBhbjItVnU0RTJtVS14Q3V0RlY5M0dFS29HVmZDMVNSSk5ZVWN0LUlMMlJTQ1JUYzFqS3V1MFlWdmtUeVdkTUtnNVh4em8wRHJ4eGFQdVdOLVZlX3haZGN6OG5jRDBEcndUOFFGYjVPXzROeFVacU9KUWZxQjBYdV9WLTB3RlplVkxuR3hDc1h5azM2cTItdzI0T1BaQzRndnpyYThkcHNu?oc=5",
+          "source": "play 103.7",
+          "published": "2026-10-13T18:35:31+00:00",
           "via": "Google News"
         },
         {
-          "title": "Bank Earnings Set The Tone As Oil Prices Slip",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00ZTl3Ql85VkhCbHpzTFBMUGE4NjVWcWJXQ1dELW5tc3RlZFBXVURVRkJ3VTFOem44cURmaXg5QjN6eUZIUjhjZjhVT1ZBR0ZFcGNncVd1OExMV1RuMGtQaDc3Y05EWjZLdFYtUjAtYUg1Qmpyd1hsLW5KaHYxRnM?oc=5",
-          "source": "Finimize",
-          "published": "2026-10-13T12:56:07+00:00",
+          "title": "Saudi Airport Attack Sends Oil Prices Surging; Philadelphia Semiconductor Index Tumbles 2.7%, TSMC ADR Falls for Fifth Straight Session",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wcjFKSGdIalNxakN3UU4yVnZsdDdRWDVWaVlDQUtGNFVUazgtREhRY3hCNFNzVFV1VmQwNTZHdjh1Z0stcHByZ2stSURuWGZramQxdXdMTHRVNDQ0bTR0M1VpMllaWE04ajRJYXg5MHV6eFpFZkE?oc=5",
+          "source": "BigGo Finance",
+          "published": "2026-10-13T18:28:00+00:00",
           "via": "Google News"
         },
         {
-          "title": "Paul Tudor Jones is bullish on oil, says it could rally another $20-$25 because of Iran conflict",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DRWdjM1ZvNHdyWjd3RUJwXzRNMVV3Tk81bXl3Z1dROW5wdURGUm1BRzhaYmRvSU0yWnJnLUpDLS1rOUs0aDAybkp2TDV6M2J0U1NTaEw4NUZYbzhmaFczbUd0T0VOYWZ1RzFDVTZQSdIBdEFVX3lxTFA4eE9IZWJmVHBSaDRlblkxY095SW1YeDhabHphdkt4MFc0Y0J5YW5SaDZfYUw4eGxyREpzY1czaFJpUkl0X0RROEhYN1RfRFdLTjNzZ1JCbmRFTTZYQzFHV2NnV2NhT1J1R2NEdWNLRkZSUnAw?oc=5",
-          "source": "CNBC",
-          "published": "2026-10-13T12:52:26+00:00",
+          "title": "Oil Retreats as Russian Diesel Pledge Clashes With Gulf Supply Fears",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83NTBXbklrWXhsSENBaWNQcGNhcHBfZmF6ckIyUmhmdlpEU01PbTNTY0JPc3RoOXBHNWtfdlVBNzBuMW96dGtpVlZneTVMOFlXU09SQWYzMkdXR3NaWTNDS29KX3ptOVhlNzM1U0tRai1rQTdvc2c?oc=5",
+          "source": "BigGo Finance",
+          "published": "2026-10-13T18:15:00+00:00",
           "via": "Google News"
         },
         {
-          "title": "Occidental oil prices jump as supply concerns lift crude",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSU9FeDRxMEVjUHpKZEZITER4S2tUZklDZ0hsNFg2QkNJQUJQeXJUVU5yY3M1VjVrYnJOV3Q3ZzczcWNGUi1tSFFST3ctcGN2SWpnRGgyOWNoN25SQ1dHeEpQMHhJUWszVmk2VE45RHRoTlBQcHNKaTU0Y1NIUlJuUXIxRGJvblFaeDEySHVKOHZmRk5fX0U4VUhteU95dUFmMkpRNlluRnIzbUZpZ1E?oc=5",
-          "source": "marketscreener.com",
-          "published": "2026-10-13T12:27:46+00:00",
+          "title": "Freight Costs Soar, Leaving Heavy Crude Glutted in the Americas While Asia and Europe Face Supply Shortages",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0NVN4Q09KMXgxcjBzZjMwSTZxZ09IeElFUHNoY3g3XzRuYXBzREstZXVfVGlSNk1BWmdsdXFWcU8ycjE4bGY4cFpYZUs4N0pqWElJUzB1TjEtbUNmRDdVY1FiczBSNkVCMTF2SE5yMHJDNURKeVE?oc=5",
+          "source": "BigGo Finance",
+          "published": "2026-10-13T18:05:00+00:00",
           "via": "Google News"
         },
         {
-          "title": "OPEC crude production jumps 920,000 bpd in September",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYzVpUmsxeWdTZ1dsYmNGN2d4SVJwVHR4bXVzUDJfM2E4UllSZWY4cE83aTFDRW41Rl9NT2hpV0JwZ2tZeGdVdEhZN0R4YW5WOWxXaUgwQ1BQMDd0cHN0ZjJPYmtJcHh1TEo5NmhmNlFtS19TTzdGUTZ0RlUwOTVDd3FTZ2hkaTFzb0ZFRkRtOFBBUThDRTJPaGtB0gGiAUFVX3lxTE16bmlFSExiZmRHVGlFQ0tGQXJBZEx5YVd2ZERaOUwwaUFuWUJzOVJyTVRMZ01GODRobHB6TE9sLV9TOWpwb25qUS13YlJDVS1Ga2hZNzFQWFdPTDVjM1YwaXJmRFREc3pVR2ZUamw4Z3AtLXlQNWQ0MzB3SEJHUzJHdnBwSGR3TDdjaUtZUHlvc3JWZWtINldIaGQ3b0JTc0ExZw?oc=5",
-          "source": "Anadolu Ajans\u0131",
-          "published": "2026-10-13T12:24:57+00:00",
+          "title": "Diesel futures jump, signaling higher prices to come despite Trump\u2019s Russia deal",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa2hCTGU2bGR3MDg5N2dBbDczRFREdmhmQlNlZHhfSElQTm5aS3Z2dGJsT1B5OGN6aDEtVFRmM2NldzN3NFUwSzhMUDRoZUw3YnlzUDlYYkhBazRNWmRTakU1dzFRU1NGN1JfQmwyTk1RY3JMc2l3aF82X3RpdFZsbU9EelY2cjE5LWpnMGhNVFdKeTRjbVE?oc=5",
+          "source": "NBC News",
+          "published": "2026-10-13T17:49:19+00:00",
           "via": "Google News"
         },
         {
-          "title": "Oil prices remain above $100 as traders watch Middle East",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WbTJ1aG1Vc3o1eEQ0dTM2UEJlTnY4a3QtVU8yT2h0Wi1ISU0yNHVmQk5LVUlhdi1pdzFiYzBudnVKSEJrZkZucXhybHRHYlB1Z2s2amFzcUhXd0hDaWVvR3RGNWl5WTFJZEJ3OQ?oc=5",
-          "source": "Transport Topics",
-          "published": "2026-10-13T12:07:46+00:00",
+          "title": "Oil prices mixed as US-Russia diesel deal hopes offset Saudi Yemen attacks",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPckNVOU4wY2VrUndQbmdTdTZtRjZVMXc5QzhvaWRlYms5NmtraG9uMVpaUFpKZTV6T0dETnN2Sk0xTDdSUHJvSVJiUDJjdVUzRDBybDJPdnA4YzE4M1NVMHhoZXhHVWFCVlBpQ1ZlUUhsTlczVmJPNUJOY0NZbWdXalpYWGo5Wk9CaW1GNEJhblpsRkk1S3RudW42WlQzOGZmVm8xdGFLZHJzZE5KaXZvSDZZTGVwdw?oc=5",
+          "source": "Euronext Markets: Real-time Stock Market Data | live",
+          "published": "2026-10-13T17:31:22+00:00",
           "via": "Google News"
         },
         {
-          "title": "GasBuddy Flags Fragile Calm at the Pump",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbnlsRHBqRDFfNVpMX0VGWXN4N3g2VDUwOEp0SjM0RUhTSHl5ckZVc0ZiYkpvS3N0Z1M1b2paUEJONXJZSzYwZXhPZmVUQU5vc2diWDVORlJGOHlJaXluZFFSdDlUZVFBMVF6ME9CaU9yeTFiVGNfQVRoandBbDlkYzJzQUZyaF94ZjVqNVgtX2RNRWVxbHFoSWRhZTA?oc=5",
-          "source": "Rigzone",
-          "published": "2026-10-13T12:05:29+00:00",
+          "title": "Argentina Takes Falklands Oil Fight to International Tribunal",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUkN2RzJoRWVpWFJsXzM4S3BPUTZjbHJPXzBzR2ZlVmhkQWtDTDctRTZUS1Nxd3MyMzMyNFVXeDI0T3pSN2J2aEx0ZEZOTms0MkJ2OFJLd0lQa0VzQTBlVy01bzFaS0dXUm8wZC1lWW5sVlBzdG5lcUxVSDRlLTdqSkg2dHNYSUxxTUYzOTQ2MXVDZUZ5cDJfMkRGczNNenFRZ2VuYUdqTFZtNnR0OV9wTkRycGJyZHlf0gG-AUFVX3lxTE05VzRvZjNWbFEwSk1QWURwNjZZbGxDN1JGMUtOVHlqcVhReW4tMHU2MGM0OGhBTGh6dktCc3ZNVG1nRTdoR0Z5REJWM2RyRHpCMEs4Nlh0M1FheVdwbEEyalVMMHhPbkNxQzhQTi1TbnQzOW8zVVF2eG5YU21pbG1hX0FOSDN4UEVpN01QOGwwSFk1Yk1HbHk1Rm9fbEN2QlhsMU10RHFtSGxnZmFWMUtIV3ZGd1N0VzY0S3RReUE?oc=5",
+          "source": "Crude Oil Prices Today | OilPrice.com",
+          "published": "2026-10-13T17:30:00+00:00",
           "via": "Google News"
         },
         {
-          "title": "EIA raises oil price forecasts for 2027",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbzZhcU5SOTNRSV9mcUxFa3B0RUZWWWZGMWVlMXBMSnFyTU01dVhZTkRNUXFnWFJ0d2ZHWFlsMEl4NkFHNkVwVDFSbzRvSUhkX3NlMWU5d0hmS0x3enU5bDNQQVhGc2V5M0VjZU90WEI4UzhWTDhpT0l2QXBocFhRNQ?oc=5",
-          "source": "www.engine.online",
-          "published": "2026-10-13T12:03:21+00:00",
+          "title": "China's $3 Billion Qatar LNG Deal Raises an Awkward Question",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM19xbGRDdjcyajN1X2JNRk4yT3ZqTjdvTFByYUFaN2l1aXBydmZ6T3NNT1NUUlFVTHZmck9UWmk2S3ZtaXZrOGZFOERxcU1TdDQ2MHlCTmJmRUpWTEZvYzRITFA5RmJMVTJGbERTUE94Q1Z6ZEliYzRpWlN0MlloM3FJQVo1b2htTkZCaEhMeGdRSlQ0VHF6THpaZWhGUEd3TnB3d0ZvOUVBY2vSAasBQVVfeXFMUDNfcWxkQ3Y3MmozdV9iTUZOMk92ak43b0xQcmFBWjdpdWlwcnZmek9zTU9TVFJRVUx2ZnJPVFppNkt2bWl2azhmRThEcXFNU3Q0NjB5Qk5iZkVKVkxGb2M0SExQOUZiTFUyRmxEU1BPeENWemRJYmM0aVpTdDJZaDNxSUFaNW9obU5GQmhITHhnUUpUNFRxekx6WmVoRlBHd05wd3dGbzlFQWNr?oc=5",
+          "source": "Crude Oil Prices Today | OilPrice.com",
+          "published": "2026-10-13T17:00:00+00:00",
           "via": "Google News"
         },
         {
-          "title": "Current price of oil as of October 13, 2026",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41ZGZoNkwyTklJZnhFd3N2SE5PbkhfM2hROTllYVU2UGdyWDk0ZnVtOWhYclBwbTNXVGtFX1VlbGxMc2pVYWtSc0JjLUV4a2VKWEUxclFHUzhiU0dvYjhpY1Z3?oc=5",
-          "source": "Fortune",
-          "published": "2026-10-13T12:00:00+00:00",
+          "title": "Iranian Oil Prices Rise",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MLV84TGlVSDVnMHN1YnlwN09leFpvMTgzZkRLQXFCN0V2THVsakVJWC1oZWVzcm05OXpRczZvWERSTkNPMVo3OEpjVHJzSk9mUlBjQ1p3?oc=5",
+          "source": "WANA News Agency",
+          "published": "2026-10-13T16:48:43+00:00",
           "via": "Google News"
         },
         {
-          "title": "WTI Oil extends its pullback to $91.00 amid US imports of Russian Diesel",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWNrLVo5OXFfREJiTG1lOTV0UVpSenJIOTdsUUZNOWlLQTlrRndKMUJYbUd6VGpEUG5hanFiS2p5MTQtc2xQRzdWemhqWW9wUkQwclk2aE1sRUhRMklvdU95UzJvVlZ2aE1jN3hmS3JuS29ZZnRSUHhldkcwTVhwb3Bnd0o2UTZfZlY1RmZkTnZHbUE3SlRYeGNONDROYkN1dG1ONFpFUm1NVUc1NnRYVGp2Zw?oc=5",
-          "source": "FXStreet",
-          "published": "2026-10-13T11:57:00+00:00",
+          "title": "Saturn Oil & Gas (CN:SOIL): Can Debt Reduction and Oil Prices Keep the Recovery on Track?",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbUIxY1ljSXVsb21BMVc3dFZKb2MwZWlwWEJxdU9nYWl6a0JxUUFLQ3BwbDNWMm1WNVVyOURXTldyNF9KVXVPZ2hxVnB1WTlLQ0NObmdhUEU5T01WMHJKZXMyVWlpUjlhVzN5QWdQcEQwd3lpdXNKamtxYjE4V2JIMDhFTUlOV2VUdnVoZUp4RjFuNEF6Q3JHUVVxSzBpcWZBZEFYZnpmMlJNUUxzMmFCNElnOA?oc=5",
+          "source": "kalkine.ca",
+          "published": "2026-10-13T16:47:00+00:00",
           "via": "Google News"
         }
       ]
     },
     "NG=F": {
-      "price": 3.185,
+      "price": 3.304,
       "prev_close": 3.167,
-      "change_pct": 0.568,
-      "quote_time": "2026-10-13T09:15:00-04:00",
+      "change_pct": 4.326,
+      "quote_time": "2026-10-13T14:50:00-04:00",
       "name": "Natural Gas",
       "news": [
         {
-          "title": "Occidental Oil Prices Jump as Supply Concerns Lift Crude",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQakxHSUxsOFEybW94UVozellhWmZqeVFkT0dnbXJfSHRNY1JoYnpCd0lfNkNQRUxtNjZKTEh4U1kwZjNRak8xS1JjT1l1MV9fRjRWQ1dBVGU3d1hvcGt6SDk2TFZkZXpNV01EaHM2SGpzeXhkV3huOGRweHNoYjdNamJra3ppWmFUcUUyRUNYTnI?oc=5",
-          "source": "EnergyNow.com",
-          "published": "2026-10-13T13:05:47+00:00",
+          "title": "Natural Gas, WTI Oil, Brent Oil Forecasts \u2013 WTI Oil Gains Ground As Trump Says Houthis Are Trying To Boost Oil Prices",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV3h5bXpJX1A4dllVRkdsWDNIQmpVVUlaeXlIX1JINnNOLUpRd1pzSkN6MTVoRnRacExPUjR1UTY5Q09YSHdzNGlGVGNoOE1JT3ZfNWoyb2ZqTFlYSUpvUGJFYnQwRjItVFJPSlAyOWRlajVXT3YtLTl6SXUtNzc2VGRibTVPcHFSai1zZzBJdENEUEpsZkppSHFMdVliQzdyY3k5VWh3Zm10cE1tU203LU1HaVNwSnFyNmhWeWlxZTg4aVRMY0k3R1pCRGd2WFhmZlVJTkNXNUFpdmNxQ3FBcnFRVU5EdDJwWkMxMVc3OFpJRWV2WnpV?oc=5",
+          "source": "FXEmpire",
+          "published": "2026-10-13T18:59:48+00:00",
           "via": "Google News"
         },
         {
-          "title": "Canada\u2019s Montney Natural Gas Well Productivity Surges",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVFhXOVZGWUlDQnAtem93MkhoMVFRa3lRdGdneWJsTHdDYkRFemt4RC1VRERWbTFSdGNFYmFhNkxiT2RyeHhqNURnUllEUXV0SnFvczVCVVFqQUtkUGJPQkhOV2JGY3NjdVdFNlRVVGM5WU04ckZ3ZE5CQWJaSjF6TWNaTmtFdXowVFU2cnU5Z09nZXFS?oc=5",
+          "title": "Will Canadian Natural Resources (TSX:CNQ) Advance Heavy Oil Development?",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOHY0V2hrTnBMUzJjaEhqRVJfZnBqRVQ0N0FtdFZoamFDT3VJc3JaM09nM0dOWXM3RXUtenBjdEFORmsyS3hpZnFUQzZtT2s2OEVtN3dScVJ4ajZ5LWhwSVowd2p2aUVqQ1NUREdJczdlQ1BJNUNSTmI5VE40bGcyd1FKNllYQ3pZeWg5d3llS1U3Q20zcTY4dzJPMmcyQkt1RnFRM3ZJRlVib3JyVk5V?oc=5",
+          "source": "Kalkine Media",
+          "published": "2026-10-13T18:36:00+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "WV House Democrats again ask Morrisey, GOP colleagues to suspend gas tax after no movement on issue",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT1BfOFBpem1RX1NZU2c1N3dxMzhRemowdkMwb0sxZ3Ffb2RrRnpoNVpDV1A3UU00MWl1RjYyVmprT0hieE1IcG9LVXRiZmpzdExKa2hSTXVkeC1DOVFLM1Q1VXI4eUVXV1ROX21oa3EtTno3bktXeEdWSFAxZVN1MmdnaXJxUmItck9rRVVYWm9XcjdoNXpXVjl4UDh5Y1ZCUE93Q2tjTjVlTWlBTTBDMml6T0hMeHc1OXd1cl90dTk4T2FuMVBHSHZqeFhIRkxQaDdqNzNIWQ?oc=5",
+          "source": "West Virginia Watch",
+          "published": "2026-10-13T17:54:02+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Heating Your House This Winter Could Be Cheaper Than Last Year",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdFUxTDJ5b1RiY0hqaUNWRWwtWEVRc0pwMElfRmpoMjU0SWVLR0VIOTJUVnQtTXEwMFR0TlJpd0ZHUUNCUkJ3RWFTUVpOMEVKNlhzSGI0R2RxYndLUzQtZ0hPbWZXQTVxdl81TG5fbkJGWEtBNTNNV0tKSkhIVXhmY0lIaHdLYW5HY3ltTmN5T1k2aFlucTUzZW1adXcyal8wVWxMbHkxa2pyNEpkM0wzVVZn?oc=5",
+          "source": "Investopedia",
+          "published": "2026-10-13T17:50:16+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "US Natural Gad Futures Remain Steady Ahead of Mild Weather",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcHppVXBMTzloTUs4TDducmFOV01JeUc3WVJDZ0ZPbG16ZWVZdFRSUnhtWThSUkNLMFBsS08tZmZ4NF9Mb3JRX0hscU9KUnlwSzAtOEFhanFycXc1TXIyYmtuci1WTEY0aWV0ZWhiOUR3N2UxNzF6bkRSSThQOXI2eQ?oc=5",
+          "source": "Marine Link",
+          "published": "2026-10-13T17:01:09+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "US Natural Gas Storage Seen Tightening as Producers Gear Up for Winter",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNHM0OVZYTmlGQm1qejZmLW9vaENicE11dEZOdWl1dXU2dHF6bGpSdGttd2c4NTVNeFdQcDkxTk15Z0MxeTBlem9GMThvRFgySnhDMmlZeVk1a2tJVmRUQnF2X01tdnA2a2VzbkdOaGtYM0lRcTBrMXhJd0l1bk44THduQUxKejJJZlYzeEZicmFJQ29vNUZTUDJuMDk0bUZjWmE3eTRuYw?oc=5",
           "source": "Natural Gas Intelligence",
-          "published": "2026-10-13T12:59:39+00:00",
+          "published": "2026-10-13T16:51:18+00:00",
           "via": "Google News"
         },
         {
-          "title": "Houston gas prices fall as hurricanes, global tensions cloud future outlook",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNEtlLWhDNTItWE81N002Ui1lVWwtSXV0NHotWUtJcV9yRVJJQUpOV0lndlFVVkVkbmp1eHFvY0k1WVk4N24yVnBFSHNJRWNyVFRFR2FDYXlmbXZYNU1RR2FnOXBLMlNfTkV5S0FrbERmaFFZTko5c0NxQ3czdVU0MjJVeUx1VGR5azAyY0VFaVotVGlSRFhnZUNEV0FnNVNHdzJYR25aQUYzRXNH?oc=5",
-          "source": "Houston Chronicle",
-          "published": "2026-10-13T12:53:06+00:00",
+          "title": "European Gas Prices Hit Highest Level Since Late 2022",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ0JZT2Foak1mRWxYbE1rdzJRWDhFRWNUeWdndmhndkFBeGRIVC1fbXN0MWl1Rk1JNU9zRkxPMERxTFU0dW1IcHRKVTdYaWh3S3lFRlN3Sm5nS05WNExpcnNPOW1DRGpJcS02ekJ0c1kwOTI3Uk0zUFR3UHRFOVptWENVMUFMYnF6ZnhqeWlSWm9fd0xqb01oOA?oc=5",
+          "source": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0635\u062f\u0627\u06cc \u0627\u0641\u063a\u0627\u0646(\u0622\u0648\u0627)",
+          "published": "2026-10-13T16:44:23+00:00",
           "via": "Google News"
         },
         {
-          "title": "LNG Exports Call for Gas. The Haynesville Will Answer",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa25sM1VWeEhEcUpGZ3RRQV9COXJpeFlEQjJQZUgzVzR4LUZRSXZIQ09aNnUxMWhzOWdMdDN3WExFeHJsSEhEYjhKOFdTc0YzZ1d4TlA0amNRM3ZNcFJWR3JNSzYzNTJpNEE1ODdUYXppbWVVWkJPMGVFQmdoNmFLNW42Ti1iTXBaRklaYU9LSHFuZXhEekow?oc=5",
-          "source": "ETF Database",
-          "published": "2026-10-13T12:45:42+00:00",
+          "title": "Record Gas Prices Cost Part-Time Working Women The Most Per Hour",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcXFKYTBkbGxsb2FNeFFTWVA1bkk5al9QQkV0VUE5R1NDZ0F4ejEyZFhQNFRqVjM3a2p2ZlpuYlY4Y1JQdTV1NUhrVFc5QUg4RWJ0OEt4OTVrTWhtQWlrWjZtWjNhUVNiVWdfOXBoRXp1R3l4cndlYlNsVlVWRDF0WENxd0o0dEVZRTljelljSEZoNkFlZ1BlcGNFa193b3FtODZDRWt5WlNfTi1laERHTlVuQm85T1djWG41LUd3?oc=5",
+          "source": "Forbes",
+          "published": "2026-10-13T16:40:13+00:00",
           "via": "Google News"
         },
         {
-          "title": "Financial Times: Natural gas prices in Europe hit record highs amid Iran conflict",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5KQkRCT3VDa1pPenlQMlVKTmdYXzFQZ05TTzU1TUFLUEt1d3pOcHlsRUFpY1BKT2EydFZhdnBSNEZCUFBMR2c?oc=5",
-          "source": "NEWS.am",
-          "published": "2026-10-13T12:45:00+00:00",
+          "title": "How Airlines Have Hedged Against Fuel Price Increases",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUEprcENrdlhQOXpVM2sxMlFmbnR3N000alp1WnotOUxfb185MW5TTWNsUGJ4aTFQc2NmeTFJU3NtNno1MkhMZC1IVnA2RlFlMlkxZGZjaVZyZzd3djlROGQ3RjYzME0tYTczRVRvNHVPTnNyYmFEQTFzSGF4S0luS2MxdjY1aDFNNHNRYg?oc=5",
+          "source": "EnergyNow.com",
+          "published": "2026-10-13T16:31:03+00:00",
           "via": "Google News"
         },
         {
-          "title": "European Gas Prices Surge Amid Middle East Tensions",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaUQ5alNMXy1jbjV0VWdlb1B2ZVF3THNfak84WGVVNlFQaXY5UEJ5TmdCSFlTOVp3MXczS3NrUnB1R1FRckdRR0Vla0d3SVZ1b0c4Vml2ZjFnem1FZUlDcDJQY0VUd3QxMDhTd1FjRFJtUmx0Qk1YZUtqb0Z4aldRV3FvZzV0dHhHRXFxMDJ1VHVma0Fu?oc=5",
-          "source": "GuruFocus",
-          "published": "2026-10-13T12:32:40+00:00",
+          "title": "For a second week in a row, Idaho gas prices drop",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMTJvMVFYMnpqOFVjc3BPd2dsRGxQNGZTNGxSYnhxZ1pvMnRoaHYwV0x0bkJxS19qLTBoQlIwT2k1ZmJ1Q1E1Vm1NSmNZdEtZUU5vT3NLUFA1Q0dsLUpSVEdNMmdTSW1NQ2h1bTJ1cXcwOFgxLXQ1czI2NFdyeTRTRzJDaEtRTEdKXzh1U2pB0gGOAUFVX3lxTE4xMm8xUVgyemo4VWNzcE93Z2xEbFA0ZlM0bFJieHFnWm8ydGhodjBXTHRuQnFLX2otMGhCUjBPaTVmYnVDUTVWbU1KY1l0S1lRTm9Pc0tQUDVDR2wtSlJUR00yZ1NJbU1DaHVtMnVxdzA4WDEtdDVzMjY0V3J5NFNHMkNoS1FMR0pfOHVTakE?oc=5",
+          "source": "KMVT",
+          "published": "2026-10-13T16:28:00+00:00",
           "via": "Google News"
         },
         {
-          "title": "President Trump visits Ohio: Here\u2019s what he told 3News about gas prices dropping \u2018very soon\u2019",
-          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPSi1wbDVxczhoZEJnaDdjcFdRbUZJNkVacTc2dlNUcDJ2QmZiY25RLXRycmNvd2hxRnk3enFpQ1dNU2l5MjJKdXV3SWJHYXA1eXpqQVlWYmtaV1J6aUttazRtUklVNW9NRUNNRTF2dTdCQUNyMXJFb3Fmc1JuYzFvOWRlazdxbXUwSUVrMFVNYVZLdnpzOXVOekpQYzgxQm5xMjJVUlBpeGl1Vkdma1VqaHNib3dqXzhEYkNqRkh0cks5eUlnWVJITUJBcThfS2FLcUZlWHhRMVh0eThjc3YyUThTODRUT0dvUnJqalRTdmZEdjR2Qk9qcnk5QTBXSWY2b0NjalhNc2RiUkU?oc=5",
-          "source": "WKYC",
-          "published": "2026-10-13T12:25:00+00:00",
+          "title": "\u2018Energy fears raise prices before shortages hit\u2019",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSkExbUlnNjVsdHJoNVpxeWViY09WeHNqdncwdlZSOFhPVDJUREtvVlpLZXVqa2lfTlFfaVhnWXdieG9qVmJNM2FlV1NjM3k0cnNGOU5FamcydFk0dXRvRVltOGFoemd6T29YbU5fdFFZTEJYaVN3S3h1T1F5R1V0MHNBR3NJbmhaZEx1RUFyd0dxbFlsTHlXTkdhUmlTaHc?oc=5",
+          "source": "Channel Africa",
+          "published": "2026-10-13T16:25:06+00:00",
           "via": "Google News"
         },
         {
-          "title": "Barlow\u2019s Research Roundup: CIBC analyst\u2019s top picks in energy with third-quarter earnings imminent",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNLWRQVkhJUm1mVE1NVjI2ZEszbDliQ1BDRHVkUHdwNi1ibjZqSGNOWFlERFNodWtvVGwzOEhZWUlPSGZ2ODV0M1ZVVk5hRVFraFdZbkpSZWdzZGY1LXpOWW9wbldDOXc1aXNHbG1TVnFEZGZadk5TMHk3Y0tDcG1LanFHZzdUNXNxby1aV0p0VUJaak9xcnZsV3JfZDVmTXphQXh1Nk5RWHZDa3BkaVRIbmgxdWx2bzBGWkpDWUlmQVhiQ3N4czl2MEgzWW5lcmtxalFzRExmcGV5RHhoYkZv?oc=5",
-          "source": "The Globe and Mail",
-          "published": "2026-10-13T12:09:12+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "Gasoline costs more in California than any other state. A breakdown",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR3ptMXljY3ExYlRVMHExWi0xUlhfZXY4WUNGZ0gwUGxxeGh1clV1X1pVM01hbG0ybHZncXRYRko4eDhwOE1BRDB2N3A3M2RNOWpid181aHJFY0d5VkJHaUVUV3QzRUhuMjQzdUhTTmtfTTZ3ZVlkamtjdE9Wc3M0QUFXQVVkWkhqek40RFFUQXpweUw2SHB1dkhtdzNjakJqZWFKcEVFc0F1QQ?oc=5",
-          "source": "The Mercury News",
-          "published": "2026-10-13T12:00:23+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "Current price of oil as of October 13, 2026",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41ZGZoNkwyTklJZnhFd3N2SE5PbkhfM2hROTllYVU2UGdyWDk0ZnVtOWhYclBwbTNXVGtFX1VlbGxMc2pVYWtSc0JjLUV4a2VKWEUxclFHUzhiU0dvYjhpY1Z3?oc=5",
-          "source": "Fortune",
-          "published": "2026-10-13T12:00:00+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "Spot market natural gas prices for Monday, Oct. 12",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRzZrdjFHaURRRFpMd19ZRXFicUotUnE3RzBpSi1QU0VFV2wtSXdfWXdJWlBFb0tzNUVMQkJ0NTl1RXBNQzZVQVBHRnpiMEttNVVRMEN3S1hnbkJFYnlKdXJXNVpvTGZZbzNacWRKY1lqenpKa3psS3BhbWFTRE1YN2dnTTNXWWswdWlZOFg2dGszU1d0WkhydlpqMmVDMVXSAacBQVVfeXFMTV9kMWdMRlNPWkZwaGJ5VW9VZDhDOWNfM3A4UmZkV2NmUzNHMlhvRkFhT3dpRExEWHRNbHU0WVdwUkxjMDNBcHVpUHlJWERZaEw2dGJuZzQ5NEdLMmZ5ZjZTRklfUGxXd0t0R1JvRkRqcTRiV2hHcE8tb2F3QUdZRUdrYmFSTnBsTjJ5ekJ0V1V0cEl5TlFzY1BjeG5GT1pGaHlnblJuWFU?oc=5",
-          "source": "Anadolu Ajans\u0131",
-          "published": "2026-10-13T11:59:31+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "Colder months usually mean lower gas prices, but not this year, AAA says",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTFlaMHBGc1NkaG1zS3hYNTNNajA2eDhtSThNTHN4YzU1dUlyN3hJUVRjOFZtTGZNQUc3Mzh6NUdJUWU3RFNQSlpXdzRPNEJzNlNHd0hnSWx1VEdYUElVQS1EdDg1LU1FMmF0cVE2RklwU19OWG5WT3dzOHZvVjF6SnJGdFc3T2FFczBNSDRrZ3lCVkZXYk02azM2OWhBbU9V?oc=5",
-          "source": "WCAX",
-          "published": "2026-10-13T11:52:00+00:00",
+          "title": "Fact check: Breaking down Trump\u2019s rosy comparison to gas prices under Biden",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR2RHdlM2RURJUHR6N2daM1hRelBlQUFrakRkV0RyY0djMDdWXzcyS0pJU0pDZDRRNU82WTgtWFZfd0ZWTGdhbVRRbHZueGl4TUlfVEg0OC1lSV9hLXQwcEJiaUtyNkJhYnVRTzJEcUJzZXN2QUJTWnNZS1IzWTNTUVdMMjNNZw?oc=5",
+          "source": "CNN",
+          "published": "2026-10-13T16:10:38+00:00",
           "via": "Google News"
         }
       ]
     },
     "TTF=F": {
-      "price": 87.1,
+      "price": 86.8,
       "prev_close": 84.351,
-      "change_pct": 3.259,
-      "quote_time": "2026-10-13T09:00:00-04:00",
+      "change_pct": 2.903,
+      "quote_time": "2026-10-13T11:50:00-04:00",
       "name": "Dutch TTF Natural Gas Calendar ",
       "news": []
     },
     "^TNX": {
-      "price": 5.211,
+      "price": 5.223,
       "prev_close": 5.24,
-      "change_pct": -0.553,
-      "quote_time": "2026-10-13T08:10:00-05:00",
+      "change_pct": -0.324,
+      "quote_time": "2026-10-13T13:45:00-05:00",
       "name": "US 10-Year Treasury Yield (%)",
       "news": [
         {
-          "title": "$8,550 a Month and Zero Bonds: The Dividend Portfolio Retirees Are Building Instead",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOS16bVEwd0NZSVpVWV9nOHpxWTZkOUVGR0hfVjlxTUV1STRiOGd3ekRjSDRBSFBlbWhuNGNoODJqYVNYZjFwRk1DSjRQOTdiZ1k2TE1Sb0sxdjFXazV1aElUV0tEMTNITW0wVHJzejVNSm1jc1NCX0liQ18yNHFTeEwyeU9ORGVlYllzZzRia2xKa0VSSVl3Z1dHZlR2TTlDMS1GU2JTc0FSREtoaF9mUzhyZGhCbTZCaXBTQXBtOFFNM2VKVHJ6bjJTTQ?oc=5",
-          "source": "24/7 Wall St.",
-          "published": "2026-10-13T13:17:00+00:00",
+          "title": "If the Bond Market Sell-Off Triggers a Recession, Decades of History Says Investors Should Do This 1 Thing",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaHZ0cl9WeEVTNVhwWnd4NktIOWtFRlRKUGQwQmR2d2JXbU81ZDlacFlmbEJrcUNNeURFQVo5RnVGX1gydTBKdVZnbFRVQTBHelVySGlSQkNDakJQSU1iV1ZXQlpxeERmUkNHczRTaW9rbWwtVkFTVXotY09EVGdMa1BJLUszVzBUYTBVM1NGc2NockNubGc?oc=5",
+          "source": "The Motley Fool",
+          "published": "2026-10-13T18:54:03+00:00",
           "via": "Google News"
         },
         {
-          "title": "What I Am Watching Today \u2013 US Yields Drift Lower, Putting Platinum and EUR/USD in Focus",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeHVMSWY2ZGZleFJtaUtHaS1rMUE4Z1ZMR3lBQm5icFB1UGxVSGdtM3BhTjhIT012bDlGNUE0OVFRUW5DWFBGOHR1X2c4aExyb21VWElaUWxHRVNQRVBLckxTcnh1YmxtcnhIMENLSzR5elVhZ0MzUjB5X0lLeTUzZ2xNbndpdHU1aWJNU0x5R2NaeTBOYjNuRF9KX2JJV1FLUXNLank4cnB6OEp4RTdMbDlEZjVLLS00MHJFbnRnVkhGTi1qYXd0ZU5OTGlINUxTZFJVMlo4NmF6b0hiQXZRYjhqcWNIVG5m?oc=5",
-          "source": "FXEmpire",
-          "published": "2026-10-13T13:16:17+00:00",
+          "title": "US Treasury Yields Fall After New York Fed\u2019s Williams Says One More 2026 Rate Hike May Suffice",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GOXZ6UUd3NEd3UlBhN1hkX21IaTFGY1diZzlSU1cxcEZaQWlMOWlCOUlsWktXNGVHeXF1RldoRi1yV1RkNklJUVhRWkxHWE5Rc3FTaQ?oc=5",
+          "source": "bloomingbit",
+          "published": "2026-10-13T18:35:36+00:00",
           "via": "Google News"
         },
         {
-          "title": "How VYM\u2019s $94.6B Dividend Kings Aided Portfolio Is Beating Treasuries",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYk1EdUJCTU5ySkttdVVrc2lkRVRyZkNCNkg4eWROV0luSjY4Mkdwb1lRUEZYSEdXX0o1MnpEd2NDbExlLWZaNWZidUhWUU5pSG9QY0ZkckRMU1Q0eUd1V2RwNEx4UldTUncxNHlXQUl4TVFHTFVxOHFpMjlUSXNCalBOcE5VT2xtUUtDR3NJdUZrSmYxOFVLMU9Ld1lBVjNNNzhHQmsyWlUwTHk3d2NWcVVyRUdQQQ?oc=5",
-          "source": "24/7 Wall St.",
-          "published": "2026-10-13T13:13:00+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "JPMorgan Stock Up: Why Bank Stocks May Rise With Soaring 10-Year Yields",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa0cxOFUycWtYMDdTRVVtaUZ1Vm96SjNiVHFOZ0xoSnhpYzNpR0tsRHR5MUpLeTZJQ1ZkUkx0WG9ISjJlWWY0X1VIdDBsRFlrSnBXVEgtWndUdzNMSTdacWVxNXpYckpWRlRvaF9rbVdoVDdJbGhDUmJ3RlNuODdMLTBhdDctQTFESG90ZGdPXzBEU0w4X2xVeVBfVGJlc3g5ZGlWVnMzVlhRaDhnX1RVZkdjWEs5NWFDVGxicHV2Zw?oc=5",
-          "source": "Forbes",
-          "published": "2026-10-13T12:58:52+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "Why has US 10-year yield hit lowest in over one week?",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNel9TVG5yQlpRajBVNWRpZms3dV9FenBOS3c4TENpMnhFRXJaOWUzWVBwc2JJTjR4RTNPNWFYYWhucFIwa3ZUR2RFMlFHOG4zUUQzZDFZLUhXbjFya3F1TC1PMXB3d3ltZkdmRVhqZ0IxNXQ4UXJ0STAyWjUyTi1VOXdwZzd3N2xkeHNZSG5VQ2ZvLXFZaXhTWjA5YUpfdUxWR3dua2xNM19MOThVRGRSQnBNTUFMWkZTWFduT2RJZ3ZXdC1MSnpV0gHMAUFVX3lxTE85ZlUwZU5HRmhCdTJ4M2pJREluYTVuUFp5Y1RZT3RCdi1kSU9LYzRMbUlhaHZqNmxqMUxBOS01dXUtMndHMEx4V2N1dXUtdXdicmVOM0h3bDNUU1VoVzhJWUVpSHZZcmdnSVJFY0hGM3V6dzBVLXdlVnRVc1FDWE9aaUVEcGp5UUFQTXY5bzhTVGRzeGxhM09ncHQ1RUh4ZlNHeU1vV3JEdDc1NE5HaHpFTWt4RWlvYkZzY3NUUjlsbzJLci1tZTVPQXZHSw?oc=5",
-          "source": "The Economic Times",
-          "published": "2026-10-13T12:46:06+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "BofA Survey: 60% of Institutional Investors Eye Rotation Out of Stocks as U.S. 10-Year Yield Approaches 6%",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kSHVHYWtFLW1RNUhTb2xTckxZcjVxMzg0NEJvVEVXVzlKcnRacXpYNGt3WjRXS0RFcjdQdlFVRnkzQTZEYmhycXJGNEI3V1ZNeW1EYV9fMmNkNmk2b3pWYWI3THh6SXBoWGlOWVJUUnJ2Nk1fWlE?oc=5",
-          "source": "BigGo Finance",
-          "published": "2026-10-13T12:35:00+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "India's benchmark bond breaks 4-day falling streak as value investors return",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VMFZvR09IR3RSc3FMTXFRc3lXZDk3ODc3QUsyTmx4cms1WWxjY2U4T0VaTjUzTVJuUVI0UzNFZFdSZDJJR01TQUd4UVVnLVpWaUphSmtn0gFWQVVfeXFMT1UwVm9HT0hHdFJzcUxNcVFzeVdkOTc4NzdBSzJObHhyazVZbGNjZThPRVpONTNNUm5RUjRTM0VkV1JkMklHTVNBR3hRVWctWlZpSmFKa2c?oc=5",
-          "source": "Business Recorder",
-          "published": "2026-10-13T12:07:02+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "Ditch 0.01% Now: Move Your Cash to These 4.20% Guaranteed High-Yield Savings Accounts",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNblFLdXIwdVRsbXdIaVk5UTZnMnNuRnpyeEVyVmYxemFnT1pUYllRdzk0dHVaa1NGTkJaZHg0amxaN25PNjBIWENvcm5ZeGFvWjZyVTgyWnNnRTBVTmRkdTFFQjNNOXR1d1B3OWJnMWQwR3pxcklUT3M2enB5M1BVRzZwV000cGRMTHlJR3ZqZTJMbzVEd3d5VTJpQjk5MXZHODRxVTNXYWY2aW5QMkR1b2UwLW90algzTEphSkVNT3VKR3Ax?oc=5",
-          "source": "24/7 Wall St.",
-          "published": "2026-10-13T11:45:00+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "Treasury, Eurozone Yields Fall as Markets Look to U.S. Inflation Data",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaVJGTVRQcWlpaDNiZVFTYW1od1ZiMVNKRU14QWVocUs2SnlZLW1KNzFwTVliUHczVUZhMURPSEtiay01cXJ0cnZOMkllU3phWk8xWVlIT2lzQlZFOE5rRTBFNlJjRTJYb1JPT2h5aFhrX2M2MjllVGc2NHhuNGJoMFVnOFFoY05SRnRsUEkxX25ZM1JndThkVGZjMW9XZDBrVFYtWEVDdmxmVFNseFotZW5pOExsSTZHRVVVNg?oc=5",
-          "source": "WSJ",
-          "published": "2026-10-13T11:28:00+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "US Treasury yields today: 10-year yield falls as oil prices drop ahead of inflation data | Hindustan Times",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeC1GTUNLZlpfZ0RJdncxOTItUmJUWjE2NmhnaDFPOHBRQU5xRTBPSWdWWWRJb1MyZm1mZHo1Q0xfb3RzMkprZWFOZEZsbnhDUEdGaGdPSzlSaWRubnNVbmJ2clFzRl9DcjVfd2hJZmt5ZzFtLW1yZ1M2QTBVbGdscml0Z0RudWdZT3llTDZyZkV3V0xuNjlCYno1bjRNSHBnZlVJWVZKZ1Q1aGFoQVItMDdWYUQweThIN3kxdUFfUnhLZTloQUVJam5SazFuSHhUQmVHbjZqSEdqbGtLbHBIMnlyVW5BbWNwSFZocVFyRdIB9AFBVV95cUxOd3EzNmQyalAyQWZ0U2duWlpYbnYzX0dqbjJmdDZTUWdmNGZUenRjU2xUTTJzajdNbnNmdmNOMWdiemlNU3JrWWpKLWppdUtXYjNQS0NNamNZY1hkVlE5TTlFNV9GZE9iOHFFamRkVHpjVm1OMVdNTk1ZcFpWWE5neHdUZ2twZUJSV0tENXJaZUhiUFo5Q3dqc243cnl4NjR5Y19DX0xsQTJxOXVlblBWb2o5SWhrTXJDZjl2LXI2NTlVRG52b1lHLXJZWFlkUTltQl9ySjl0VWNQYTREWVQ3NXE5Qi1pOWNic2pxMy1iYXVhOFIy?oc=5",
-          "source": "Hindustan Times",
-          "published": "2026-10-13T11:25:41+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "Treasury yields retreat amid IMF's 'severe impact' warning",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM0xQRmZ0VWdLZlVYQzRSSTFFdVN3cnNuSjNDaGhITGlualNfQnF1dno3YzUzUUVyWEhmU3pXc3NHVHRZQXdqcXlYQVlnVXdpMU9fLURVUEk5Nkc4U3pkVFFBQ2lEQzFUYV9mTko4UGFOcVVpX1pyc01FRzVvcWlTSG1ROTRTSjlRbHJkd2loaktOemlVa2phWkd3?oc=5",
-          "source": "Invezz",
-          "published": "2026-10-13T11:06:26+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "U.S. 10-year Treasury yield at 5.9% would spark shift to bonds from stocks: BofA investor survey",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWWVTYkVTd1dLRTZ5eHNrZ0xxZ0dWZHBTV21OUWNlR2ZRWERBYXNMZVctb1lLNFBndHV4OHJtcGVCU2dsaG1YWXQ3SFM5VWIwY2lzODhCVHk0MnJzMUlkclpjd0xpd0hoeVpwaDdjQ3JTTmZub044Y3ROY3JMZjFDNVM1c1FUSXJocHROcHhURzVNal9ObjYzellsVEl3T082YkZJOFl6a2hyTlZyb2lRbUZqanRkaUNyQzZXanl3?oc=5",
+          "title": "Bond Market Sell-Off: 1 ETF I'm Loading Up on Right Now",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWHFKZU5nWWNOcDJCRTZIT1BGWkRvM3hKckxETm1mczlzTlRQb2FLbXBDVXBxWmtKZk1Qd3Zva2gwUlNpMlhnNFFrQjhkeUI5a25fdlF5S05SWGF0QmE1SlA2OTVRVGptRS1EaE1uaUdsZTRIU1hoQThQTUY5ZXlGMWptdGZkM0tXM0l4c2gtZ2J5YmxQMDNJcWRObGNiejVDUXFkelRvSFBsdXhULUVwX0pSUU1WdzFrZ2V5aFhTM29oSkpzTUlvbTNDM1hkeU51UVVFaFprbGI?oc=5",
           "source": "The Globe and Mail",
-          "published": "2026-10-13T10:43:47+00:00",
+          "published": "2026-10-13T17:07:23+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "The Fed vs. the Bond Market",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nRWJvQWJmaE5odEhxYndVendYUE11d1hiM1pIT0NmUWx6SjRYZGp2SDVLUjRSYWF6Ym54d3hqOFNvZzlBa015OUd2SU9TdTRkY1VKYlY5dXBZLWZiWUF1eVd1WVdQd0FGU3pmSlpia0NObk15?oc=5",
+          "source": "SchiffGold.com",
+          "published": "2026-10-13T17:02:45+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "If You\u2019d Invested $10,000 in AGNC Today, Here\u2019s the Monthly Income You\u2019d Collect at Its Now Much Higher 16.5% Yield",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNVjg5QXhNOGVSTTF2UjdtWEZJR1pfVHJxQUVDemd1SXRYQjdGbXA1c1ZPSUtFMjFIVVBVeFRUejRlaHNXOXEwQ2FweW91VHY0S09zdkdWZnFyck83QjZfVUc3M2tkZFlDX3pKTDNkUlFuQjRlQmpVZkRlUjBBVWE4RGUxTjg2RWZPcWZ3alpuVmNrcGQ4dUF0bFZTSjVKUVlmRThyS25rU2JOblJjd2JYY25uWjZfNDAySTlyc0tRaVE4S2V4UE1MOUZtU2NZQy1MSmltN0xfMENDUlhJOVFMTXowMmNITmF2Yi1ONEVudVBXWU5Sc1RhR09xZ0hNczJGSU9ZVndLZmNRSEI5Q1FqOWUzc2dWaThaWmxBdlhsaEI2UQ?oc=5",
+          "source": "The Globe and Mail",
+          "published": "2026-10-13T16:44:36+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Why is BlackRock cutting US stock exposure and boosting Treasuries now",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS2FXUzFKNi1hUDEtMXNocm1sUnh4Z3haaFh3eGFiZjFnUTNkOGpiUVQ1WkxTaDFPSmpIcFV6WUU4eFJSUU5KdHRXbnhHVF9fNjNRS2UyNjIyZGdycGxteVVFeUZ0ZnVPSGZoTWVLa1lEMFpDcE5iLWYwQW1CaUZTWkpIX3RUbl9yM2tEX29SWGhOQzNkY1k4QUhxaXREc1hMSWx4bHRpY0hiR2xhUGc?oc=5",
+          "source": "Invezz",
+          "published": "2026-10-13T16:41:20+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Bank of America survey flags 6% Treasury yield as trigger for stock-to-bond shift",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYzRxdENRMGJDaEdMNmlLYm9CQWRwbDhXeGpLRHBhTlc3V2x5MFluclNtSUVNanRPZnRjTVpKVkh3VDhOaFB1bHhZUnhJQ2Rncjk3RUlvbTZuMGVXRmNjaExCUnk0RDNhZUphZ3ZyUTdOQVo2cThuQTNwUzBCTnBYelFibHpkY3lMUmJPcnFieE9rQnRTUmpZLVVvMVpZUUxo?oc=5",
+          "source": "Traders Union",
+          "published": "2026-10-13T16:33:32+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "BlackRock shifts to US Treasuries, cuts stocks to neutral as yields climb",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLVROZTByb2ZRVEJyZGxrSTI4V2ppSVNVRkxiYkg4UzVIN2x1ekVCdGpqcE9JYWM1R19XS2RIN0xxY3JDT0hNRmtJUVZZUUtzM3Z4TlVFZW1ROHYtZzlvVTZrbnF3UTNDQVpQem1PMHl5LWd2QUpWWFFSdFBZUncybzJoamltYlZVYlFRVk9BbVBJSWNqSUpEcGxkWF96SWNJLWltNndqU0lRTGRh?oc=5",
+          "source": "The American Bazaar",
+          "published": "2026-10-13T16:30:41+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Bitcoin Slides 5% for the Week Amid Triple Whammy of Oil Prices, Treasury Yields, and ETF Outflows",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jLWRPeUQyX25GbWtiblY0WXJfdUdmeFIzNkJjYmN3Tk9xWnBSbm5WSlpwbUViTExFNE0xakNaTHVRbDJIYy1BT3B5RDBKWXhtTXQ1cW1Kb254Q29kWGZYODVPbXRNUVZqeHQyWEFyMElPM2hETUE?oc=5",
+          "source": "BigGo Finance",
+          "published": "2026-10-13T16:25:00+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Fund managers won't dump stocks for bonds until yields hit 5.9%, BofA survey says: Chart of the Day",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iUGcwTXZGYzlvQnc3eWhCNWZHQ2kwVEg3VkIzR0dLV1Nhbm1DQThmQjZSZmpaRFk1YnJJUjFNYmRoR3BfaUpTUlB4bnZsbm0yRXh6aXBRMS11d1E3TE4tdVpRMTFuSDZXaHNIclFCeEFTNVpQTE8xSk9oUDdzUVk?oc=5",
+          "source": "AOL.com",
+          "published": "2026-10-13T16:12:52+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "US Treasury yields yet to peak as Fed may tighten further, PIMCO's Ivascyn says",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU0RXSWVzQkZlVjdULUdZVWZWR08wMzlzcC1yMndvZ1hmUmNodUJIZ2pwNUVST0NkamV3MDVBRVltZFRvc1FkZFhsOVdhSjFWcF9nYmdtWDRPamhneVNEYzc4ZlpnbVRJQkh2akstMFNDaXNxenJ5ZGJlNnFNSUdLQURxdW5lUzktRGp4dDc3QXk0aGlZcDBF?oc=5",
+          "source": "Yahoo Finance",
+          "published": "2026-10-13T15:52:19+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Wall Street slides after bank earnings and tech pressure",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUVF5cEVRVXNMTHlfWHVXYVRXSmUzLUE2eXlfTTZtN2tmWTdWdEY3eTdxQ05SQS1xZTdHSG1RUkV2YmU1bGpDSlA3Y01BZGlWblBUbUgtVVdhUUx1RTRXZ1lGZDdmbVVPOGc2bi1nZFN6b3RWOWJsWVkycEVVakVQbDFoNXJpZk1jYTdOWW91dklSOC1jUFJIaC1iYjdfRTJWVVFqeThtcG51X2I0N2V5RzVGMUxyYW1wTGpR?oc=5",
+          "source": "TradingView",
+          "published": "2026-10-13T15:45:12+00:00",
           "via": "Google News"
         }
       ]
     },
     "CADUSD=X": {
-      "price": 0.7027,
+      "price": 0.7035,
       "prev_close": 0.7031,
-      "change_pct": -0.048,
-      "quote_time": "2026-10-13T14:25:00+01:00",
+      "change_pct": 0.06,
+      "quote_time": "2026-10-13T20:00:00+01:00",
       "name": "CAD/USD",
       "news": [
-        {
-          "title": "Pound firms as IMF raises UK growth forecast",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT0FfUmdkQ3lsR2FvTUM1aTdzN1ZGbWhDRG9DYnJjZzBVdFZSYVY4a2JGcG1CMkhJalE4ZmlkSmFfY1JOYmFYY2xiSjlsTUZEUE1VMzI4LXg4VENjT2FGLUZhMjJiWXprUE9QTmtfSXNaOXUxaVlpTEZSREZTS2JLV1hJRzhaYWdzQ2d0Yg?oc=5",
-          "source": "TorFX News",
-          "published": "2026-10-13T13:24:39+00:00",
-          "via": "Google News"
-        },
         {
           "title": "Canadian dollar gains as U.S. dollar retreats from 18-month high By Investing.com",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVXVEV0lSRUxIQk9iZGZsX3lHNXk0bnNYeHIwYWNXcG5LR2M1bnU1OU1lNXZXLVdEMFhEamkxVlZBRXJNdVI5Q1hwUmFlOTBFeGprVjRoTHY2enNxNUppREJqRmpRNWE2YlJ2T2ljSFJrdVlHcG5HSl9YaEExcWF0ckxxRm5fNURiREc4S2JBMm43RTFLbmhMM2FDNkFpdHJ4LXQwN2RQekd6ejgtY0sw?oc=5",
           "source": "Investing.com Canada",
-          "published": "2026-10-13T12:35:18+00:00",
+          "published": "2026-10-13T18:19:57+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "USD/CAD Forecast: Canadian Dollar Holds Firm as Markets Await U.S. CPI Data",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSFd4bFNKalZqZUFPeFZRR1FsdnZjNHBvZWdaQ0IzNGlYNlBoaVlYc1p6Mkt2ZXNXNEZEaVZuZUJzdHJ4Q1VZa1RXMlc0bG1tUlU2d2ZMaGl1LUNzMXJCcHBIRVJwV1V3czNnTlBnMXFHcC1xMlE0TlFyTmxubUpaekE0TUdseDFTOXZUSEI3Q0UwUGl2Z09seEVNV05wNjhxcUxXNHN3LVBNWHRkMUxJYVBwODMyb0pBNklGWkxvQ1J0VlNBdWlnaGpHMXNRa2R4WjdGVQ?oc=5",
+          "source": "StoneX",
+          "published": "2026-10-13T17:59:07+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Canadian Dollar recovers as softer US Dollar offers relief ahead of US CPI | FXStreet",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vR1JielhIY2lPRWJPLWdxUUw1TlkzWjRkQnQ2enhZN19PZ3UtNkZDd01GczRIcFIwdGdnMGZYNGNjSWVGUFJVUkI2YkdrcnF0X1Yw?oc=5",
+          "source": "\u0634\u0628\u0643\u0629 \u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a\u0629",
+          "published": "2026-10-13T17:16:55+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "USD/CAD (USDCAD) is down 0.52% on Oct 13: The Reason Has Emerged",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVDNlaHBJZXNmdWlhTF9YZXl3Z2ZsUm5LRHE0cVphTTF5RU4xRFRmYzhtX3Y4UXozX0FmR2pGSWlKU3pVNTcyT0lOY0xPalg1QVppSlpNclpEUzIyYVZyZVVkYno0b2xsZFI5bW1GS05tVTlRZWs4ZU9wTU5oYkxCdndNTVNnMFY3WHZyLWZ3?oc=5",
+          "source": "TradingKey",
+          "published": "2026-10-13T15:15:11+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Canadian Dollar: Modest gains against US Dollar - Scotiabank",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX2VnV1Jnb1UxRmlXS0xINjdQQUpGQWJQX01JbGtQN0dKTE9rYWFYS0F6TWZkNDB4SGxmejRwSmx4S2pkN09xZ3NpcXBLSXB1cnBNeUxiWTZqVFUxbC1xYWk5UzZvcDZfaURadTdwd3hxVl9GRWlzVmJJQXVKdEZtSlptSVdTeWVVQ3ZEb09Na1J4SGFiR0pFVnpaVWM0dU1KY0E?oc=5",
+          "source": "FXStreet",
+          "published": "2026-10-13T14:23:57+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "USD / CAD - Canadian Dollar steady but soft",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUW1PZXVscW1hMkJpUmh4bGpZS1ZkSUc5SjExdFRoZll1dGFpSEJndmk3YW5Wbk1KbHZMRXRPcXhhSkVlcVh6Tk1FamRMR1JGUkpQdXFUSU5uc2E1VmI2a05RR2VBaW5XREJEcm5yZldOdzJsaGltRkNVV25yLTFQMUdUd2UyWlpmYmdN?oc=5",
+          "source": "Baystreet.ca",
+          "published": "2026-10-13T14:22:39+00:00",
           "via": "Google News"
         },
         {
@@ -322,372 +350,407 @@
           "source": "Yahoo! Finance Canada",
           "published": "2026-10-13T11:34:43+00:00",
           "via": "Google News"
-        },
-        {
-          "title": "Loonie Finds Modest Support as USD/CAD Holds Peak",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLWNPaE5BQ2pQM3Y3OWs1a3dST2VxdWJxMUYtT3BGYW8tVTg3eFJZOEFWeGNBZVZWVml2ZUtldkJBZWJUUzk5bUxQVHJ5TEt6VWhIc3JwNzBWckdnYVpaNmRUZEF2alV2Rk03cTJuU2xpWHh1TTdSaFZSY1U5SVVscGRadHg2bEx6b0gxejY0UVdtaktw?oc=5",
-          "source": "TradingPedia",
-          "published": "2026-10-13T06:12:58+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "Pound To Canadian Dollar Price Forecast: Mixed BoE Signals Keep GBP Choppy",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLXVYeXl0U2JLaTR0amgzOUtMV2d5ajdEU2RvdzV3TkFqN2xvMkF2WkdMM3BIWHNheG8tbEJQZ2V2SE9QclNyXzZpMEhCQXN2cVpKX0k2UEUyeUFWcWp6S1hSazRUQVAzY3o3T0tBRjNSMV9KNUxTTXIwUm96M1E5S0c2ZGdTQjZMVFdYdnl2dW1fekNMVXlWV3lBNWZ0LTFrOE5faGEzSm1pRkNnaGY2UEs2RVRiRUppRDJ0b3JranJ3Z29VbXpFMTJOakVnQQ?oc=5",
-          "source": "Exchange Rates UK",
-          "published": "2026-10-13T06:00:00+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "Canadian Dollar edges higher but holds near April 2025 lows vs USD | FXStreet",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Vb2ttb2VRUlRpcTNyUkV4X0VRQlptNDVhbTlPcEt1QmFpWVZXN1lFY0N2NDVFX1R6emlZSWIyUGdjSGVfd1pGV1p6VVpaV2FJamI4?oc=5",
-          "source": "\u0634\u0628\u0643\u0629 \u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a\u0629",
-          "published": "2026-10-13T02:06:50+00:00",
-          "via": "Google News"
         }
       ]
     },
     "VET": {
-      "price": 11.92,
-      "prev_close": 11.87,
-      "change_pct": 0.421,
-      "quote_time": "2026-10-12T17:30:00-04:00",
+      "price": 12.2,
+      "prev_close": 11.92,
+      "change_pct": 2.349,
+      "quote_time": "2026-10-13T14:55:00-04:00",
       "name": "Vermilion Energy (VET)",
       "news": [
         {
-          "title": "3 Oil And Gas Stocks For Investors Watching Brent And WTI Prices",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUURjLVJkREpXYklxalJfM0RrTjJ0N1pUcGl6d0FzVkM0Q1RPYXdjaF9UbHItRnhId1Z2OEF0aWFSVkVrMTRQWEVuMmZOSTBDSm9hLXRjWnRVM2lfVkd1UGI5LUlNOVV1UXRTV1hkT1JlNXZuQzdYVG0xVHJ2T3FrZlNlTGJWdU9HM2RON3dGZm1IZ0NQUkNyTWhHOVYwdEd0VjgxNVJjV1dUcVVTakVMZkJQVHFiWmlTUWZMYkhXeXoyNE84N3hKbzJPZmV5SzdnZ1Uza0N30gHbAUFVX3lxTFA2MHRGZEJ5REd6MGYtV2NZeG1OcXEyaUQxb3IzS2NxOTVfQWUtZlZZSTR1TzVPUUhQbXkwbHc3N0lLUElBTFlRbXRFNFNWSDdGSV96NXZYSUtmVnJ4NFFPOXBxV0haUjluOGg4UFlOU3I3ZlRGN1Y0cVYxRlBZREw2SmR2TFlkMEJXYVEyOWh1MzlHV2x2WHdOaUNZXzJPYUNqQVVHN1NlYVpCcW9aWE9kRFhlc0Z1YnRvMDl6WHNkRTB0V3MyT0lMWFVoYVlldngzODBIRTJOaERMaw?oc=5",
-          "source": "Simply Wall Street",
-          "published": "2026-10-13T01:52:23+00:00",
+          "title": "Is Diversified Royalty (TSX:DIV) Canada\u2019s Most Underrated Monthly Dividend Stock?",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWU95X291ZXBlUzBlWnhrdDlaYzJkaGtKQlpLUF9LNGVPczRnaVdUaWZvZm1XREhENFI4TDBIWXlmMTRvZ0hMLW5URkswWTlET3B3dEwyNFd6UDBqejBFRnRHV2RNN00wU0NITHNGaDJhaEJmZmFQazYzZ1U0MHRDRFpVU1pWd20yeFZYY2hEVWJxejRXelRONENtSGRSQ25XT2ZsSWJjbENoSHhkUEl0VVJmZjFndTVVZjJkaEFn?oc=5",
+          "source": "Kalkine Media",
+          "published": "2026-10-13T15:25:00+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Is Dilution Fear Behind IsoEnergy (TSX:ISO) Stock\u2019s Recent Steep Decline?",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb0ZRX3o3LTQ3b0NHX2FESVBZaXVMNkE0aGs5QlMtYlFEZTMzdDI3WWJjS3VaX2xLVzAzZTVLYkRKbHR3U20zOVhlVm9QVXF1TFJsYmM5MEpCRFJoOS1pMDB4akZuRXIySEFfLWhlOTNRX1htNl9tTHBCSmdmVnlxb3l1eEZDcWxHOHRWWkhJY0htY3loRUs3T1JWcUlHSGVYMEduNXh6QzJOeWRLQzB6c0pvOA?oc=5",
+          "source": "Kalkine Media",
+          "published": "2026-10-13T15:15:00+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Baytex Energy Corp. (BTE.TO) Stock Price, News, Quote & History",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aUE1KbHBlaEExSk10a1c1T2Q1c3BlSW81WTNMTUExN05PLW5JaHFNLVNYYkJDMndSaWkwRVpmVmhMdHlyaU93Sk5ZdmprY1lOR2lJRQ?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "published": "2026-10-13T10:00:36+00:00",
           "via": "Google News"
         }
       ]
     },
     "VG": {
-      "price": 13.23,
+      "price": 13.8,
       "prev_close": 13.13,
-      "change_pct": 0.762,
-      "quote_time": "2026-10-13T09:25:38-04:00",
+      "change_pct": 5.103,
+      "quote_time": "2026-10-13T15:00:00-04:00",
       "name": "Venture Global (VG)",
       "news": [
         {
-          "title": "High Flyers 50 GloBiz Awards 2026 Celebrates Global Business Excellence in London",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORzUtT09zaTZSd09WdWd0TVB5ZkZmT2E0anRZUGo1NmZiLTZKQzdJQXZSRkwxSDZwZ1c1eC1tRDZIb3dQeW5aR094a2hQQk8tc1ZURGp3YThURW5TbkEtemdnUTFHeERIT21uc1prTHloMS1DQUtacmZXNVB6YzVRdlNSNEdtRTlDOUZudTR0bV9BRHdtZ3J6OVA1S1Zidzg1SVNtOVNhRGU0WXc5S295UjZCbmR0VjVSb3hYQ3lBcmJSZGNDOHc?oc=5",
-          "source": "Big News Network.com",
-          "published": "2026-10-13T13:18:00+00:00",
+          "title": "Updated: 21 standout women in CVC on the US East Coast",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbzUxd0lEdFV2RjMtQzNtTGE2anpCX1laQnhnV3ZIYzB2Y3dkS0J2cGhiMlZiUUZJTEF3OGNaNEEzVmtFMldWQ0NtVHVqanluYjgwbXIxRUpiWEowYjlnVFNPNE1BZXJfZExWX2N2Z29PWEpKdmtPQ28wdWVwQm5GSEdGNzk5eUtm?oc=5",
+          "source": "Global Venturing",
+          "published": "2026-10-13T17:51:38+00:00",
           "via": "Google News"
         },
         {
-          "title": "Utility-scale project roundup: Texas joint ventures, Illinois commercial BESS, and cranberry bog agrivoltaics",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUzNsaW53bDIwS0lVRVJIOERORTVfMnBZdUZqSkRRM3ExUThTMFlsZDdxalRJMkdhTlQ1OGtIVWx4cjFrN2FWSlkycHhqR0ZoYnY4U0ZLWjRlZ3R4SmNqZWRvWXlzSnFSbGVMRHNmaHJRZDVFZlFscWdPbTJCNUpZbEhxUG5SVnZ3OFp2VFZHRWwwenNIWk9PZnZaUGhMRkNkc0tZSFBzRVhTS1B3a21FNHRWWUxEaFQxSlphVlBGUE40dDAzN2tNMVR2S3VKVnMtWWNLZHY1cXBFVDZoSnQ4?oc=5",
-          "source": "pv magazine USA",
-          "published": "2026-10-13T13:17:54+00:00",
+          "title": "UK Venture Fundraising Reaches Q3 Record",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85OFVSSGk4Uk5hSVgwd3BTbnMycEo0bkVfSWZNTVV1NHdqUnpQVnZIWXNkSnpDNWRYUmlEWlh3Z2dRaUp4QkZuTVY2YUVTeF9DcUtKMEFfWnZvNzlTREJKTmxBakJFRGlxcUwzU1VNMW5JQVRXeXk3MQ?oc=5",
+          "source": "www.ai-cio.com",
+          "published": "2026-10-13T17:06:55+00:00",
           "via": "Google News"
         },
         {
-          "title": "Adani Enterprises, Jabil Sign MoU For Data Centre Hardware Joint Venture",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMm8tMDFaOXMyR09Sb0VuSFF0dzBaVkFGRG9DdFhHSGtvVkV2REJoNm9lZk4tWmhnRkdLTVZXaUlxZ1VKYlJGSkEzWXVXRkJuaE4yRFIwSk9MVFRpTkVzQ0xRRWdOWGt4ZlhONERwMV9DdkFCZTVHNEJjWTdPVjJKLU9yelNNYm1YQ1JuOVExM0lZWkdic3RyM1dPY1V3d1VsOXlJMWJaQUlja05xZlFOQVV3?oc=5",
-          "source": "NDTV",
-          "published": "2026-10-13T13:05:48+00:00",
+          "title": "Venture Global (NYSE:VG) Shares Up 4.2% - Time to Buy?",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRVllQkRFVzhob0Z1WEF1ZGY3QmhYQjFpM3lHWHFZNzFMZzNoU1R0RWQ1cU04ZENMMDA1QV9qMC1EVWEtTDJJY0d6M3FON2JmV3lVdm9MV21wWFFJYkVibE5ueEF3cTRHS3l0NHRWTWtET1FzYTlpS1JvZl9sbkI4LUxwQWJtN3gzMXNRaldVMHU0dkg0ODloRDU2MFhzREN1T3JCUkZNSnE2SHM?oc=5",
+          "source": "MarketBeat",
+          "published": "2026-10-13T16:44:38+00:00",
           "via": "Google News"
         },
         {
-          "title": "KING Global Forms Joint Ventures with Quantum Energy Corp. to Commence Processing Beta Test at Cleator AZ",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVmpXRzdDVVZxUDdWMEc0WlU5RG12dVJ3dzFQMG1MVUxRNVRndExXM3RQTXJoVXlBSzBiYWUwV0d5aFFieHEzVkdWa3NJLVA5QU9pcUJ4R1IwdE9kakNIN3pWUExLRFJRZXFFOWl3OENxQzBwVjJOM0FTOFpQLXFfbnlRUndvcVpXUFFEM3pRYnRVSUU?oc=5",
-          "source": "Yahoo Finance",
-          "published": "2026-10-13T13:00:00+00:00",
+          "title": "Fincantieri completes Xtera acquisition through Prysmian joint venture",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWWNSTzlmdlhNY0t2bFh3SGlDRk15REU5MlB0YThMTlU5UWU5LTZlcTUydmFpZVc3NW14R2p0WEZndF9GalBJbkZNaS1OU29wUi1LZDEyTENLZ0l1Y09vTjFCLXZVUlNFdG05QXFueGdWSk5rVkgyUUozTWJSUDRjaklCcUpLS1JKMm1SN3B0R2NkalR4VEFZMVJpT1JfaUFObWhzQmV5bHNYZzNicnd2Y1Y1TE5NTVdnTFdldkY2Z2NpTHgyQ0ZQcQ?oc=5",
+          "source": "Data Portuaria",
+          "published": "2026-10-13T16:05:31+00:00",
           "via": "Google News"
         },
         {
-          "title": "Adams Street Launches AVNGR, a Venture and Growth Evergreen Fund",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNloxYU9DTzFxcy13SW1xTzBiZVNKNlAtWTZKMVNhOFFkOXI1VnRRWklGVk9tbFZweVR3RzBsREJLa09fbTNnbTVPVlk3d1BSdk5jV1NWNEM5cjN1SUhoOVpLNlQ0SnRma1I2Vk1UN3A5VkN3VTBla1RKZHVZOHpxRW9WTTJnUktLeUlPZnBET3lfZlpKejk0X0pFSVdvQ0NSVFVqYzVOa3RaSzA1MzNwTU4xUUFqbWh2N0Y3Tg?oc=5",
-          "source": "Business Wire",
-          "published": "2026-10-13T13:00:00+00:00",
+          "title": "Short Squeeze Frenzy Sends Venture Global Soaring",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMFp6ZzJiUjdEVmtEcWJaMkhaVjltTEpIQkR6dUZOWHYwY0U3UTF4YnpzRUxwNldHaHZkdDMxTlFQVk1lb0N0YkZ1WHBTNTcxUzhaTUFCQkZDMV9VNjNtZHBhSl80cDFsNXZWTUoxMGU1ODBZQ3RRQ0o3SzBoeXhxanp5MllTbGZoREFNX2N5Sm91Zw?oc=5",
+          "source": "TipRanks",
+          "published": "2026-10-13T16:05:20+00:00",
           "via": "Google News"
         },
         {
-          "title": "Adani Enterprises, Jabil Sign MoU For AI, Data Centre Hardware Manufacturing Joint Venture",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQjMzbW9GRUVibXZDdVBPQ2FmRFpSTHlzekJ0ZHVHWEJsNWgyTlRzOFdBWmxuMTVMSDQzclFDQVZrV3RxVEZUVy04ZEJ3Z1o3UU1yTmQyX21fVFp6MF8zd001UFFVa1R4RktISHBLWkpjNkZ3R1QyR1hmUmU3NlJUNkY0ZWVVLTZUVGEzcnFnZmV1eElaX1p5dV94S3JtU0FQNE0ya2cwLUttOUJDSUFpNGVRMkp4cmUxNHRic2pqZGlSZDB5SVF0ZDlOd0lGZ9IB1gFBVV95cUxQT0pDYlFyZHR4UUFQcUdENHJyUjlXQWNuUnY1Z1VoUHFDRkVnR3hIRl9zUDNUZm5rMnFFTXh5LTM0MlRuY0VHeHgwZlo4d1VpeEJVbVJhbjJNZEFFNlpXTUlWejZIZWxIRTZMNnV5ZTRMcUxQT0pXakhQRG5iY3pwTlMzU3dIYVBGU19aUFBsOThCeEhjbnZaeFEtR3RjRTJUSmI5SFhDdUltUnQ0OTBDV3poMHp2QkRPWkpRSmFsTjd6eFZFYnJReEdDckI4ak5HeU5ic0ZB?oc=5",
-          "source": "NDTV Profit",
-          "published": "2026-10-13T12:58:43+00:00",
+          "title": "Qatar\u2019s revenues crashed 42 percent in first half of 2026 as gas exports collapsed",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYmZaZW5mcjFhMGxxdWFqRjNhVlhTalZMN3Fvb2todDRod0l4UTZUTlNjNVFOem85Qm5jZjY4WEVaelNJWDRqdVBpeW85LW9VYWdNcC1kQnNOYWlSaDRMMzVQdG12NjlzZFM2b2IzWHhiUGI2ZVVlajRLLV9lTTJqVUY4bkhZbEJsVF9YODdzV2FDU09CZ1pHaUdaUHFrMTk3MEh5S3d2cHNZdXk4T1Nlcw?oc=5",
+          "source": "thecradle.co",
+          "published": "2026-10-13T15:57:53+00:00",
           "via": "Google News"
         },
         {
-          "title": "Adani Enterprises, Jabil sign MoU for 50:50 JV to manufacture AI data centre hardware in India",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdVh0c18tYlhkME5RU1YyRmxVeWVDeXMzV2ZYVTEwakh3WmpBS3FEaTYxeTFna2I4VmZlTlpZUU9MZzdpd19HQ2xDVlVTaFByc1dLSlpDZUVnQnFtaHpiR1VJWHFtcGpNVXhsd2Yza2ZRYXl1aXhGdVBfQWtuZjZFNXRvV3JLVms3NlhMY2lLckFUd2R6WXVGMXZBbXp4ZXFFb2FxbE43enlqQThjMEpQRTBHeGs4ZXpISm9mSGQyQzBRQXBQeEtpQ3F6VWVjalNCYmlZbHlxdWFKWnpkdkF4SThrT1k?oc=5",
-          "source": "TradingView",
-          "published": "2026-10-13T12:54:09+00:00",
+          "title": "BlackRock Replaces WCAS as Humana's JV Partner for Senior Clinics",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSTZ1VWxPOFZPcGtic3ZxcGI5VzVWdG9pZHFBd0RCcGN3MUZKY00teHlqLU54TDNOMUF5T3FFbTZKZVd3aTdVWkFhN05jUUxDSkFNRU16MWIzUHFOTkFTQVNwWGN4SEtYclR0NGkwRzhObXZHbU1zSFEyMjhpc1NUTHl2UVB1bmFkNlp1VDUwNjBjN2dwYWNOb1hwNE91Zw?oc=5",
+          "source": "Global Banking & Finance Review",
+          "published": "2026-10-13T15:44:34+00:00",
           "via": "Google News"
         },
         {
-          "title": "Thomson Reuters (TSX:TRI) Closes Its Print Deal in a Sharper Pivot to AI",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ2oxS0l6ZF92dlcyYjBzLTdiaF9yS0pnMXhrNF9qMWo5UkFsTWttbTNoblpFNlh3UXcwMENZcUtlNVZZNHNwTlg2Y1RqcGhGS3pkeVBrVG04aFdya0dzc25ZQ0twdlhma1NVcG4zZXBWeTh0YlRzcDhEdGRfM3lzMjB4VkRMeHQwRXpWOFNsUVQ0UmZtS3dOUWFKTlpGSV9zSWowYmpjWFNJVmZkR3JmLXJxaw?oc=5",
-          "source": "Kalkine Media",
-          "published": "2026-10-13T12:54:00+00:00",
+          "title": "Nissan brings a new generation of pickup performance to global markets with Frontier Pro / Navara Pro",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VWVBxYVE4TWZ0a1F6SDVucFM4ay1hWHJGcVRKUEpKM0FJSlZPTUxadDA2M0dsVVc1bXNNY2tjSTNocHBUSGxoVi1rSmxFbkltWmFRWk8tbzZkQWtZcjBJNS1sT1EyZ0RZ?oc=5",
+          "source": "WebWire",
+          "published": "2026-10-13T15:40:50+00:00",
           "via": "Google News"
         },
         {
-          "title": "Top 10 Powder Keg Stocks Where Short Sellers Are Sitting on a Fuse",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ3NvSU1tdmJVaEw4Qm03SVZxVmJ1Q1Z6Z213TlY1YXcwTzRjWnhDMG9BV21seXFNNzlRWC1yZW9HMlplTVhyU3BFdGpfQldod1c4bllsQW1VOGhGZDUycHp6NUNtbmVyUzc4OUQtMlQ3RFlBZGhua1ZqdldKV3NyWnBoY05sMnRkVlV4dnZPai1ldnQyZDV4R0JPZWp3UlZFSk5OVGhPNGZpM1N0N0NLRzR0b2hhaE8zSmd0b0s5UEItT3FMaEE?oc=5",
-          "source": "Benzinga",
-          "published": "2026-10-13T12:45:11+00:00",
+          "title": "Venture Capitalists Transform into Full-Service Platforms for Startups",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUGVmanpXeTd5cFhzZ2tqanlRZm10QUhMcUJYMnpGZmdsRHRpa0lxclUxXzNKRGJJSERiT1Vyb3JfdVRVaHZKVURXNlVBYnFSVnhKekpmTTlqN1FJcGg3YWJqeThFZ3dsRV9IRE5SaUR4Y0JFbl81UURDTGtrenVZZ0ZJbDJ1elRZ?oc=5",
+          "source": "\uc870\uc120\uc77c\ubcf4",
+          "published": "2026-10-13T15:37:21+00:00",
           "via": "Google News"
         },
         {
-          "title": "Tata Motors Passenger Vehicles Ltd (TMPV), along with its subsidiary Tata Passenger Electric Mobility Ltd (TPEM), partnered with Netherlands-based automaker Stellantis through a definitive agreement to develop vehicles for 50+ global markets to expand th",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNbkl2dDUyblk5cjl0Ul9rRnl5RVFiZFNZdlFLMVZzYjNYZlNTUEVMaGc2RzdQMDQ2S1VNeWFrc2JmYmxvMGYzbW9xdnpsUFFfWnc?oc=5",
-          "source": "Instagram",
-          "published": "2026-10-13T12:38:22+00:00",
+          "title": "King Global launches critical minerals processing JV in Arizona",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMXJYRmE0eHJ5MHgtV0s0WWhYMDdXeWl2cFNZYnlHQlJVX3c4dHVyb2l3VkMyWFhlQ1F5TXVGcllLVC1QbVhrLTAzN2lpZWxHa0RTOV80blhaeFJ5TXFpaVUwSGQ2ZWp1NklTc2pIRDVPTnlGR3hUcDY0Qlk2a3VydW9UOW81c25jeTNWeXYxRzZHVjJNRE5qUjlHVVFwc3F0R2NuT3ZlZ2FWRXB6aERFT0E2cW5udw?oc=5",
+          "source": "TipRanks",
+          "published": "2026-10-13T15:37:07+00:00",
           "via": "Google News"
         },
         {
-          "title": "Jabil and Adani sign MoU for AI manufacturing joint venture in India",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUnhyQnpPbUsxaEVXdkFuRUNhMVhJMEd3RkJqQWtyVDVZSHU2VE9fcnVFS3hlNXRSV1JLdEY5QVh0QVl5SzZjM3hvUnpWclIzeU5JbnVGQWVOT3NLZ2RZektZSHpMVFZFaVNJZ1JKZUJfYjZnVDJUb0h1b1NDQ1kxYkZfTVdrUmE5XzFSRjg4ZndZRVhHTFdKYzFMYnNTWXdQX0w3STYtcFdCUC1uWGJ0M0FMXzE1alVPZEdoc3JPSzF3d1g4cGwydg?oc=5",
-          "source": "Investing.com Canada",
-          "published": "2026-10-13T12:35:27+00:00",
+          "title": "Venture Global's LNG Capacity Expansion Supports Its Growth Prospects",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWWIzY1VQbkd3d3I1WHY5My1iLVNuN2pjR3kzUW5VMDVvR2ZkUV9vd0JONGZ6TnRobzhtMTR0bDNPMER2bXFaLVVHY25fUTdrNldvZG1zYUxOM1JMUTNzWGV0azZwTUNfTWFVeHlJR0RXNU9fcGtPYzVkVEpkYm9DaUU3X0hwbFNXaVZmU2NTQWg?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "published": "2026-10-13T15:17:00+00:00",
           "via": "Google News"
         },
         {
-          "title": "Global Venture Management Examines Why Leading AI Companies Are Staying Private Longer",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUU1fQTlXOHRIV1hUV2J5NVZyQUpmR2pZRkFYNS13YVRiOUs0a3c2U18yZUxmSWRwMWpUS3JUMzdtdFI2VmF4aGNwZDR0ZHRPZlRwa29DUHBoSmFNMXVxY3ZxUUxRV0lKbWxTb0VnUkhtOGQ3SkpORmhWb0xBbGp3RTEyR081MjJyTHVmbzRZaU1yWF9nTVhPZWVhY3JSRUZzU29NNTBRc1hITGhUYzBUOW5DOGREVTlsLU9uRUhSRFc5UEhib3FrUmpKdG82akl5MEZZbjNNOTc?oc=5",
-          "source": "StreetInsider",
-          "published": "2026-10-13T12:32:22+00:00",
+          "title": "Adani Enterprises and Jabil partner in 50:50 joint venture for data centre hardware",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdU1DOF93VWNUUVVjTTVlbkJwOU9PSGZWTWdqRWR4VzdKYTliQWp6NG1aUlF6UDNiaHg5Z2QteHFDUVF1Z0l0TEM4Q0FSbzRmTkp3ZDVLdEEyZmVGSmdWcFNfWEMzYlRLVHlwb0JWaHBxQ3V3TFpzWThHOUVIM0FGVHdJY1pFdkdfVkt4R0N4dXota1l2Rm41b0x3cTVhRmVnMXhrQmZLc2o3QWJ2?oc=5",
+          "source": "News Riveting",
+          "published": "2026-10-13T14:49:45+00:00",
           "via": "Google News"
         }
       ]
     },
     "AMD": {
-      "price": 578.5,
+      "price": 597.26,
       "prev_close": 594.24,
-      "change_pct": -2.649,
-      "quote_time": "2026-10-13T09:25:00-04:00",
+      "change_pct": 0.508,
+      "quote_time": "2026-10-13T15:00:00-04:00",
       "name": "AMD",
       "news": [
         {
-          "title": "Can Advanced Micro Devices (NASDAQ:AMD) Keep Gaining Ground In AI Data Centers?",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcV9PckJBM3hUdDdPc2ZEYUlEbEhfNE0wWEQtZDZFSHc2YXRsREhUaWFpczdwMXlYTlNZd2ptTXJ6aTVCT19POFZRcFVJeDFUTVNOWF81eUVpNGdodnR6cDI5dk5ucFo3N3RQYXh1ZTY2cUpfaE10YzhaVUI0NV9UQTRSX3ROdGdOb1B2WFNnc2w1N2RicUFDMzFLZk4wUzdUSFp6VmloLVB1NDhjbmxONnQ2ak9VaElBTDE4cnhmcWRPbFNGN2JBMWV2d0Yzdnc?oc=5",
-          "source": "Kalkine Media",
-          "published": "2026-10-13T13:00:00+00:00",
+          "title": "Fermi Stock Soars 20% on AMD Deal. Why Analysts See Hurdles Ahead.",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdnJsZ01lRUVnTnlyUVMwdjJtTWhaYjJLd1F1Sk4zS04yVVNfZjFTU19Pc2UwbVlMSmtHNi1EVFVQZTJVbE42WWtsS2dxQk83eUtpdWlJeWprQWxwNTZocUc5Qy1XUkpVME5uU05yMUVQUEUzUDUxZXRpY2ZYUGJhcEh5bmFyZw?oc=5",
+          "source": "Barron's",
+          "published": "2026-10-13T18:46:00+00:00",
           "via": "Google News"
         },
         {
-          "title": "Fermi signs credit support deal with AMD for Texas AI project",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcy1PREM1aFptMUczeUFuVFBpQzNoVEFiOUpzRl9LaFFLZThwZWUtcjJ2YUZoT1NjeHU5bGpfS0VGLVM4UW16STRoSjMxNWhBeC0zbWxOMzN5cWZPZGxnRVM0U25Ndkpia2VCbm5VM2dKZzEyTjhGaFlwYXlFNWhPZG04SFlSbGUxSGdvSEwxcWJGdFl0eVIxdnFWazRmeTNKZGV0UEVYTzRZeVdGLS1DS0JxM2tHTklaSE1jRw?oc=5",
-          "source": "StreetInsider",
-          "published": "2026-10-13T12:02:53+00:00",
+          "title": "AMD Stocks Slip 1.2% Although Sweden Deployment Broadens Its AI Reach",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNlZ0azBzX2ZjZlBjcXpRVDV4ZjNteTYtc0g0MGVQTUE0UFM2LXBvb1dtRDRMMmN4TkYtRU5sMDJBcWZzdm5QNzJvU3Zkcnh4ZU9VTEVPa2oxUVZwY0FocDk1bGJiZVJDZWMwUW1ET1poN2taUjByUnZsc01yTU5FWlItNTlKNjNteHFaT09QY29KNGhmOVFLN1hNN3FyUzJ1dWZaUGpYVDJ4Zw?oc=5",
+          "source": "GuruFocus",
+          "published": "2026-10-13T18:35:34+00:00",
           "via": "Google News"
         },
         {
-          "title": "Advanced Micro Devices vs. SK Hynix: Which Semiconductor Stock Is a Better Buy in 2026?",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMDkwTFROd1BfdVkzSzZfN01qTjFQNHh3OVVXMGk0QjluY2p6bzdnd0xGaTNHS0piREZ4QnBFS1h6ZkhaUkRoVVhURHl0ZE5xbmZkOG5ONVQwRjdqaXlFaDRHbUxqcTRicG5GOHNYak1CMUFUV2JuODA5cmF0NkhXcVMwcEhtc1hLazZzNWdPdGZSdy1fSnd2dXJ0SkxUbm9yZW9yanZELTktOUVMeGdHbkdRdnNrSDVXM0FZQkFPQThqeHNuOXVWTDFPc1lUTnlhemlN?oc=5",
+          "title": "Advanced Micro Devices, Inc. $AMD Stock: McGlone Suttner Wealth Management Inc. Boosts Stake",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYUxUSF9QRWp2SXN6VU03eVd5RFAwai1yRGc4aGVhSXV5M2M4ejZYb0lmVTJVd25Wb29xQ0NDcTk0QzFxMGQ5eDFjc2N5dlFvYkxrTk5ETnVUdEY2VVZRc2lkWmxRR1BrMkxzSG5FM21IUFpBalVOcUliS1l5SG5JVU10Q3MyNHVORGJTOVRGcmREYXlvUXA5d1NWU2ZPNHNnWm5uZ1lUdnZuel9YSkN2TmlnRktwbEZfTlhWcjNwX0VVZERjTDg3Tk1FMHRlTkZyb3A2blYyZjV6c0RjVm9HSG1n?oc=5",
+          "source": "MarketBeat",
+          "published": "2026-10-13T17:44:54+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Advanced Micro Devices, Inc. $AMD Stock Purchased by Sax Wealth Advisors LLC",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOEtUaURWY0p5U2d4VmFLc0hsOVlWZ2pIU2ZPVTZ4UHQ4ekVSclRFTXZzSUEwZXZEOUFjb3UxN1h2bU9OcVg1bjZOTEhyX2xjTWxiVmFtZEVSNlQ5em5zSEdKZFFra0taeElmaFRrUGVyLThGbllLTV9PUzNaV0h1X0I2MTlSdnR0dmNkNDVUWlktRjM2dUM1RDR3ZzVpcG5JYVQzeTF0cE9uNkg2dTZlNnJjdWUxRFVaS21rS1U1THlqSEVSVVhvekVGV1dqVFk?oc=5",
+          "source": "MarketBeat",
+          "published": "2026-10-13T17:28:50+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Fragasso Financial Advisors Inc Purchases 1,888 Shares of Advanced Micro Devices, Inc. $AMD",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNU9WRm1SSzNtVEFJdkd1d3FRLWVRTHNGczg0Tlg1bGZfbV9ZSkVzRWRYMmxfRVA3c0tieF9BU0FKNjFGRVdyUE5mV2VBdUcwNHcyT0p2RDhQczZnN0pUYlMzZ0l1ODFLVm5jZ19aTXFPWThESVJmeEdNRkdwUnd5QnJ0OVVDU2MtZG5zVXJwVjlQVVZ1dk5lbWdmU2cxTFVBWWlxTDdVN3U1WjNwMzVUcUN6QTJUWTI0bTB6NFNnYmNlZDdlWDVfb2cyaUFrQ1Y4Y3NaMFJ1dDRCeWE3S2ZlbjN3?oc=5",
+          "source": "MarketBeat",
+          "published": "2026-10-13T17:28:48+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Prediction: 2 Stocks That Will Be Worth More Than Micron 5 Years From Now",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOHRCM0s3VzlmUGRsU1ZwZXktQ0pXZFJsWHRKQWNGeVNwWnFmRmpZcTBVc0pFVHFlM2N4UnVhb2lZSVhhUFc4cnR1ZnBwMUZfT0JHdFdRTVZrbThFQUZ0SUFfVVN2N3F4VXdueEcyZHNsZTNHbE9hdDF5X042SWpjekhVRi16dGVBT0JxTy1PeUVHUXhldmpLNg?oc=5",
           "source": "The Motley Fool",
-          "published": "2026-10-13T11:43:34+00:00",
+          "published": "2026-10-13T16:46:46+00:00",
           "via": "Google News"
         },
         {
-          "title": "Advanced Micro Devices, Inc. $AMD Stock: NorthCrest Asset Manangement LLC Increases Position",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb0twOXpwenBITGNwSTFxanlYRkx6dERQT0tuOW5SQ01SUVBwekxNY25DNmVXNUo2eVdLTjdLZzhfMmxYaFZ4d0FoMm9ZUlRIVHNleTFZVFpBeUd3Q3VOTEU3c3JMYjQ5MUk3NmgzMUJFckF3M3NmUHhsMXV5TVYxT2g5UGJXQlVUNF9LbnhramVHdlRLWUdmRWR3MzhwdnZfUmxLSmMwRXJ4REp6TG9ZYjJjSGVlWVIzNEZ1LVU3V3VWSmIyclplSnI1em1KRy1ES01ZUDVCLUZOSm93WFZBTE8xNA?oc=5",
-          "source": "MarketBeat",
-          "published": "2026-10-13T11:39:09+00:00",
+          "title": "Why Is Fermi Stock Gaining Tuesday? - Fermi (NASDAQ:FRMI)",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHRJOUFTRUhmYjh6NTlsQ1JQNUpQV3BBRjJvTFpvZGNVV2xJdHNuX0tkblVnLTdtN3RPdmwwdXNaUEVDQlA3ZzNZaldtdXE1UDhmQkYxNU5Fa096UGZwY3VzRXNRMVFud0M0ZThhblVRcVZ6S3hfbGlJVzRQWXl5Q29COEY4RnVWYm8tNThNc19VMkdXcmJNYmw5bWFndVd6ejJnekJNU1plUmc?oc=5",
+          "source": "Benzinga",
+          "published": "2026-10-13T16:39:19+00:00",
           "via": "Google News"
         },
         {
-          "title": "Advanced Micro Devices, Inc. $AMD Shares Bought by Baldwin Wealth Partners LLC MA",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWjkxNjRYWkVYWldWS3E4Y3ZJOE5JclBSZFRkUjZrWkcyNUhoSGl2ZHhOdUlpdWRtRVdUR1FFZU1na1QxcU1ldWhoV0c2YjZiMmJfZU9WM2hoNXVxUmhfaEVKang4VFNlbEJ2Rjk1LVhWaEpDTWFCLTBROUlnTjFCN3hZMEhXT1U4UW5LYUZhckE3b1JDZmpMblRzcTFwNnNVLTMxUVZpSzZzVXJnQTRHUjZyS1d2ZmdJU3hMYmpXSU1JM0JNQjZTM1lQVXpKbTVtaHlSTXhB?oc=5",
-          "source": "MarketBeat",
-          "published": "2026-10-13T11:37:19+00:00",
+          "title": "Advanced Micro Devices, Inc. faces dilution and AI caution: Can AMD recover near-term upside?",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb05ObE9yUU00eTdKTUMzUmxHeUtWUllfbEQ5dmxLY3R4T0hKSHVKMjEwdXBPazYxVmo2OVdPaXNpanNoNFlSSHlZMFRkQXNjQ3FfZEtaanVzam4tUS1qcEdaanFhOEtvUWpVSDA1NlB5Zm9qQWdLeERjeXVpQkhnRTNGVTY?oc=5",
+          "source": "Traders Union",
+          "published": "2026-10-13T16:24:32+00:00",
           "via": "Google News"
         },
         {
-          "title": "Applied Materials vs. Advanced Micro Devices: Which Semiconductor Stock Is a Better Buy in 2026?",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON29YZlI2STRsZGpQZEVhOTNEUG1hQnBhNnV4clBSNUs3ZG9nV3NSYTdlTDJ0SGU2cWYzT2xBOS1EWVZ1ZWhXQ0VtbDhGNEtDY2Jra3VtS1lLazkwdVhPYk1URXNYX1VCTS1UalhiWjFHckxpX21ucWYyWGRhc1g0eVk1WTZTQUd6Z1ZZS25vMmJpOVpLTkg0YlNQU3ZtUDU3LVE?oc=5",
-          "source": "Yahoo Finance",
-          "published": "2026-10-13T11:24:27+00:00",
+          "title": "Can Intel's New GPU and Xeon Technologies Enhance its AI Capabilities?",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUjhYUXFGWExRblk2N0Vyb05VNVIteDNWck4xRmxOSnEyd2VQbW1pcU5XbGE3aERROTZVYmYwaDdBdVVZZWJaNHVaS0lYakhXUFgxT3RCR3p6OUcyY2lHYjd1M0xKSC1hazRiWjhvNzBPRkJaMzB5LTNLbkVEOHVNTzI5a2FFdU5Pb2hWVmF6OVM2Z19XSFlKdno5enQzb1pIOF83bFc3OC1Oa0VYTVpybm5QQTljNWdHc2tlcTNqci1reFoxeUpkTHN2UEVaS2pORnBFY212bTFONDFiVENscDI5bm9kMFU?oc=5",
+          "source": "The Globe and Mail",
+          "published": "2026-10-13T16:05:13+00:00",
           "via": "Google News"
         },
         {
-          "title": "Scaleway to build AMD-powered AI supercomputer in Sweden",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVFlaGxodDhwTlJlRDBueTJ5UEZWYmtSVV8zejBPbGZ6NWZnV3FYaEczYkh4XzFMOXNuRGpnN0ZUV1VOb1dCYW5paVZXSE9ia3VTbU5kaDk4ZXdFNmw2Mk1FZ3BqUmswdmlNVHZSYk9kRHdjWnpOOFEwVGhjQW84SkcxMlJHWkY2c3A0SnZsN0RGWFczTG9uS1ZTMGprbjRsZXZ4aE10MFl2UmNBMVE?oc=5",
-          "source": "Reuters",
-          "published": "2026-10-13T11:08:58+00:00",
+          "title": "AMD Lands New AI Infrastructure Win Against Nvidia Blackwell",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNFd6c2E0V3ZnbXlQWnc0T0hkaWtHYjEydndIU0xVRVBZSkI2b3VuaVI5MlRwM21BRkZfUXFSN25yUUVrYUplSkZaY19vWDVpRWU2VDFPYWpDYUc3QktPWkNOYVV3QkEybEwwOVU4QUdjN1dBR1lCbnU3WUhqS0o0QkZuUWp6dWdVQXFRV3BSYlZuS1V1STNhUXlkTnhuNlNGUTJzbUE0VERJLVNDVVVMYWtMZDRuZ1pYb25KVQ?oc=5",
+          "source": "TradingView",
+          "published": "2026-10-13T15:44:27+00:00",
           "via": "Google News"
         },
         {
-          "title": "AMD and Intel Take the AI Race From Chips to Data-Centre Racks",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM2ZjT1VncHhVU040QXRsWDhYcGRqYjRTOWxJaENYTC1WSjJiMEJPeDNyTTBSY2pZWmRnZ1BjT3JzWUVOTEliajFfTWFHWjJGSUZwVkdPM3IxbTZvZGU3UkJSR0ZYZEgxM1BnZGRvQWNEMXc3VklZNGhYWG9DdndSeVR6UQ?oc=5",
-          "source": "streamlinefeed.co.ke",
-          "published": "2026-10-13T10:56:00+00:00",
+          "title": "NVIDIA Begins Vera Rubin Production: Can It Extend NVDA's AI Lead?",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZW9zbExEQjRkWkcyWGVzaXFKRmR2cVlDSnZMVUI3anc3QXN1bkUyRHZRb3NBY01zYTl3aFhua05mNXNyMlYwVi1pd0ZBd2Y4QVdNMjdJR3E0RUhWdDV6WExlQ3ZnOGd2RENiMG96Qlk3RWdpekJzVWFtbEJXQlg0TDV2bDdJZ0JmejlqVHhpZ1E4ZmhiSGNoOW1JTHg0empFWGpxT1piV3FyMFphanZHaUt2Tk8ydU9ndTBGYWxWVTlXcXNLTzR4RXBDTU1pemRNVTQ0eDhLSDZseW15UmV1eg?oc=5",
+          "source": "The Globe and Mail",
+          "published": "2026-10-13T15:23:56+00:00",
           "via": "Google News"
         },
         {
-          "title": "AMD introduced Helion racks and Citi raised target for AMD stock",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVnV6VE9wejd3dGlNQmxXZ0VEMHJ0ZHVCdnA5ZkVPR2djeU4xRmdyNHgwRUZlRnVadUcwaVU1SFY1c2NFVFlJMTl0NC1PWDFEWUFqZDRzVUJTaWd5eGFSczdGajVtNmJfeUNGdDJxVUZfVVF5Q0JHbjgyWHZTXzhrLU9iWUViZUJ4T1pIekc4ejVacFJla01yVzloMEwxYUtkblRPbFFZMDFhN0ZJZ2JJWVBHOW9QeF80aXJaOGttQnVscktVWlE?oc=5",
-          "source": "ad-hoc-news.de",
-          "published": "2026-10-13T10:08:06+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "Samsung unveils next-generation memory strategies to enhance AI infrastructure",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnVwclZ5Rm42SmdyUGRzTXNGWjVtSUgtQ0lkNXZGeFZYYkMwRDk5SkJHR1BlaUNpczhXWnJVVmJNa2FGcVpfRGhYNjdZMEFwd2VNSnR4aGFYQ1hWeko2azZJTkxaRlBYTkNNcGQ5N1JkSkwzTktwbUlnR3ZlYzdZSWlBVHZJU2ZMWEEwTUZad3dwZHpyQUpNdzRMS3dYYjhlNEdGMVRmQVVHT1V6QW90ZzAxcnZNNUxtVGMw?oc=5",
-          "source": "Gulf Today",
-          "published": "2026-10-13T09:53:30+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "AMD launches Helion rack solution for agentic AI",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVlU0NnNBZmhXQzFnN1NZNUhLUW5mTlBDR2U1RTVZUWZJN1FjZVlXek92ZjJsRE5jYUJJMUxybG9OTFJCMlk3LVZoemVfcHJOZkR6U3QwYnpIWjlWZ3RLb3oyV2FYRU5MSHA4RFFzWThJRW1PeTczTUJTN0dNRXhjWEFlNUtFTEtvQWV6ZzZjQ0VqMmg1SmVMZ2xSbjlhSXpDdmsxeHZYYXRNT0VadTRUOC05RzdrTTk5U3c1TEVpd2F0c3IyM3fSAcoBQVVfeXFMTVgwU0R2N1lteXRCa0pKZDJBaFZWRm56bEg3R2p3Z3dobGVMc3hUQTh4T1h2TE9YX1ZrRGJlc1RudEtqblo1akkxWFhfZXlncmJiVFBBakVVSHpTQXphQ2d3OEVqTy05RjcwSnYxcVc1ZmxRaGRYbjRrWHZQQXJyeDFxR3IxMFlMM3REV2paVThLX2U3NVRuUUwwMVREeUNqOEM5ak9ldFcxbU5NeTRhUkJ4UHBESkdiMFR1eXdwZEZTTTdaVHJ5SkM2UQ?oc=5",
-          "source": "electronics.economictimes.indiatimes.com",
-          "published": "2026-10-13T09:45:00+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "Trump's Investment Team Sold Up to $5 Million in AMD, Poured Up to $25 Million Into Meta",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fSEZlcG10UDVNTlp4Uzl2WTNCZDVLUzJlYWc3VWUxX1dBSE9kR0psaWY0YjRyaXRxRTVSVDBuQzdNZDg1ajRjWURWSDZEakczSjZjNWtjWGljLXN1Q3VrblI3ck5oN1hKZGN5dXNaYWxtSEotY2c?oc=5",
-          "source": "BigGo Finance",
-          "published": "2026-10-13T09:06:00+00:00",
+          "title": "FRMI Stock Rallies After \u2018Long-Awaited\u2019 AMD Deal, But Evercore Says Project Matador Funding Remains A Hurdle",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbC1pNmpaT2JhUVhWOFBfUy1SNFRWa0JKa2VrdGNOVGlub2VGSmRXOXhzei1tSUtGWXIwaUFQNjY0a1djdTVLTlhGOWhBMGYzbEpSWTZ0VWxFaDBtNl9YTnNSOGFEUDJST296THV4VWI4MjB3YTAwR181SENBdGc2RWNDQ0U1Rm5mOXdWY3N6c2RBd3lER1dsVlVFQ1hrMUgyT2dnRFV1TjZQdWlCZTBLZ0p6V1dxNzdWYlpDY3c5eVlHcDlGZDZWWGVfOEZQUzFWUFFrcU1fMmJZOW1wRVpaYnV5UDNOM2pjWER6R29SdTRMVWozanFQRUFB?oc=5",
+          "source": "TradingView",
+          "published": "2026-10-13T15:12:10+00:00",
           "via": "Google News"
         }
       ]
     },
     "TM": {
-      "price": 184.72,
-      "prev_close": 185.3,
-      "change_pct": -0.313,
-      "quote_time": "2026-10-12T16:00:00-04:00",
+      "price": 189.1114,
+      "prev_close": 184.72,
+      "change_pct": 2.377,
+      "quote_time": "2026-10-13T15:00:00-04:00",
       "name": "Toyota Motor (TM)",
       "news": [
         {
-          "title": "Toyota puts forward new Tamaraw for PUV modernization program",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRGJNX0V3OTJfS0Q0NTJhbWtqVV9Lb1JkU0hDNGlZMFZDWjZIYldvaUtyTFkyN1lsdG9scHJ1cllIdEtkeDZqa2R4b0dURjVoT2J3TkNFMWdTUm5BRDZsVnppMDRnZktsU3pCTkNjYkQ5cHg1VmZQZXktemktRDYtVERFdzNwbmJBQ1UwdTVocXNKRWtPSkE3dFZJUjFDSFZRRzN2cHdOcmdoeERoX2gwZ3FVbw?oc=5",
-          "source": "BusinessWorld Online",
-          "published": "2026-10-13T13:02:04+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "2027 Toyota bZ, by Eric Peters",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aeWhoZzRhS0xRZmV4QVFib183VWJQaE5JUVM3Y2RXNXZ1N2ZnVzhXRTBhc0JHaHV0X1pWSFUxdWRDRzZNRXhqQVJtck5wOGEyMlQyR0M5QWRUaVJrb0Vhb2hISG1PVFpsTkdkVU5mWQ?oc=5",
-          "source": "Creators Syndicate",
-          "published": "2026-10-13T12:56:15+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "Erste Group Bank Predicts Reduced Earnings for Toyota Motor",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWmFlQ1FRYkZhMFZuZkg4OGlmaXZ5VzkxalhIUFlnTGx3c1U4d1dYaVp0TjJ5bWF4ampEMWxTSjZXb0NWWlVoaGxZUDFDYi1VTzBpUDYwaFRQQWh6OTU3ck5mZlQtMWp2OFpwcTdmSEdtcDdpVDUtZE5Wbk8xZFdXUldBbFZZX2JMeWtrR2hOS3g2MDQ4SGNNVVB1WW5jV0ZicTFvMGU0UkdySFh4ek9sbjlTNU9zdlEzOWRldFZDVkQ?oc=5",
+          "title": "Top Toy Stocks To Watch Today - October 13th",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdEpzT3VKRmtuVDBaTVU2bXB3N1ozRkJEdDRpT3hzTlpXdlVJSGFLQTlvZi1CWU52OWxLU1lpMlpLZzJ0bFNYSmFfUE1kS2prYW9KdTNhN2tHWkRNOHhMMzBkako5bW9RN1gxNGVWbEt1NUZJTUwzUWxqV3RzLVFzWGswWmQ5UzVSX1RJaVRKWkhSYUxZZXpVOGFzV1RkNXZzeWtV?oc=5",
           "source": "MarketBeat",
-          "published": "2026-10-13T12:49:27+00:00",
+          "published": "2026-10-13T18:27:03+00:00",
           "via": "Google News"
         },
         {
-          "title": "Analysts set USD 290 target for Toyota Motor stock",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWkpQNU00eDYtaS1jSTVKMWVHU3QzZTYwcms3OVF2UnYyc0Z2dXZ6UEtUZ3hjY3d4dkNxQld5WWFycS14TkNUZzhVbnQ2TmpQQ01mdk5KTkh5RnQwR0M1U0d5M1lpOXlMOVQtUlhub0hMR2RYNjRWRHpCZ1QtLUF1WEFTSFJwakpPQ2QwVF9WUDFVU29rQUVaMzM3djhzVkpWQUZnMzZ4RmplRmRURTQ4djlKMA?oc=5",
-          "source": "ad-hoc-news.de",
-          "published": "2026-10-13T12:48:11+00:00",
+          "title": "Toyota Closes in on BMW M in Global GT4 Manufacturer Championship Fight",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaERjZ1lNMzNsbHc2cHlhWGJHTjE1VHJzVFRxYjhsb1p6OE5CelpxOFFtempQdldWMkY4MEZBMjFGWHR2dXQtLUpsU0NUTjZFRU9naVJ6d0lRd3ZueDNhWEFBUlpKN0x4eEwyVnR1Z2FFdk9LenRuOFJLSGpFUnVBM0JGdjNSdHd6Tlg1TnBvNE5tSjBWWHNsUVRJRVBwZ3Qya3NHaURfZ05yb3ZrSi16RjgzSVBKX3F5Sy1QbTNwZG9FM1QzMzRN?oc=5",
+          "source": "Pirelli GT4 America",
+          "published": "2026-10-13T18:08:05+00:00",
           "via": "Google News"
         },
         {
-          "title": "Toyota, Subaru, And Mazda Just Built The Hybrid-Era Combustion Engine Volkswagen Refuses To",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNemFDdGZkT1IxcnZIU29ud0pJYTJvNzJhQ1RQdU9VTVlSM3FyUlhvRUZwbzBPN09ORlpTcGlLZktzY0VuSjRJdERVb3FUZHJfWGJESmd5d3BPV0VhR3lra0tMLTRjUWNyeVF6Tk5mY3VWZHR2RzBhdkY5TUhBWE05SElNNEpxX2JpLV95MHBMenIwbWxEOXZkaA?oc=5",
-          "source": "CarBuzz",
-          "published": "2026-10-13T12:42:27+00:00",
+          "title": "Toyota woos PUV sector with Tamaraw jeepney",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOR1VyZnFEMFBUanY3eW1pM3FiVDRGWE0teVIxcmFoVGh5Zmg4bE4tcUtqSXY4bTlsQjQxRnI1c1BMWkdybEhHQ3drenZMbGMyemVwOHVGUUItY1lLZGotTnQtT3V1eFI3NDY0TWlreEpnU3ZVX1Q1MklIaFlDOUwyTkx1TkVPVk3SAYwBQVVfeXFMTU5ULXdIbDEyd0JRc3pCN1JydUU5dE53Zzh3NEtBZTFhWnJPbXRBSlpFSk5tMkVNc1VpTzl3elhMdy1ubHlnSWg3TnN3RVI0M1hqTzY1UXdTS0Vla0pRX2VUVUNTYS1jNkF1UHA2WHZnQ2FSVW5lOS1SMExjaWR4d1Qtb2daNmNlanZ0YWc?oc=5",
+          "source": "Inquirer.net",
+          "published": "2026-10-13T18:01:00+00:00",
           "via": "Google News"
         },
         {
-          "title": "Toyota\u2019s Tamaraw modern PUV off to a slow start",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQUIxUUtXRENlU2ppeHBWdGI1QUJkUWdjaDd6dmpwbXRVc0JXckk1eDUyVzNsaENMWE1LVWczR1ZUaThqcTZBdnk2dzFiMkt1ZWdUQlFwbnhlN2hZRDBLU01wQ19BcEhrRkxtaHZVak5OUHJKdDRjMS1IQ2tFNlRGRmU1UkZTNmM4UHFDVjI4UXFtZw?oc=5",
-          "source": "BusinessMirror",
-          "published": "2026-10-13T12:10:09+00:00",
+          "title": "BIZ BUZZ: Japanese envoy\u2019s special first stop",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeDlTLUhQZlZ2VWt5SE5XRG1Gd2dnQnFZRkJDbW8xcHVRUGJtV2cydnJuNkRCTjIxVXVfSDlrWDR2V0puT2dhNTVkUW1ZZW1sbGZEaHAtamgxa2JkdHF6LWFsRjJnbnlERDd3S2JqcUtVUEswM2RBNENacV93ckNJTlZfQktpczTSAYwBQVVfeXFMUEN2UVdUUUZaaWhCUU4xLWtIek80ZHlxakNqQnQzYXlpcFVRVEdNazQ3cUNvOHFBYmZ2RW9KR0hRTURfMXlCd2ZFa3lkQ21xUlFnaWRHVzhKQTNLalh4TWZEZGZmTWx6Y1RhOXEya191eGduY1d5ckR4UEhLSzRYVHpmQ3lEZ3lRUmQ4Vkk?oc=5",
+          "source": "Inquirer.net",
+          "published": "2026-10-13T18:00:00+00:00",
           "via": "Google News"
         },
         {
-          "title": "The Hyundai Bayon is one mean-looking subcompact crossover",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVlBRRUhLVXlSdXNqRHlKZXpkdElmdjhFWUh4V0owX3NfeWRUTFFJTnBmSnM1NFhBMFB2VjFvdzExcHNmODU0NTA1cHctb0I5NTlORFVXZGtDeFVhQVRnTW9UQ3ZDdDFTOUsxVTZMQVFMZmZJWDQ4S2pIVkg1X2ZDbU8zdEpSNUU2ZHVtbUpxRWxjYmt0aWs5WjFVYUNjT2p3ODREaGc3aw?oc=5",
-          "source": "Top Gear Philippines",
-          "published": "2026-10-13T12:02:00+00:00",
+          "title": "Toyota eyes bigger bet on Tamaraw",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVV9mX3M0V1ZjczlZazZuelZiZUtQTnJhcmIxMHk2WWZzNUIzYUJfc3FZNWNwWmx6MXFLanZ1OGNkN1J1eWRpR2JzSWVoLURjWGZadUtxOEh2a1JjUGRXNGJnSV80QUJlZnM5SkRiVzd0b0pERW43NF9YdFVBMUtsd2c1Nk9ldzlQRm8w0gGSAUFVX3lxTE9VajJwbUF6VW5YRWtrU0VRd1dUYUhnNDZPMUJ4VkM0Um1EYkNCcC05WmpNRW9UN0hOUFRpWXRKNnhlYks5U2wyQUtiOXkxMzNxU1VYZVBoRnY5c2J4R1NfZXFfOGdrdmk0NE9sc0IwZEZoMHpKcUZQc3ZpTmU4WERjdGtiekRxQklrTmxoMTlxMjRn?oc=5",
+          "source": "Philstar.com",
+          "published": "2026-10-13T16:00:00+00:00",
           "via": "Google News"
         },
         {
-          "title": "Toyota PH unveils next-gen Tamaraw MPUV",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa3hHbTBVc05HblY4MzROeUt0T3d5UmwydDBNdTRpT0RQQXhaVkM1Y3h0YkczXzlLa3NSTmdPZjBFV3RYRlFHNDNMY1JGUEFxSTFEQzllU1ZJeVZCWXNDVjhjZFE2WDNfVk1oZFRMWGdrSmlqRHdLMGlTUWtTTEpfNV90V0ZKMWV3OTBGUTlPSE95QzZz?oc=5",
-          "source": "Manila Standard",
-          "published": "2026-10-13T11:34:50+00:00",
+          "title": "Toyota\u2019s Tamaraw joins the public transport fleet",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLXpubDB6VkZQV3EtcHpLYjBMdkJlYnJmbzNVS1RMb0xOY2hXbHlSNGYxbTlXTUVwRDRJbUZueTJFT2g1SHpNRWpnY3p3QmxpS3RPVUdtNDBNOU54X3NJdTRrVUI0dWhJYVhTaURQVXd5YVQ1cWZFcE9UNUhWVnNXZ0RMdzM2TTlYazVqMQ?oc=5",
+          "source": "Daily Tribune",
+          "published": "2026-10-13T15:52:16+00:00",
           "via": "Google News"
         },
         {
-          "title": "Do you want to see the taller and more rugged GAC Aion UT cross in PH?",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOXhWT01tUHhTRGZJQkYwN1BQM21YdmdnWnlTZW1iVzZ5bkx1SF9MUVp3Q1IwSXpxR1ZUNHg1NDQ1alo3Vm9ZMDNXN1NwS20tQVdra3Eyb2ljNldJV1hPVF9jaWRnT3pORG44ekpSQms5RlJfZWZjMVpRM25TaUtzVlVHcF9EOHYwSm9FaF92RQ?oc=5",
-          "source": "Top Gear Philippines",
-          "published": "2026-10-13T11:33:00+00:00",
+          "title": "Toyota PH 10.10 Deals provides up to P230K savings for Zenix Q HEV",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR0taOVBYUjhpUHllWDNORmpfeHhzSUo5eUtEeksyd1VvUFlrRHNYNGdEZ21fRUdGZnpmSkc4SEdJVlQ1UFVBT2xjX082TFE3VUpMNFRzX1VjN0RhcklPSlFjUGZzYWlsQWcxTVgxdFNKMGQ0UEYybVdIVU1Xc2hQQ1JhMUNwbENGUTRzYjBrRWRKRWxGN0o1LUJqRTZIbzNKQU9zXzRNdmFZUdIBqgFBVV95cUxOR0taOVBYUjhpUHllWDNORmpfeHhzSUo5eUtEeksyd1VvUFlrRHNYNGdEZ21fRUdGZnpmSkc4SEdJVlQ1UFVBT2xjX082TFE3VUpMNFRzX1VjN0RhcklPSlFjUGZzYWlsQWcxTVgxdFNKMGQ0UEYybVdIVU1Xc2hQQ1JhMUNwbENGUTRzYjBrRWRKRWxGN0o1LUJqRTZIbzNKQU9zXzRNdmFZUQ?oc=5",
+          "source": "Zigwheels",
+          "published": "2026-10-13T15:42:40+00:00",
           "via": "Google News"
         },
         {
-          "title": "Toyota Tariff Lawsuit Seeks Refunds: Explained",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xRXpwd0J5aU1XODVGVzJGOFVSR1Z3YjMzQXBLaFpLY25LTVRYbTNSam9iMXJSMVlIQ1pxQ2ZHWWNFbjA5ZEFNZThiZ2l6TUpUMHo5NGdyQ3ZRNVRoMkpDNHl4d1pjRGVlaHZlNE93VHEwcUhoX0l6dHNkMXUxQQ?oc=5",
-          "source": "JournalArta",
-          "published": "2026-10-13T11:18:55+00:00",
+          "title": "Suzuki Auto Manila Bay gets updated",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wTDBGRl9PaTI2V3FvcHc3Y3VLNXF2eTk1azJRc0hTV2VwN1ZyOXY0TkNmbS1yZk5abklEMjVJQ3U4Y3lJZE80SFFDbTVxRkwtalpMQWNaU1JTbDJXX3ZNbjJZZlZyZnN4NnVSYW1mWUdCX1Btb1RTdtIBgAFBVV95cUxOYlRyZUhtTjBaUUQzMG9wbTVUQ0x0bFlRRnkzUHBSRUVzallOdkotOG9GTE96bkxkVXhFdzhORW55X0FJUXAwSk9iZjlPc0JhaHpvc2ZmU0lSZFhUd3cxWFhHRU0ybVgtTDZfWXlfT21kNXNScXZoUGJyWWFYS3RVUA?oc=5",
+          "source": "Zigwheels",
+          "published": "2026-10-13T15:42:39+00:00",
           "via": "Google News"
         },
         {
-          "title": "The Pickup Truck Engine Owners Trust Past 300,000 Miles",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5KMEppRGg4c28xV0tRNXdyNno3cVQyOXczQjVGVFBmQ2NjU0dpd0hWZGh0cWoxRlJFc2VJa3Bma0ctd1VWMHpqczFZaXJSUDVXRzVpbEoxX2p4QkdVbl80a3luRkZVMXlwN2FISWp1b013enFmWlNDZXI4UEhzQQ?oc=5",
-          "source": "Top Speed",
-          "published": "2026-10-13T11:00:17+00:00",
+          "title": "5 economical cars to beat rising fuel costs",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLTB4SXlodlh1Tko0ckVUbU9vN2Vjemg3V1l4Vk1xaWdwZFJQWXFfSGx5aE1uUnJxSVFwdnp2ZUxJWWF5SXY3MC1RaGU1Vm95VGlWRlJ0QVM1bTdmT1d6TTlXNk5XVHJFRXhrUlB4YnlvUlhfVkdqQVpCSXUtM2cydG82SExzd2tJSTI0TVdhckpZdw?oc=5",
+          "source": "The Business Standard",
+          "published": "2026-10-13T15:24:04+00:00",
           "via": "Google News"
         },
         {
-          "title": "Toyota Glanza facelift to launch tomorrow: All you need to know",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTHVxVUZIVjJUUWRORXhuVmFlTlpNaGVLbEcxcXBJNmxVMlFQbUJyd0JaZnFwN3BHYmVkV2xYcUJTY1lUYjY0dU5aUFlPYlZHUXphVEdlUVlkVzUxeXBzMXFnQUtaS3RmTDVnWlliRkdOOWM4NXRhT3EzcTNXcWZmby1RSFlWX3NqLTV0ZzRjSk5IZlFmYWRtaFZ3cU5adVl2S09vamtURHFOSVh0NVNLM2JkeTFadXdvNTdzLTlYQ1PSAcYBQVVfeXFMTmJyTTdqYWpzaGRfYzl4MGxGbmQ1cEtKVjJBeUdLUlVqWWRSYldfWlNjYVoyOHdTNmhxSnkzZW1kbkdYNmpOQlRDcHRtVkdrcWNUX1RocWdJYXhIbVQ3aWo1MlBMY1oySUZrNE5qdHNQWGZ6Vk15NmYya2xJa2FrQ2paM05OalB4dWJsWm5UaXlCUWJBWDkxemFRbTlmXzUtemJsNTZLZVR6UUhtb3NwaVZJQVVoS01yeElrN1ZoZEZ3dTZlX3dn?oc=5",
-          "source": "India Today",
-          "published": "2026-10-13T10:08:44+00:00",
+          "title": "Indiana Commerce Secretary Goodrich to lead trade trip to Japan",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQlRUWnBqMWhja0g2UmJUaW0tX2RXQjQ3cXB4RlJpSW5DOHVEakVIUXUtUGpCeTlrSWk4M24zVzFON1MyOGtvOG40MDcwdkxsbDYyb0VETzZKTTZrRml4cE5QNzNoZFVQY0lpekZmX0wxNVk3NHZYZGdTM1BtemsyeFQ0Y1IydEJteGVSUXRGblZzcTZhVU05M2pvOVNJWHhZWEFFMXh5UzdJaWZuX21V?oc=5",
+          "source": "Inside INdiana Business",
+          "published": "2026-10-13T15:10:39+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "2026 Toyota Glanza Facelift India Launch Set for October 14",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRkZTTDdqbW8xdDJ6RmdjUnpraVNhcTZMU2pvU1hjVVFoQlVWVWUyWnJaaERqVGVZTG5xZDhnVDVFWWdJeTNXempoUEdYblFLTHhDdXNmcVAwWTNvc2xNSzF4SmFqdG9lYkZMMWJ1VVZ3dlFrWVpRYnN4WHhCbkhldW5DamF3RzY0YWFwazFBcE14bmc2MFJWazN0emVkT3NJbkZ5dNIBqgFBVV95cUxOaWhVem9BcGV2V05qOVZlTkRtemdYVUxvbUdaZEVDT2JyX1Q4RUxNY1dtdVFWZTRpWDJwc3U5NUJtYldTQUNHd3NrUFdHY0pYbmU0cDNqRDdZYldWRTFUXzBtVDI0ZTVYZ2ZJSWFacFdxUFdPeHNjd2ZITW5zQVgtaUVmSFhiU1lKS2xmRGN6VG5oZ05BYXpBNTJDU1k5VVNDc1NWTXJWc1NpZw?oc=5",
+          "source": "LatestLY",
+          "published": "2026-10-13T15:06:35+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Facelifted Toyota Glanza To Go On Sale In India Tomorrow",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUUtWURpT28yaE5iU3ZBRW9wYUl1RVRVVjVidXdvQm80Q0d1eE5rUlh4MnY2REtncGlSRlF0X21rQW9falpDUmd0QjNmUlE4NEZqbE95Zl9YQXhMNmlLNHpCdHBSU0tIZkZCV25hbUlGak9HV0ktNnlyRnlOeTdtdDFBOWZBRDdYWDRkOVZSSTFxVG1PMDJqdFh0bUhsUFlJRy03LTVuMNIBrwFBVV95cUxPMURtbldXaUdlTWJpeFBmaFJ4TTg4QnY4RXFlX2tNMUU4bXVxaW5LMGdTcEJoUEsxNU9SWDl1aUtKZURfUGhqYm50dV9lcUVZUmNwcFBudk5zSjM2djQ1ZThZOS1EMHdYNnFpQmdzUC1nU3gwamhfMDQ3M2pZNTN3UTBTNGdfd3VkVXU0NmNIRkRmY2dUVkhJeG1pbjdFaU9CbXIzQmdvb0trenp4ajhj?oc=5",
+          "source": "CarDekho",
+          "published": "2026-10-13T14:40:00+00:00",
           "via": "Google News"
         }
       ]
     },
     "CLS": {
-      "price": 338.7,
+      "price": 347.28,
       "prev_close": 347.5,
-      "change_pct": -2.532,
-      "quote_time": "2026-10-13T09:25:00-04:00",
+      "change_pct": -0.063,
+      "quote_time": "2026-10-13T15:00:00-04:00",
       "name": "Celestica, Inc.",
       "news": [
         {
-          "title": "Celestica Introduces More Energy-Efficient Data Center Switching System",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSGhHejIwekwwRU5oYlJ4dlJQZjBvQ1ZMYTRMc2Q4MTVndXhNbkZwWnJ5VlpnSkdTZDBjMmlnSXh5YjhVVExUbjFnNHBxZUZqRnlvTGJXZ2stRDNkYU1jR2piM20zdS1ma0FjVngyNW9pNE9OUDVqMEpWLVpUZUctMk1GeHdUQjVnY2tUcl9nSXdRX0JtQlNibFhtaHI2X0otU1NMTVR3Ukg4RVZRT3pXY0VxQUlVOVpQdzFpRm5rTjlfZw?oc=5",
-          "source": "marketscreener.com",
-          "published": "2026-10-13T10:21:26+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "Celestica Inc. (CLS) stock price, news, quote and history",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wempYOFMtaFhFX1pUX1B3MXkxbW5GTHpkMF9Fc3RuT1lxbEFnaFpkeWZ4dnJlS1Jhemp4dUI5cjRxcWRsazc1UkhBX2ZQcTRlOUcwcklURVNaWnpjeE4xRA?oc=5",
-          "source": "Yahoo Finance Australia",
-          "published": "2026-10-13T07:03:19+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "USITC Institutes Investigation of Vertical Power Delivery (VPD) Modules and Computing Systems Infringing a Vicor Patent",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nbS05dW5IRnV3bnJGbkdzLWR3YTFBRWxEa3ZraEVQaEJZWFNIOUoyN3I3Q0pWVGxWU2JuYnhFZmx2aG1iTmNFcXF0aG9lY1lqeWc5a2VRaUNLc00?oc=5",
-          "source": "Energy Digital",
-          "published": "2026-10-13T06:45:23+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "Celestica (TSX:CLS) Unveils a New AI Switch: Can Light Finally Beat Copper in Data Centres?",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcU5jYnZGTWNVenF4Y0hxT2xUeTd0UGVURk85cWpxODloMEluOXBHMVFYaks4OExZLXlwUExfUWllU2o3NlhiVmt3SUlKbi0ydnZpQkRmMm9HRGRtd0ZidklCcjJYV0dJZ295ZWRLeFVjN05JQzEtcDFnV1dSanA2VmwxQ1U1dzV3ZDlOeWY1eEJyT3hSR0VHQmNtZHNUd1lNZ2tNdG4yaUhaZGI1ekU3VWNyWjA4cW9VQzlRSjdGTmZ2aFNKX0VPLTNzMWU5QjF6MkZjQlBDQjRkOWZzQnc?oc=5",
-          "source": "Kalkine Media",
-          "published": "2026-10-13T06:29:00+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "GameStop Upgraded, Celestica Downgraded: Updated Rankings on Top Blue-Chip Stocks",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQzluV2dTYUxBN1R6VXdQQmVPbkR3aWdDWG1HelV3aTM1RW1pSnA0VXhjMV80UHpBYmYta2p2aWxaN3ZrTklOM0pyYWVXVS1WMFc4OWo5TXU5NW54Ui1HaXp6SVVWZE53V1NYVXNpYlB3WVNmY0pwQW5vb0pIZzFFVFAyR1ZxUWp2WVVLNnJn?oc=5",
-          "source": "InvestorPlace",
-          "published": "2026-10-13T05:50:22+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "Jabil Inc. (JBL) Stock Price, News, Quote & History",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zN0FkT08tazhHdkhXdVZVdllKN2t1UmZ0dnlvUGdQWWs4LXhpX0ZzeUpOXzlPN01PNFI4QklNeHVEejZEa3RoX04za3lJTVRY?oc=5",
+          "title": "Stocks in play: Oncolytics Biotech Inc",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdUpPRWR2RzUxTDh5dW1HSmRvb2ZhXzhZVjRoNVp2QzdVLWpDQV95aWlPWnFGUGN1ZlYzaFBBVW40NTB3WHp6cWRneGtIX2xhTlFhWG0ta3Rha0x6SE9uZnEtbUtMbUtLajh2SlkwTkFZQU02MDlDSFlCMXdnd1psM09tNTZxQUQzbUlv?oc=5",
           "source": "Yahoo! Finance Canada",
-          "published": "2026-10-13T02:02:06+00:00",
+          "published": "2026-10-13T17:52:00+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Nvidia buys stakes in four French tech startups, Les Echos reports",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYU91emRkQ1RtR2xiQXNuVnhwaXRZTkVMMW5GTGdBUldxUjJpVEtCWXJpSC1mVzRNaVc1djRNZ21NZFE0N0xiZlFUY0dHQWZWZlFTbVIxcHlJNVNSV2ZtWlFOcExXNWhURmZVUHdMcHl4STVldWZPZ0JIY1dMam9XemF3dzR0QQ?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "published": "2026-10-13T17:49:44+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Bearish AI Headlines: An Artificial Wave of Panic",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ1c3SzRhWmo4VHB4a01OMFhPbzU3MWQtOTdyTWdMSFhnSjYxWmxudE1lTVZ1RTNoNWlnWVRtZ09WcG5XcnFxM3NxVFRZMjVVWW1KTGcxYjhhVFhfNGJjNHR6Y3FZVF8xbXN5aS1DY1hmeDZOanJsR1ZKSU92bjBTM2lkZGJVczhJcGNmVkRR?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "published": "2026-10-13T17:33:00+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Roots shareholders approve go-private transaction",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM0lMd253TmdETnJ5Zm1VRVFZWWxNcnVrUTVELUZsdlFHVDVTZTEzUTlUdzV1R2s2U0g3cmthWlhnUFBHTF8ydkZSUmJsdEVSNVljQXlYRWhtRDRueVAyaW9MSl9BWktKU2lyajdlcUdEcllUZTJOX2dpX3Njc2lFV1JldVJwUzc5aFpfUDFzRU1pam5sSlV5ekV1QQ?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "published": "2026-10-13T17:19:40+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "CTP announces share buyback programme of up to \u20ac100 million",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUGtIX2Ezem5BRDNiOVY3cVZJYnp3X29BRktkZWh0WGZEellwbVp4bGZOdFFjcUpwcE9TVEwtUmhiczZFVGJxUXl6SVZ2YTJ0ZDNGeXEzWWhvRDFDYTNTeEpLZXg0Qy1VSEZoYW5PX3F3dFFiR004OW1LOVJRSjJYTGtnR2NTeE1KeFBzbmlqNA?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "published": "2026-10-13T17:07:00+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Celestica\u2019s AI Data-Centre Switch Launch Meets a Sudden Semiconductor Pullback (TSX:CLS)",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTjYzOTJzc2lyOWQ1V2diQkJRUUtfVTJ4LXJzd1lPMmxoZlFDNHgtdk5GQlp6TTdtS2JHcExoR2tRLTJXSWVLaHE1R1VEaTF6RVc5dlZkQmpsR1Q0Z25rNjZXUTE1cDNJclB6cnpqWlhDWDJ2TEsxbFlEOFhKNWYzRDBMRVFKOVJWQ21kai0zcTI4SnBfWUs5cGJHQVd3VTlaVTJpMnd1OUtidGlhVS1mTVM5aUhWeDB1RDVR?oc=5",
+          "source": "kalkine.ca",
+          "published": "2026-10-13T16:40:00+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Why investors should place their bets on the businesses powering the AI boom",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbFdkVU8xamJvaDV4THo1RlRrYVZtT0htaF90enhQS29hUE9iZGNqZDV6dUQ5Wk9XVGpqRG5yVGpvLWl6MHRmcy1jckdiTTI3R3M5c3Y1dlpFUXd2ZUhZRnl2TDdrQms2cXZsVmt3bzVyTnFJNzB3WVlKN3JkUmFNNWJSM0tqeGVkNUcxbV9jX2hnWkVnekwwTUlEM2J6NHYzRmJLODFWMUI1d1JCejRVWFJhR0N5WjNVaGdn?oc=5",
+          "source": "The Globe and Mail",
+          "published": "2026-10-13T16:26:48+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Celestica vs. SpaceX: Which Aerospace Stock is the Better Buy Now?",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNX3JPU1pOa3FZZVliWWVCRHgzNGZyNnFkZ1d5cENEeFVrRGZ3M3R2Zi1HUVhibmJkQk5WU0ZmaXR1NUJWeG54bDRYQi1QVHppaHFEc0t6ZGs0d0hrMHNadVYwbDRVdWZnS2JReTJDYTRXajVGemRUa0hnLUtSWmRodnNNbkdjakRkNFl2aEZJeUxxNG93Wi1vRUpmNHRmOVVNZkRDd3dNam9Rb3NuN0Z2aEdDMU1DenpSSklDZUdCZXVsVmYwTURyVDcyNzM5TGFfRi1VZkJvTm5MVEVJSVMzeEdB?oc=5",
+          "source": "The Globe and Mail",
+          "published": "2026-10-13T16:08:56+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "NABEP Boosts Operations with New Workover and Drilling Rigs",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdGRaNGVhbndxTUlGc2lsZDgzLXozakw3N2pSNDg1N3VXQkFma1JKeDlMcXI1NHQxbi12WGYzSUVpMVhUXzJPeHhDSURqY1ZPTllyUHNwdFRYeGlDa1VuTHlKcEVBQXBDZ3hQcGNQdTBSN3ltWFJzei0tOTlmajM4Vjl4NjFyQ1ZKa1gyUnZoanlpQ0Qt?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "published": "2026-10-13T16:05:00+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Google launches flagship AI model Gemini 4 Argon for developers, businesses",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV3NxZFREQTVvVkVUU1dRVkw2elpEVWw1bG1IbnZQX0JGQUZVTGQzUjdfaXVDZ2JjVHpFZXlIeFBEclhsVVIyVVJvVld0Zkt1UFh5b3dXU1RBb2ZlZjdaQVB0eXowWUl3WlZRdTdCX25CRjdLTEV5NDZCaHlxQTBFdElXVUFOdEVuS3c?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "published": "2026-10-13T16:04:20+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "TC Energy sells economic stake in Coastal GasLink pipeline to five First Nations",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN3p2Qmo2SGhxclhEUTk5Nm1aVnliU0s3bHpmR0hKNWpZU21wdEt4NHpUdGJzMEE1S1FzVkVfb0FZaEFYQW1tSEdnRjNzbi1qZFl1Q1NoLXkxbGw1UG9fRWVtOXBtVDBWaGdTRUl5UHoyN21GOTd0NVJLQVhpRk5kNTRrbzFCdw?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "published": "2026-10-13T15:50:35+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Participation notifications by SIH Partners",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTFdVWXpyaklHU3RDbmJHZGxBOEFLallBX1doM1E2Wk1oWGE3aTVaNm01bHFYdGxuU01ZMGRscGtZVG9GQUpKVWRTSmIzdFpmaUVsRS10YWw2V2RYVkhKa0xCMU0wNWFVbUlsNWdyTFdDTUV2c0hMUlZPdWhLcG85RmVOd25pUElFV3U2dWxaYml0QW8?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "published": "2026-10-13T15:45:00+00:00",
           "via": "Google News"
         }
       ]
