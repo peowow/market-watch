@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-13T19:04:53.282443+00:00",
+  "updated": "2026-10-13T19:05:37.496636+00:00",
   "quotes": {
     "CL=F": {
-      "price": 94.18,
+      "price": 94.15,
       "prev_close": 93.74,
-      "change_pct": 0.469,
-      "quote_time": "2026-10-13T14:50:00-04:00",
+      "change_pct": 0.437,
+      "quote_time": "2026-10-13T14:55:00-04:00",
       "name": "Crude Oil (WTI)",
       "news": [
         {
@@ -72,33 +72,33 @@
           "via": "Google News"
         },
         {
+          "title": "China's $3 Billion Qatar LNG Deal Raises an Awkward Question",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM19xbGRDdjcyajN1X2JNRk4yT3ZqTjdvTFByYUFaN2l1aXBydmZ6T3NNT1NUUlFVTHZmck9UWmk2S3ZtaXZrOGZFOERxcU1TdDQ2MHlCTmJmRUpWTEZvYzRITFA5RmJMVTJGbERTUE94Q1Z6ZEliYzRpWlN0MlloM3FJQVo1b2htTkZCaEhMeGdRSlQ0VHF6THpaZWhGUEd3TnB3d0ZvOUVBY2vSAasBQVVfeXFMUDNfcWxkQ3Y3MmozdV9iTUZOMk92ak43b0xQcmFBWjdpdWlwcnZmek9zTU9TVFJRVUx2ZnJPVFppNkt2bWl2azhmRThEcXFNU3Q0NjB5Qk5iZkVKVkxGb2M0SExQOUZiTFUyRmxEU1BPeENWemRJYmM0aVpTdDJZaDNxSUFaNW9obU5GQmhITHhnUUpUNFRxekx6WmVoRlBHd05wd3dGbzlFQWNr?oc=5",
+          "source": "Crude Oil Prices Today | OilPrice.com",
+          "published": "2026-10-13T17:00:00+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Iranian Oil Prices Rise",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MLV84TGlVSDVnMHN1YnlwN09leFpvMTgzZkRLQXFCN0V2THVsakVJWC1oZWVzcm05OXpRczZvWERSTkNPMVo3OEpjVHJzSk9mUlBjQ1p3?oc=5",
+          "source": "WANA News Agency",
+          "published": "2026-10-13T16:48:43+00:00",
+          "via": "Google News"
+        },
+        {
           "title": "Saturn Oil & Gas (CN:SOIL): Can Debt Reduction and Oil Prices Keep the Recovery on Track?",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbUIxY1ljSXVsb21BMVc3dFZKb2MwZWlwWEJxdU9nYWl6a0JxUUFLQ3BwbDNWMm1WNVVyOURXTldyNF9KVXVPZ2hxVnB1WTlLQ0NObmdhUEU5T01WMHJKZXMyVWlpUjlhVzN5QWdQcEQwd3lpdXNKamtxYjE4V2JIMDhFTUlOV2VUdnVoZUp4RjFuNEF6Q3JHUVVxSzBpcWZBZEFYZnpmMlJNUUxzMmFCNElnOA?oc=5",
           "source": "kalkine.ca",
           "published": "2026-10-13T16:47:00+00:00",
           "via": "Google News"
-        },
-        {
-          "title": "Greenfire Resources Draws Attention to Heavy-Oil Margins and Reliability (TSX:GFR)",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOFhza182RWoyeGZBbjBjOEpPVjZQa2xIcGpKelg5U28tVGk5elowX0p2alVkVTMxMFRXWUFqY1R4ZlhzYnJ2X1AxS0VtLXNKT1FZMlJTMUFqeVlsbklTaURpUm9SVUNsMjE3MUQtdnBYczJ1eDZWQ2t3YXkwMmtUS2lWczhack1sMWQwZEFRekV6R2VmSmxzRk9JWWNMWkxpR3hPSmppbmRvTGp1TUc4?oc=5",
-          "source": "kalkine.ca",
-          "published": "2026-10-13T16:40:00+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "Dangote Swings to $4.7 Billion Profit Ahead of Africa's Biggest IPO",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeExQYXphSk5TVkRJaUtmUjZBUmV6bG1aRmotckZmdWYtc1lCU1M1UUp4UG9PcGlXeEJtTXhwSmN3d1FGT0xjVGRkQlk5LTVUd3BNWTIxdGh0Y1VoTjZZaEUwcHI3LW9nSDQ3a1VEdEVRZTFMT2d1TVZfVEJoNWwzQkN1S1lhbDNWZloweW1yWEJEelJnREVTRV80bWxGRHAwRVpXcldmeDBZTndSaFkzTGpHdXYxalZqTkJxMGRCalN5d9IBwgFBVV95cUxQeExQYXphSk5TVkRJaUtmUjZBUmV6bG1aRmotckZmdWYtc1lCU1M1UUp4UG9PcGlXeEJtTXhwSmN3d1FGT0xjVGRkQlk5LTVUd3BNWTIxdGh0Y1VoTjZZaEUwcHI3LW9nSDQ3a1VEdEVRZTFMT2d1TVZfVEJoNWwzQkN1S1lhbDNWZloweW1yWEJEelJnREVTRV80bWxGRHAwRVpXcldmeDBZTndSaFkzTGpHdXYxalZqTkJxMGRCalN5dw?oc=5",
-          "source": "Crude Oil Prices Today | OilPrice.com",
-          "published": "2026-10-13T16:30:00+00:00",
-          "via": "Google News"
         }
       ]
     },
     "NG=F": {
-      "price": 3.304,
+      "price": 3.303,
       "prev_close": 3.167,
-      "change_pct": 4.326,
-      "quote_time": "2026-10-13T14:50:00-04:00",
+      "change_pct": 4.294,
+      "quote_time": "2026-10-13T14:55:00-04:00",
       "name": "Natural Gas",
       "news": [
         {
@@ -252,6 +252,13 @@
           "via": "Google News"
         },
         {
+          "title": "Bank of America survey flags 6% Treasury yield as trigger for stock-to-bond shift",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYzRxdENRMGJDaEdMNmlLYm9CQWRwbDhXeGpLRHBhTlc3V2x5MFluclNtSUVNanRPZnRjTVpKVkh3VDhOaFB1bHhZUnhJQ2Rncjk3RUlvbTZuMGVXRmNjaExCUnk0RDNhZUphZ3ZyUTdOQVo2cThuQTNwUzBCTnBYelFibHpkY3lMUmJPcnFieE9rQnRTUmpZLVVvMVpZUUxo?oc=5",
+          "source": "Traders Union",
+          "published": "2026-10-13T16:33:32+00:00",
+          "via": "Google News"
+        },
+        {
           "title": "BlackRock shifts to US Treasuries, cuts stocks to neutral as yields climb",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLVROZTByb2ZRVEJyZGxrSTI4V2ppSVNVRkxiYkg4UzVIN2x1ekVCdGpqcE9JYWM1R19XS2RIN0xxY3JDT0hNRmtJUVZZUUtzM3Z4TlVFZW1ROHYtZzlvVTZrbnF3UTNDQVpQem1PMHl5LWd2QUpWWFFSdFBZUncybzJoamltYlZVYlFRVk9BbVBJSWNqSUpEcGxkWF96SWNJLWltNndqU0lRTGRh?oc=5",
           "source": "The American Bazaar",
@@ -278,13 +285,6 @@
           "source": "Yahoo Finance",
           "published": "2026-10-13T15:52:19+00:00",
           "via": "Google News"
-        },
-        {
-          "title": "Wall Street slides after bank earnings and tech pressure",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUVF5cEVRVXNMTHlfWHVXYVRXSmUzLUE2eXlfTTZtN2tmWTdWdEY3eTdxQ05SQS1xZTdHSG1RUkV2YmU1bGpDSlA3Y01BZGlWblBUbUgtVVdhUUx1RTRXZ1lGZDdmbVVPOGc2bi1nZFN6b3RWOWJsWVkycEVVakVQbDFoNXJpZk1jYTdOWW91dklSOC1jUFJIaC1iYjdfRTJWVVFqeThtcG51X2I0N2V5RzVGMUxyYW1wTGpR?oc=5",
-          "source": "TradingView",
-          "published": "2026-10-13T15:45:12+00:00",
-          "via": "Google News"
         }
       ]
     },
@@ -292,9 +292,16 @@
       "price": 0.7035,
       "prev_close": 0.7031,
       "change_pct": 0.058,
-      "quote_time": "2026-10-13T20:05:00+01:00",
+      "quote_time": "2026-10-13T20:00:00+01:00",
       "name": "CAD/USD",
       "news": [
+        {
+          "title": "Canadian dollar gains as U.S. dollar retreats from 18-month high By Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVXVEV0lSRUxIQk9iZGZsX3lHNXk0bnNYeHIwYWNXcG5LR2M1bnU1OU1lNXZXLVdEMFhEamkxVlZBRXJNdVI5Q1hwUmFlOTBFeGprVjRoTHY2enNxNUppREJqRmpRNWE2YlJ2T2ljSFJrdVlHcG5HSl9YaEExcWF0ckxxRm5fNURiREc4S2JBMm43RTFLbmhMM2FDNkFpdHJ4LXQwN2RQekd6ejgtY0sw?oc=5",
+          "source": "Investing.com Canada",
+          "published": "2026-10-13T18:19:57+00:00",
+          "via": "Google News"
+        },
         {
           "title": "USD/CAD Forecast: Canadian Dollar Holds Firm as Markets Await U.S. CPI Data",
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSFd4bFNKalZqZUFPeFZRR1FsdnZjNHBvZWdaQ0IzNGlYNlBoaVlYc1p6Mkt2ZXNXNEZEaVZuZUJzdHJ4Q1VZa1RXMlc0bG1tUlU2d2ZMaGl1LUNzMXJCcHBIRVJwV1V3czNnTlBnMXFHcC1xMlE0TlFyTmxubUpaekE0TUdseDFTOXZUSEI3Q0UwUGl2Z09seEVNV05wNjhxcUxXNHN3LVBNWHRkMUxJYVBwODMyb0pBNklGWkxvQ1J0VlNBdWlnaGpHMXNRa2R4WjdGVQ?oc=5",
@@ -343,21 +350,14 @@
           "source": "Yahoo! Finance Canada",
           "published": "2026-10-13T11:34:43+00:00",
           "via": "Google News"
-        },
-        {
-          "title": "Dollar hits yearly high ahead of CPI",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUHlaNTJRTWhGWHBRZ3hzc0VWb29STWJYeWhNQWJCR3JZSlNmMmJwdFBLLS02c0hsNXcxVFh2aXdWcDFJbklLVDdIRHpJWEx6YWZfUFBUY3g4ZkFXM2pWRFpyengwQlcwTVdNQUtqRWpPVzRfcVFMYWxKQmdodnVxV3VvMWkyUmJIUU9lSGhYbVpGaWh6c0FBY0ZiQmVDeTVscFYzUm90Q3lWVHJDSjFjcA?oc=5",
-          "source": "Convera",
-          "published": "2026-10-13T11:28:00+00:00",
-          "via": "Google News"
         }
       ]
     },
     "VET": {
-      "price": 12.2026,
+      "price": 12.2,
       "prev_close": 11.92,
-      "change_pct": 2.371,
-      "quote_time": "2026-10-13T15:00:00-04:00",
+      "change_pct": 2.349,
+      "quote_time": "2026-10-13T15:05:00-04:00",
       "name": "Vermilion Energy (VET)",
       "news": [
         {
@@ -384,17 +384,17 @@
       ]
     },
     "VG": {
-      "price": 13.79,
+      "price": 13.8,
       "prev_close": 13.13,
-      "change_pct": 5.027,
-      "quote_time": "2026-10-13T15:00:00-04:00",
+      "change_pct": 5.103,
+      "quote_time": "2026-10-13T15:05:00-04:00",
       "name": "Venture Global (VG)",
       "news": [
         {
-          "title": "Venture Global's LNG Capacity Expansion Supports Its Growth Prospects",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUjZSRnBjRHhCZzlJbGdaY2pEZnZ1d254YUcxdW9NT1M0N21TMnQ2bHJkTmlyd1ZCMXRMN2s5WHVIdVowczZ3ODByQ1JvcjJOZ19CTlRUcWtTY0UzRUsxN0d1cEt1cHFRV1l3X09kOXZ1WUNTc05MVkZ0Z1I0V2JoSTI5MHdyODQ0TlpFdHlCMG9DQ1AwaW51b2MxOUFnNHVRUUlKYUVjaE1hX25UYlMyNnA5UnNDSS1lS2dhamlIaXJ6Vk85Zk5yUk04RnNpallQZEtvNk50RTJrTnRXblA2dnZqb2ptcWJa?oc=5",
-          "source": "The Globe and Mail",
-          "published": "2026-10-13T17:28:56+00:00",
+          "title": "Updated: 21 standout women in CVC on the US East Coast",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbzUxd0lEdFV2RjMtQzNtTGE2anpCX1laQnhnV3ZIYzB2Y3dkS0J2cGhiMlZiUUZJTEF3OGNaNEEzVmtFMldWQ0NtVHVqanluYjgwbXIxRUpiWEowYjlnVFNPNE1BZXJfZExWX2N2Z29PWEpKdmtPQ28wdWVwQm5GSEdGNzk5eUtm?oc=5",
+          "source": "Global Venturing",
+          "published": "2026-10-13T17:51:38+00:00",
           "via": "Google News"
         },
         {
@@ -412,10 +412,10 @@
           "via": "Google News"
         },
         {
-          "title": "Fincantieri completes Xtera acquisition through Prysmian joint venture",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWWNSTzlmdlhNY0t2bFh3SGlDRk15REU5MlB0YThMTlU5UWU5LTZlcTUydmFpZVc3NW14R2p0WEZndF9GalBJbkZNaS1OU29wUi1LZDEyTENLZ0l1Y09vTjFCLXZVUlNFdG05QXFueGdWSk5rVkgyUUozTWJSUDRjaklCcUpLS1JKMm1SN3B0R2NkalR4VEFZMVJpT1JfaUFObWhzQmV5bHNYZzNicnd2Y1Y1TE5NTVdnTFdldkY2Z2NpTHgyQ0ZQcQ?oc=5",
-          "source": "Data Portuaria",
-          "published": "2026-10-13T16:05:31+00:00",
+          "title": "QatarEnergy Buys 33 US LNG Cargoes to Offset Hormuz Disruption",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZHMwRFdQa0ZINzNVUjF5YmpaV1gyTllsZmlRYWZXSEF6NXgySWVaUVF0cnE5YkZvRzJjbVRLRmEtdnd4aUJmWGc1aHZ0b3IwdDk5U2tIdzBwTEpNQlRzei0tR2lIeFdvWG5RNVBuWlZmWGs5VlZCVlEwaXVfVnpnelhuY2xObzN1ZkVWeUxHdUJxVy15NnpXMQ?oc=5",
+          "source": "EnergyNow.com",
+          "published": "2026-10-13T16:32:32+00:00",
           "via": "Google News"
         },
         {
@@ -461,25 +461,25 @@
           "via": "Google News"
         },
         {
+          "title": "Venture Global's LNG Capacity Expansion Supports Its Growth Prospects",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWWIzY1VQbkd3d3I1WHY5My1iLVNuN2pjR3kzUW5VMDVvR2ZkUV9vd0JONGZ6TnRobzhtMTR0bDNPMER2bXFaLVVHY25fUTdrNldvZG1zYUxOM1JMUTNzWGV0azZwTUNfTWFVeHlJR0RXNU9fcGtPYzVkVEpkYm9DaUU3X0hwbFNXaVZmU2NTQWg?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "published": "2026-10-13T15:17:00+00:00",
+          "via": "Google News"
+        },
+        {
           "title": "Adani Enterprises and Jabil partner in 50:50 joint venture for data centre hardware",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdU1DOF93VWNUUVVjTTVlbkJwOU9PSGZWTWdqRWR4VzdKYTliQWp6NG1aUlF6UDNiaHg5Z2QteHFDUVF1Z0l0TEM4Q0FSbzRmTkp3ZDVLdEEyZmVGSmdWcFNfWEMzYlRLVHlwb0JWaHBxQ3V3TFpzWThHOUVIM0FGVHdJY1pFdkdfVkt4R0N4dXota1l2Rm41b0x3cTVhRmVnMXhrQmZLc2o3QWJ2?oc=5",
           "source": "News Riveting",
           "published": "2026-10-13T14:49:45+00:00",
           "via": "Google News"
-        },
-        {
-          "title": "EU gives Nestl\u00e9 green light for water joint venture",
-          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNQmJjS3dyTGJDcmZCXzBrcTVKOWJwT1F6X1A5R2hFLUs3SnZ3R3M0ZzF5bXZ6MDcxaVh5UHRrUHRQSHJzcjRLM0dtZ0NhQzBySmppZkN3SlduLXZqY1FsZFllOHJXU3FuQi1iV2NkNWxrbGR0THgwVWhmUDJXWjRsUE53UzM1dlBPdmV5bjV4dDJGSl9KRGpnczNrUWNCUDJiYTNPUHZVUUQtUGpCWlJkbjVRc05qMkd4T1RhN1p4VVRtU3JvSm1hNXh0a3RzbHJHRjZsWjJGb0hodmYta1VRMlczVWRfQ2E5cjJxQkYydk1LcmY0QTkxS19GNkU3QVpCQ2tRWl84ZHJEYnpidUhEdzlQY09HVUJLSnMzS213SHZuUTFFOUxORnd1MnZKVXc3dVR2anBFZ2YxOVU?oc=5",
-          "source": "SWI swissinfo.ch",
-          "published": "2026-10-13T14:16:56+00:00",
-          "via": "Google News"
         }
       ]
     },
     "AMD": {
-      "price": 596.975,
+      "price": 597.185,
       "prev_close": 594.24,
-      "change_pct": 0.46,
+      "change_pct": 0.496,
       "quote_time": "2026-10-13T15:05:00-04:00",
       "name": "AMD",
       "news": [
@@ -570,9 +570,9 @@
       ]
     },
     "TM": {
-      "price": 189.18,
+      "price": 189.22,
       "prev_close": 184.72,
-      "change_pct": 2.414,
+      "change_pct": 2.436,
       "quote_time": "2026-10-13T15:05:00-04:00",
       "name": "Toyota Motor (TM)",
       "news": [
@@ -609,6 +609,13 @@
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVV9mX3M0V1ZjczlZazZuelZiZUtQTnJhcmIxMHk2WWZzNUIzYUJfc3FZNWNwWmx6MXFLanZ1OGNkN1J1eWRpR2JzSWVoLURjWGZadUtxOEh2a1JjUGRXNGJnSV80QUJlZnM5SkRiVzd0b0pERW43NF9YdFVBMUtsd2c1Nk9ldzlQRm8w0gGSAUFVX3lxTE9VajJwbUF6VW5YRWtrU0VRd1dUYUhnNDZPMUJ4VkM0Um1EYkNCcC05WmpNRW9UN0hOUFRpWXRKNnhlYks5U2wyQUtiOXkxMzNxU1VYZVBoRnY5c2J4R1NfZXFfOGdrdmk0NE9sc0IwZEZoMHpKcUZQc3ZpTmU4WERjdGtiekRxQklrTmxoMTlxMjRn?oc=5",
           "source": "Philstar.com",
           "published": "2026-10-13T16:00:00+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Toyota\u2019s Tamaraw joins the public transport fleet",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLXpubDB6VkZQV3EtcHpLYjBMdkJlYnJmbzNVS1RMb0xOY2hXbHlSNGYxbTlXTUVwRDRJbUZueTJFT2g1SHpNRWpnY3p3QmxpS3RPVUdtNDBNOU54X3NJdTRrVUI0dWhJYVhTaURQVXd5YVQ1cWZFcE9UNUhWVnNXZ0RMdzM2TTlYazVqMQ?oc=5",
+          "source": "Daily Tribune",
+          "published": "2026-10-13T15:52:16+00:00",
           "via": "Google News"
         },
         {
@@ -652,21 +659,14 @@
           "source": "CarDekho",
           "published": "2026-10-13T14:40:00+00:00",
           "via": "Google News"
-        },
-        {
-          "title": "Mercedes Benz Eqs Suv 580 4Matic EV vs Toyota Vellfire VIP 2.5 Hybrid (2026) - Price, Mileage & Features",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdDBCZ0hGZkI2b1MyRFVEREJUZXQyeEZFMUNtQ1hnTVc3aURhcTBGQWo3OU01MmwtMUlGS0YxRkxLWnpveERiVEYwMmg1ZjM0Z3lLOXlFZXdWczVadUx2Z1RCbHJTRmZSUGFHQUk0c3dqX3JsTllIZWRoZEpXZlRJN0ZVT0kybHdKQUhNbERTRzF6bVFJTFRTbVdjbVgyWl85blFKNW14T2hBUG9sbkVN?oc=5",
-          "source": "Autocar India",
-          "published": "2026-10-13T14:34:32+00:00",
-          "via": "Google News"
         }
       ]
     },
     "CLS": {
-      "price": 347.67,
+      "price": 347.87,
       "prev_close": 347.5,
-      "change_pct": 0.049,
-      "quote_time": "2026-10-13T15:00:00-04:00",
+      "change_pct": 0.106,
+      "quote_time": "2026-10-13T15:05:00-04:00",
       "name": "Celestica, Inc.",
       "news": [
         {
@@ -698,17 +698,10 @@
           "via": "Google News"
         },
         {
-          "title": "Dominion Dynamics to jointly produce Ukrainian drones in Canada",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSlExem1DckZtQlFYTHBfMEl2dFI1QnA2WElMZDV2eS1yeHRDbGhkNTZ4d0pveVRENVRqV0p3UGdhQmRGZHRwbTA1cUNPeERTenNMMEtKZ0t1OXF3Tzd5bEs2TGN1QUxKQ3NocjNKTXBvQjg1TWlISmFuNzZwcG1FMWp0TVJZbEQ0VzR2TkREVU55ZXl3bHlR?oc=5",
+          "title": "CTP announces share buyback programme of up to \u20ac100 million",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUGtIX2Ezem5BRDNiOVY3cVZJYnp3X29BRktkZWh0WGZEellwbVp4bGZOdFFjcUpwcE9TVEwtUmhiczZFVGJxUXl6SVZ2YTJ0ZDNGeXEzWWhvRDFDYTNTeEpLZXg0Qy1VSEZoYW5PX3F3dFFiR004OW1LOVJRSjJYTGtnR2NTeE1KeFBzbmlqNA?oc=5",
           "source": "Yahoo! Finance Canada",
-          "published": "2026-10-13T17:00:29+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "Czech defence company CSG buys 9.5 per cent stake in MDA Space",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPenJQdlVlTW9XVUR3eHV5cU5WWERyQ2V1NV8xSzlpcnVMcEpsVHA1Z1hSVWpjWGdSaUVNdmxwUDl6NXBYM1BFYkNpQlYtV1BNaGtCYnRucFk5STJNT081UEJBTUpDcEUtVlREOWRmX3MyeXB0ZmlJOE5NOUZhTmlzaUNibHJPdw?oc=5",
-          "source": "Yahoo! Finance Canada",
-          "published": "2026-10-13T16:45:49+00:00",
+          "published": "2026-10-13T17:07:00+00:00",
           "via": "Google News"
         },
         {
@@ -740,10 +733,17 @@
           "via": "Google News"
         },
         {
-          "title": "Ross Stores Expands Footprint With 51 New Store Openings",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZV9FUTBkbGIzS1dGbkRrWm10RGxZYndoZnY4ZHF4MnN5RUhiXzIwal9QMUUtdW1jTVpBZVJ0NTNrSTk3UGpwWWZhZ1Z3OU1GekVkaFR2ZE9XY1JMZG9vd2VuRVV1QmJBSkVLVF8xNnM1ZWl2S1FCMDNrQzQ5M2M1UjRTZXE5R2NI?oc=5",
+          "title": "Google launches flagship AI model Gemini 4 Argon for developers, businesses",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV3NxZFREQTVvVkVUU1dRVkw2elpEVWw1bG1IbnZQX0JGQUZVTGQzUjdfaXVDZ2JjVHpFZXlIeFBEclhsVVIyVVJvVld0Zkt1UFh5b3dXU1RBb2ZlZjdaQVB0eXowWUl3WlZRdTdCX25CRjdLTEV5NDZCaHlxQTBFdElXVUFOdEVuS3c?oc=5",
           "source": "Yahoo! Finance Canada",
-          "published": "2026-10-13T15:46:00+00:00",
+          "published": "2026-10-13T16:04:20+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "TC Energy sells economic stake in Coastal GasLink pipeline to five First Nations",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN3p2Qmo2SGhxclhEUTk5Nm1aVnliU0s3bHpmR0hKNWpZU21wdEt4NHpUdGJzMEE1S1FzVkVfb0FZaEFYQW1tSEdnRjNzbi1qZFl1Q1NoLXkxbGw1UG9fRWVtOXBtVDBWaGdTRUl5UHoyN21GOTd0NVJLQVhpRk5kNTRrbzFCdw?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "published": "2026-10-13T15:50:35+00:00",
           "via": "Google News"
         },
         {
@@ -756,12 +756,177 @@
       ]
     },
     "AQN": {
-      "price": 5.1226,
+      "price": 5.125,
       "prev_close": 5.11,
-      "change_pct": 0.247,
+      "change_pct": 0.294,
       "quote_time": "2026-10-13T15:05:00-04:00",
       "name": "Algonquin Power & Utilities Cor",
       "news": []
+    },
+    "CVE": {
+      "price": 32.5651,
+      "prev_close": 31.86,
+      "change_pct": 2.213,
+      "quote_time": "2026-10-13T15:05:00-04:00",
+      "name": "Cenovus Energy Inc",
+      "news": [
+        {
+          "title": "Cenovus Energy Faces an Execution Test as Investors Assess Growth and Integration (TSX:CVE)",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN1E2dWdMUFI4QllFd2VMSGdyZ1BZekZTQWdwMWdGemRoWmN5bUYzZ1l1dGJVaElIb2M0VldsT1Bic3ZCSk0xWHhyVDJ3QkhzWnc5d3dmai1BWmxWeVV2eDMxcTg1dkxnZzQ1TEhmYXdkOV9EeXVPaVgzcm03U28tYnZqQ3E2SlZhVWNmRVh3Vm9aSzZaZmVXQzlIMy1rUlZ3cENtRHdzM0w1UlRFZHp3enMzUGNzbXVkdHgw?oc=5",
+          "source": "kalkine.ca",
+          "published": "2026-10-13T16:40:00+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "4 Energy Stocks Positioned for Growth as M&A Activity Picks Up",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeU9mbDNEbFRUY0thZjhKZlpXWEo1MFA3cmFvZ1pCa3h1NlBMUDhBbWtuNEJLdXFMX0hRd05odTQ5b1BmSkREWElKRkFuQWprYmt2OHZsb05HVFNXSHVSZ3ROSERycXFDU0xEaTMycFc2R2NFRmh0UVdSVHZnMFdRQW1LcXVMZllsX2YzNWZ2QVQzT2VrdS16YTN1LUM3ZDdUdnFhMm93azM1cFVoQ0Z3bVVTWFVCdkFVOEE?oc=5",
+          "source": "TradingView",
+          "published": "2026-10-13T15:35:00+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "ATB Cormark raises target for Cenovus Energy stock to CAD 49.00",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTW5EcGJGVzhpeWtvLTh5SndGWGJnWmEya0d4b0FaejY0OEFWQUwyeW9leGcyV1FWcHhZakFkTkdpT0UxRDFOQzg4ajg5RTJnTzVTWEFVMDNrU3dVZlF0VE9tVlhFNDdubjQ2ckZMME01cmRGeVc4N2x6OUdlOWVpQ19UbW9yVTltcEt1V25tMjJpSjRKNWh3TjRCUHZFUnZxZU5UTkNNZXVzVm5UamV1bENSdTdOYkZMSXBuLWtBZklzRmJw?oc=5",
+          "source": "ad-hoc-news.de",
+          "published": "2026-10-13T15:00:20+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Cenovus Energy Inc. (CVE.TO) Stock Price, News, Quote & History",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oY3pIQzE4V3ZMemM0Vko4RmllMjVwOWJOQ2I3YlItd3pfT3drZDFaamxETmF5TFRJQTRaRHBuNFZxZ09ZT1F1T0c1dHlIUktQaUJZWQ?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "published": "2026-10-13T14:51:59+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "How Will Cenovus (TSX:CVE) Reshape Oil Sands Growth With Athabasca Deal?",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMEs4ckFMaHpqZkM4OGc0TURybDdqekdobFkydUFMb3BhdU04VTRKbUtxVVUwZjFEaEpZYWJjOW1rT3dTUFNoLTlsYUcwODZ2MGR4VlBtNE5QbW9idGJTMHhRWG9ZWVY2U19wN2ZySjJ0TFpxa2ZFLXhUVFJvdTN3Z1E1Q3k1SHhhV3p4eGFHLXpGTklZVWE3M25zMTMyYVpIejZfMFBoVHJSNnJScEpv?oc=5",
+          "source": "Kalkine Media",
+          "published": "2026-10-13T14:37:00+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Cenovus Just Paid $5.7 Billion for Oil Sands Growth: Should Your TFSA Follow?",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSldEQ1VibTBKQXFQMnBnS1FFQXhxSERGYm83UE5tUmk4dWZ1bXcwLXJaWGJabGtrVmdEQkJNNVE5TUt1U1NyLWtxRWNDUE5ub0RtVnpReWVENVRxaGFwUWplWFgzcFBTZ2kzazh1ZmIyTHlaSE5tUW9zWkJnQkR0WUs5RERodHVQb2MzTzFfZHVreTU0VVJsZG40Nm9RRk5yQjR0ZFJxMU03YUdnTVdfYlEzdFJPQU1RSW5oTEVsT3NVcHZTQUhadk81d3pxck16anhvZlh4U1B1MGxsbEFRNVN0em1SY1BrNVZOWVhqak1CQQ?oc=5",
+          "source": "The Globe and Mail",
+          "published": "2026-10-13T13:39:38+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Canada\u2019s Oil Firms Look to Scrap Carbon Tax Tied to New Pipeline",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUEVWWXpZTkZOZEV0eTViSGp1VE0xM2lzYVcyTmlpb0RjUV9ZN3lyRW80MmxVcDhCVllHMHozQXhtTHZfYjdNSnEyZVA4RXBsMHpCaXp3d2VmaWVUV3VSUUFJdDlSOEUtdVFPSFhlclhvSUZvM1l4QklvdjJjbzM0OTA1VG1wT0NyR09uaExSLXV5Z1I1QjI3VS1R?oc=5",
+          "source": "EnergyNow.com",
+          "published": "2026-10-13T13:14:23+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Tuesday\u2019s analyst upgrades and downgrades",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYkhUMXQtcWlZeDFWaTVVT2QtN3FvRHZfUGRzcW9sb0wxNV9zNEhaU2lkNmFmc2NWUHdFRWVLQUxLWGRjUHVmUnprWmdOWlJ4RHQ5dmdCaWR1VmhIbVdVRGl2N3pyUjdadFppWndRUVhRM1gtT3FoQ2xvM1ltZEhUekZzckwwc0RwZzV3T0dxeENyLWxlSUJKUEpBRzRHM3k3UllEeUN6MG9mX3BLUXVXaVpXY2QxSXBGTy1rZkt3?oc=5",
+          "source": "The Globe and Mail",
+          "published": "2026-10-13T10:40:18+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Cenovus agrees to buy Athabasca Oil and Cenovus Energy stock costs EUR 28.35",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQUswTjJ5SWdSdWtfeWVxM0lxUVdHeUxldUNhT0hFT0d4RU1fTFpxWjBuaS14RDMxZEVCa2dtR0lEdnVsOHV0UnpGbi1NRTFpY0I4Z0JrSl9PVmhaRHZNV2xBcTdKZk5PcGJxVWVTYXN1VEJpQWJMcnJOcHR5eDZPS3htLUNBTEdDclVwOEYyc0UzRFJuamhaZXBFRU9FRWtrVkVnT1lvdEc3bmhkX2RlV1liWU4yTFhlN1U2UFAxeGFHSkhZaVdpNGdsRTQxTE9ILVExX0RB?oc=5",
+          "source": "ad-hoc-news.de",
+          "published": "2026-10-13T10:33:20+00:00",
+          "via": "Google News"
+        }
+      ]
+    },
+    "MDA": {
+      "price": 28.36,
+      "prev_close": 27.45,
+      "change_pct": 3.315,
+      "quote_time": "2026-10-13T15:05:00-04:00",
+      "name": "MDA Space Ltd.",
+      "news": [
+        {
+          "title": "Czech defence company CSG buys 9.5 per cent stake in MDA Space",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaVBHd3k2NG81ZWpRR2JwQnBIR1Q4NjdJWko0bUxoVVpWS0J4cm96cE5uNEg4cWtYYkdMbWY4QTJSa2g4cndYSEhCV1BXV3lCVDN1aWxqT1Z5c2tBRV84OU9TX3RqZkRzV0x0ZXp3Y0lTYUN0aFJqRWNDUjlhV0hGT0xPVlFONDlCa2haYTFjMzJkWWlUc2xnLVVqcXVzLVVtSnc?oc=5",
+          "source": "CTV News",
+          "published": "2026-10-13T17:12:36+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "CTP announces share buyback programme of up to \u20ac100 million",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUGtIX2Ezem5BRDNiOVY3cVZJYnp3X29BRktkZWh0WGZEellwbVp4bGZOdFFjcUpwcE9TVEwtUmhiczZFVGJxUXl6SVZ2YTJ0ZDNGeXEzWWhvRDFDYTNTeEpLZXg0Qy1VSEZoYW5PX3F3dFFiR004OW1LOVJRSjJYTGtnR2NTeE1KeFBzbmlqNA?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "published": "2026-10-13T17:07:00+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "MDA Space Ltd (TSX:MDA) in the S&P/TSX Spotlight: Why Investors Are Watching Strategic Investment And Global Space-Industry Expansion",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVEV2bHN5cWJLVklIc19TcWNLQ1NYSERtQkl2SDRVZENwcG90T05LRkVBYUlUOXpqQ1pLNFhibDYzTHBNZEpHZTdQb05CTHA0SXRLVEhYSzdfM00wbFAzY2NlN3paQlZ6VUVMSnFqSjNvTmdDLU1HQVd0Yk1jYlRJZy1QZ1ptRXVKYm1fZzVsVTA5a2R0bTJFVF90cGh1OUhSLXYwUTZDUk9hV1UxekZpZlBlN0RPaUdRVUVyZnYzdldITjBDN0JQTFdmQjFFZUpPVXl1VGI0cnR4YjYzWTMtZUFQM1h0Y0hmUjRfVGx6bXVPU0h5?oc=5",
+          "source": "kalkine.ca",
+          "published": "2026-10-13T17:00:00+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "CSG Billionaire Buys MDA Space Stake Valued at $434 Million",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTE9jbGt2OS1OR1pyVGFPSTAwTUg5X0F5Sm56MHMxZEFRZ2xUSHo3WmJGWXBUQlZZOGh6LVdCVUstNXBaeWMzX2dQQlN3amxNa2xybnJ4MFVhTE42YmU1YVdZZ0lpcHJpb0dDMTdUSEVLaHVIc3NFbXFDUXgwbDl4M0ZsOGdGdzlFNGU3YWlHRDU0eS0wTlo0QlRFVWVqdEppajliYXI1cGhDaWFNNjNMeA?oc=5",
+          "source": "Bloomberg.com",
+          "published": "2026-10-13T16:12:29+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "NABEP Boosts Operations with New Workover and Drilling Rigs",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdGRaNGVhbndxTUlGc2lsZDgzLXozakw3N2pSNDg1N3VXQkFma1JKeDlMcXI1NHQxbi12WGYzSUVpMVhUXzJPeHhDSURqY1ZPTllyUHNwdFRYeGlDa1VuTHlKcEVBQXBDZ3hQcGNQdTBSN3ltWFJzei0tOTlmajM4Vjl4NjFyQ1ZKa1gyUnZoanlpQ0Qt?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "published": "2026-10-13T16:05:00+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "TC Energy sells economic stake in Coastal GasLink pipeline to five First Nations",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN3p2Qmo2SGhxclhEUTk5Nm1aVnliU0s3bHpmR0hKNWpZU21wdEt4NHpUdGJzMEE1S1FzVkVfb0FZaEFYQW1tSEdnRjNzbi1qZFl1Q1NoLXkxbGw1UG9fRWVtOXBtVDBWaGdTRUl5UHoyN21GOTd0NVJLQVhpRk5kNTRrbzFCdw?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "published": "2026-10-13T15:50:35+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Participation notifications by SIH Partners",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTFdVWXpyaklHU3RDbmJHZGxBOEFLallBX1doM1E2Wk1oWGE3aTVaNm01bHFYdGxuU01ZMGRscGtZVG9GQUpKVWRTSmIzdFpmaUVsRS10YWw2V2RYVkhKa0xCMU0wNWFVbUlsNWdyTFdDTUV2c0hMUlZPdWhLcG85RmVOd25pUElFV3U2dWxaYml0QW8?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "published": "2026-10-13T15:45:00+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Sean Croston Joins Pega as Chief Information Security Officer",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSldYUVRuWE4zSGt5WktiRTJXQ2dqNEU4MUkyY01lWDVKX2tsNmt1SDhJMFF6TDdvSUstd3lESGl5eUJMSlhoVUtUbWpFWTdVaW9SNlduMUY1TTUtWDgyQXk3bDhDQTloU2tNZWRpaDRZOHlRcWhSQlpNNUJvM1U0YmRBdzA?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "published": "2026-10-13T15:30:00+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Silence Therapeutics (SLN) Upgraded to Buy: Here's Why",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY3NDcW1uV3o1U1NtQ1B2ck9PZVJfVlgwSEhTWUJnZ2JkSE9QRWR6U0JfQlJYZXJwRi1WSFpyNXRjNktha3NydGRCVW9NMEo2a21rY0RxMTNJYVl3ZkNrVVhzUXItczB6RFAzQkJRckJBLWNrUUZIREtZa3NlR096MDc2elJnOXBBSUF6Q2lBMA?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "published": "2026-10-13T15:00:02+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "SoundHound Eyes 25 Fortune 100 Brands: Can LivePerson Unlock Scale?",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV1NyR1VCWHlLb01ybkhnbXZYNEZwX2Flb0RTYzZWSVQwaVBtUGpZTmRoQ1lvNkwzYnlXUGpnengwalNld0NjaEJ1S1dDN0pEZDFibHhKRGFDaW1XeThxSDlzdXR6VjJxaDlLWUNMdXptV2k5dHA0N1htd2JSdkFVREdaX2RsZw?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "published": "2026-10-13T14:52:00+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "ESNT vs. BRK.B: Which Stock Is the Better Value Option?",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qTHJpSGpnQVAyMm1OcXlaVkpjU3loTkpnYVFFVFpQNVF6eERvQ3M1VUpvYU4tRHdhc3JRTGRaOXlwcktnaGpqZXVyOGx0WUY1UWpOQzZLcHVrRjFtMjZlNUR1WFF0bDZPeEJuTHlVZjN6R1hnb3lv?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "published": "2026-10-13T14:40:03+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Higher Rates Turbocharge Lending Income for Biggest US Banks",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSFZBMDlYdVgtMGdnd3EyUXhxUm40dThVYWFVM0E4QzlWMDROaU5zMTVJMzdPT0d5RGlMYVdWVElJTFRVZ0ozUGJoT0hfOEFQQWY2T1p3VS1RWF9wSTU4OXQtZlB6VlpZSjF0WURiZU1zMVFpQncycW9NdFVubHdhcmxZZUZVc2o1R0RmVXpIMFhlUQ?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "published": "2026-10-13T14:13:15+00:00",
+          "via": "Google News"
+        }
+      ]
     }
   }
 }
