@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-15T19:01:03.569350+00:00",
+  "updated": "2026-10-15T19:01:56.944103+00:00",
   "quotes": {
     "CL=F": {
-      "price": 96.42,
+      "price": 96.36,
       "prev_close": 95.09,
-      "change_pct": 1.399,
+      "change_pct": 1.336,
       "quote_time": "2026-10-15T14:50:00-04:00",
       "name": "Crude Oil (WTI)",
       "news": [
@@ -34,6 +34,13 @@
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQczZwaWFtUW5rQXZiLWpfQ2xfQXBIblgtcTZHM0RsOExSZkppWENWSkY2ZEZaUk9PWkFiRHhsSHNiQllaRlFnVzE3bWk0dTlUZzAzWVhON0cyZUlXcC1tSEhHd2dxUkZhQWZhRHBxSldWazdCTFFyVC1WbnU3ckVfQ0thb2lOOVFRUVIzVVJKbFR5azA?oc=5",
           "source": "Report.az",
           "published": "2026-10-15T18:05:53+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "IEA to accelerate oil reserve release, including more than 20 million barrels of diesel",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTi1ROURUVGRjVlhXSDRCRDh5VndVLTlPWEpjY0NkTEVvRG1jcElQakpPZzZXZ1hKNjBrMnBvcnh2UjNGTnAySTBENmNYQ3pyNjZWYWJBV2MtQzhIWGJqRC15ek1lM01oSUN3RVo2Mlo4REQ2WHkta1VwcmNDXzJDbXBR?oc=5",
+          "source": "Mezha.net",
+          "published": "2026-10-15T17:55:41+00:00",
           "via": "Google News"
         },
         {
@@ -84,21 +91,14 @@
           "source": "UA.NEWS",
           "published": "2026-10-15T17:20:36+00:00",
           "via": "Google News"
-        },
-        {
-          "title": "3 Energy Stocks With Pricing Power as Inflation Lifts Oil and Gas Costs",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPejJoX0VYd0JpUm55SV9Xa1A4dlQxakM4RzloVHEwMVNEUWxBeGZzVjZDNnNoSWgxejNaQnk1U2NRMXpXbUI0dE9DeXJVdDY5MEtIdkl5ckpWMWZQLTlqLUFCdUFvX3RncnN4NDM1bjJhVi1faUhoX2wxVnFjcm1qVkRBZW42VTJsVUh6dWZNdw?oc=5",
-          "source": "Yahoo Finance",
-          "published": "2026-10-15T17:10:39+00:00",
-          "via": "Google News"
         }
       ]
     },
     "NG=F": {
-      "price": 3.223,
+      "price": 3.225,
       "prev_close": 3.198,
-      "change_pct": 0.782,
-      "quote_time": "2026-10-15T14:51:00-04:00",
+      "change_pct": 0.844,
+      "quote_time": "2026-10-15T14:50:00-04:00",
       "name": "Natural Gas",
       "news": [
         {
@@ -172,17 +172,17 @@
           "via": "Google News"
         },
         {
-          "title": "US Natgas Futures Rise as Daily Production Falls, Texas Waha Prices Stay Negative",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWTQzLWZWSEczV3pHVHVNT0VSVGJxRXItV196VlhpTHpBRTV5UkJ4TlZmYWVCUmRDUGIyRm5QR1hsc1ZmcjVtYmtVMVI5bnRmV1RoQzZXVWNpTkh0VkJobkVpbThqMkgydU0ySk5pc2RxWGVFMklfR2UtMk0tNE4wemNldVJZWncxVXBMMTlFQjNQZ1FnclFCZGEtNFFIQzNZX3FIaXBMejZkeFo2RU01dA?oc=5",
-          "source": "EnergyNow.com",
-          "published": "2026-10-15T16:16:07+00:00",
+          "title": "Oracle\u2019s Project Jupiter Awaits FERC Decision on Natural Gas Lateral",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObW8tWEk0TnlhTkkwTkxPWmVObXlTQXNzbVhwRTBINVd0Y1I3Tk5HZjJabk0xZXliYnEzTWhJSUpkR092SFluM0JLQzNhUm4taDhzNDJMQS1RTlg2OFIwYkdNaXkyaE1rTE1wUGNhblp3Z2VBV3QtZ0hNbHNqd0dqcHc3UU9jV0JYbUszTFhmZktkUkxlRTFpYWFNQVE2NXZwaE9n?oc=5",
+          "source": "Natural Gas Intelligence",
+          "published": "2026-10-15T15:54:15+00:00",
           "via": "Google News"
         },
         {
-          "title": "Shell Profit More Than Doubles to $9.8 Billion, Second-Highest on Record, as Iran War Lifts Prices",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa0plQVFmeFNZX3hwVmZ6TXFVaXAxb0dELTVVZXo0RFRXVnRfS09XU24xalZYdE9kR0M1M3R1eElCV0F4cDg0ZTNfS1R4MmFJZU5EV1FFS0NhNGxaWldqaVFGSnIwRkV2dTh5eHotSjZWek85OUJ0OGV6cmV0QWVneVgyQ195SERfYVBLdUlEX0RhZ2h1WkZMVEFRbGsydGx4a2dvVWtPMEV4VjZYSU10QW9zcjh5ZTNDNmExWkpBY0c3ZFF1?oc=5",
-          "source": "EnergyNow.com",
-          "published": "2026-10-15T16:13:23+00:00",
+          "title": "On gas prices, Trump recycles a weird argument to pretend bad news is good news",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX0E3LVNKS1pueWFfUFNTeW1hQ1F2NE5Tbjh1V3BWbTBJS1RVbWpoa05mSTVnS0RiNkRPNEItdm1LemNYaXZtd3pHMWdXTzh3MThjUUtvR3VmREhhOElNR0JqMjBBY1hZUy1udF9YeXU0ZVJfbEdLYnlQbzFtU1g3MWwzOTIyQ2o2M0hNU1lFMlJpenNGME1DUzJUMzR0R25yZ2hEZVpn?oc=5",
+          "source": "MS NOW",
+          "published": "2026-10-15T15:49:06+00:00",
           "via": "Google News"
         }
       ]
@@ -335,7 +335,7 @@
     "CADUSD=X": {
       "price": 0.7047,
       "prev_close": 0.7034,
-      "change_pct": 0.185,
+      "change_pct": 0.192,
       "quote_time": "2026-10-15T20:00:00+01:00",
       "name": "CAD/USD",
       "news": [
@@ -375,13 +375,6 @@
           "via": "Google News"
         },
         {
-          "title": "Equity selloff unwinds dollar\u2019s CPI surge",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOWtjSGJXSnRYd2x0RXByUmdzak1MZmpzLTJOcGo2ZWZYTVYza2tPZmxNbHBLaXpENG45RE5hOXFYV0dGalFEMFNyMEw3cEhKdGJuQWZhOWVNQXVxdkVBN1ZEaHNlOU14S0tFRDVMMFAwU2N4dkVISF80Tm5FazR5WmdmOGw2MmVTWk1WNkl3QVhfX3dvcl84Rk84VzItblY0QWR1alM2bUVRVXF0d1p2T1BxWHVwZw?oc=5",
-          "source": "Convera",
-          "published": "2026-10-15T12:42:16+00:00",
-          "via": "Google News"
-        },
-        {
           "title": "1.4195: Canadian Dollar tests range top amid lower US Yields, dovish Fedspeak | FXStreet",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DWDFPQXNRYTM5S3AteTBPcVpTa2V2Y0NKRG91TWctS04teVFHVDlScFpZT1AzRVJQaWFaQ1Y2emVkTkZ3QTUzN3VhcS0tTXJIQmpZ?oc=5",
           "source": "\u0634\u0628\u0643\u0629 \u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a\u0629",
@@ -412,6 +405,13 @@
           "via": "Google News"
         },
         {
+          "title": "VERMILION ENERGY INC. : TD COWEN RAISES TARGET PRICE TO C$22 FROM C$19",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYbk43ZGRHalZEZ1FxVkx2VmlKTzBKeEgzMU8ta1RmZEJGNmFVTVlqN1lMNkdWY1NKWkcwZk05RTJralk5blprMHJqbzVWU0lsZ0YwcGxUX2NsZXRlbFZ5ajB4UdIBY0FVX3lxTFBYbk43ZGRHalZEZ1FxVkx2VmlKTzBKeEgzMU8ta1RmZEJGNmFVTVlqN1lMNkdWY1NKWkcwZk05RTJralk5blprMHJqbzVWU0lsZ0YwcGxUX2NsZXRlbFZ5ajB4UQ?oc=5",
+          "source": "Bitget",
+          "published": "2026-10-15T17:06:19+00:00",
+          "via": "Google News"
+        },
+        {
           "title": "Visteon (VC) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZGZVUHFOWDZVQzk0TzIzcTNTZDlfd2RadGtua1d2Vk5LM0JtNG1OZlpqalFLU3MtckthZlo3SHdyTFY4Mno5NEVwb2NOQ0NsSFBJWlV2TjhtbjY0SklYQm5tSE1aVDVRQzkzRC1xWGl0Y1hXaFV4bEI4ejdWTUg2SHR0UGdMZHVBU2U3X24wTzFENFBLRlVkY1pOOU9mMlk?oc=5",
           "source": "Yahoo Finance",
@@ -435,9 +435,9 @@
       ]
     },
     "VG": {
-      "price": 12.505,
+      "price": 12.51,
       "prev_close": 13.27,
-      "change_pct": -5.765,
+      "change_pct": -5.727,
       "quote_time": "2026-10-15T15:00:00-04:00",
       "name": "Venture Global (VG)",
       "news": [
@@ -528,9 +528,9 @@
       ]
     },
     "AMD": {
-      "price": 557.085,
+      "price": 557.48,
       "prev_close": 570.82,
-      "change_pct": -2.406,
+      "change_pct": -2.337,
       "quote_time": "2026-10-15T15:00:00-04:00",
       "name": "AMD",
       "news": [
@@ -714,9 +714,9 @@
       ]
     },
     "CLS": {
-      "price": 312.22,
+      "price": 311.63,
       "prev_close": 323.32,
-      "change_pct": -3.433,
+      "change_pct": -3.616,
       "quote_time": "2026-10-15T15:00:00-04:00",
       "name": "Celestica, Inc.",
       "news": [
@@ -742,10 +742,17 @@
           "via": "Google News"
         },
         {
-          "title": "KTOS Nov 2026 48.000 put (KTOS261127P00048000) Interactive Stock Chart",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfbmplY2VVZ0VmYUp1RTZvUkkyTG1aYmFWYW8wY0JaSW0wdllwNUE0M3hGdEJ0NDU1RDd3bXVmY3RXSlJsZFBXTllBazlnZXdMWEpfcTloenpSN1BuR0ZhQ3gwb1ZOV3hUeWtSOVNB?oc=5",
+          "title": "(FD9MXM.MI) Stock Forum & Discussion",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kWHVwWWd3cU5IQ0VEdTJEZmZ4T21KdG0zdVZMM0kyUmdERGpUd01sdmIzeHk0cmxPYmNpSlQ1YjNLN0lqdTN0R28tV2UtUnBvYU93ZzZWdTFWNTh3MGpybjFUZFlBdw?oc=5",
           "source": "Yahoo! Finance Canada",
-          "published": "2026-10-15T16:55:59+00:00",
+          "published": "2026-10-15T16:58:22+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "TECL Jun 2027 90.000 put (TECL270617P00090000) Interactive Stock Chart",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ea2ZmMXpSSHJGVnNQSFg0aFo0RWFYTmhqdlVmM0x3ekNWRl9IZlhFVjlEYW1zelJuS2Mzak5vQV9hV014LWx0ZERCSmR4QzV3M3A5UDZyYndpVGZTYlByOXJpNUZ2VVRPd29Tczhn?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "published": "2026-10-15T16:52:30+00:00",
           "via": "Google News"
         },
         {
@@ -777,13 +784,6 @@
           "via": "Google News"
         },
         {
-          "title": "(A6VG1417.NYM) Futures Chain",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nMVNVSWRtRFdROUx2NTVWRXduSG5SV0lEdGdiYXBYSnZpQnpWRU5rVmRQcFRpSWl3YWtsM2dqVVlZLThnMFZNbks3akh2aThtLUx4ZkJVY2FQZGIwMHE5RHYzZ25GNmc?oc=5",
-          "source": "Yahoo! Finance Canada",
-          "published": "2026-10-15T16:32:41+00:00",
-          "via": "Google News"
-        },
-        {
           "title": "Celestica Stock Hit Hard As AI Rally Stalls",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSFQtSmRtLUJ3NEhMVnZYcExSN2wwYllPOEkwOFVLcXlYYmJOc1ZjcWNPRUl3cmp6cHNDYjlTMFFheGNEdWpHZXF2cTJRSDdIeks3bmZXUldEcG1ITGJ6ZTdqSkFSWjdsVXdRWnJrRE5MclhRM19DVnNoOHRLYU5waXpxMERiM2wwRFE?oc=5",
           "source": "TipRanks",
@@ -791,17 +791,17 @@
           "via": "Google News"
         },
         {
-          "title": "ASML Oct 2026 1510.000 put (ASML261030P01510000) Interactive Stock Chart",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMMGZ2djdvaU9VY0FUNTRyMm1jQm9IRmZKYzdTMl9LNlE3cTRGWnBvQkFnb2hpNTVPbjVZUTNnYnBQb01xa2pyWDFRZ2NrTVFqN0d6QXpleFlxNzNfd1lyVDdoc2hYckpOUDNRVW53?oc=5",
-          "source": "Yahoo! Finance Canada",
-          "published": "2026-10-15T16:29:56+00:00",
-          "via": "Google News"
-        },
-        {
           "title": "Rocket Lab (RKLB) Stock Sees Modest Fair Value Cut As Analysts Reset Targets",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRFlDb2dEOHMwdGZ2VzVkM0p0a3JjdzNXZEtReGQ4SG5QVG1QVDc2YkRNZDUzMGgteF91Ql81dEFUbXRXaGlTYkNidkw0OHlBSkZCVVJxeWZrNUhJZjZhYjUyRzRtd0lqQ2ZiLTNPWW5LVlJQVmJMaDY3OXByX3ZGLQ?oc=5",
           "source": "Yahoo! Finance Canada",
           "published": "2026-10-15T16:13:14+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "CoreWeave wins Bank of America\u2019s backing as revenue growth forecasts rise",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnMwdEs1X1MzeTVPelZON0NDZW9HcXRHbnF1dHM5MjFMUHNheTROb09HNlNab05seXZURWJ6dC1Bc0pqUWJCTEZhSjY3LU43WkxTLXNoakEwVEwzaW9wdldQcU9KWDU1ZjNSVEI1MXZMdmUxNDRRNUotSWJjOVVpR2tYSGlobURKaFBSWA?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "published": "2026-10-15T16:07:00+00:00",
           "via": "Google News"
         }
       ]
@@ -815,9 +815,9 @@
       "news": []
     },
     "CVE": {
-      "price": 32.19,
+      "price": 32.205,
       "prev_close": 32.62,
-      "change_pct": -1.318,
+      "change_pct": -1.272,
       "quote_time": "2026-10-15T15:00:00-04:00",
       "name": "Cenovus Energy Inc",
       "news": [
@@ -826,13 +826,6 @@
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRF9aWkF3aXN6ZHU4UXM3aV95dHJlVWp6Wi1Fb0ZISXBFSE5LOXd2UzZiRTF0YmFLWmprSkRDSGloRW44ZzU2LXJ3MlJSbGEwLXFjV1ZLUXluZ19hblFqVTkwYUFmUE5rVHk0UVY0Vm10bERZZjJ1TFdKb29ITzQ0aWZEM2Vhbk9YeVM0TURudWtVSDNnZ1BUQW91clZwNndtaFFkWjFXSms0RVhlYzRnOFlXbTHSAboBQVVfeXFMUFpRUDl6TTNYd1dQb1RnV1dJb2dXOS1JWGtOODVPcDY2WExxQ1Q1c0ljWkVKeHlRc0xmaWhmMGtTeEphVXgzSjA3LXZUZmFqaHNBNGxxdFZDSW5aSzVMTUNlaHM4cmplaDhyYi1LM0Z1NnFHdy05YUIxR2M4LWh5Z0tpT2RqaTNNWFN3QUNfcVp1YThqeXRoMkoyZWxCbXNqQ2s4SE9WUWhJaGtLNno0aVZxNVg2VjBiLVh3?oc=5",
           "source": "BOE Report",
           "published": "2026-10-15T16:35:01+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "Oil Sands Firms Can Afford Carbon Capture, Hodgson Says",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUVNKblgyM0h4NldIeldrZDNqZExUSWRYNUxRQUlNcnZpRFNaZy1SZDZVWklYbTk0eE5XdVozM2ZEN29KZ1Q1LWJZcHp4TlN2WXJfUE9pVFFXSHg0Nno5YXc1Sk1zWmtoVjNPX3otZmpHRVo4SlpXTUgwWlNEc2ozSGJmMWFWUFRYeW5z?oc=5",
-          "source": "EnergyNow",
-          "published": "2026-10-15T15:55:40+00:00",
           "via": "Google News"
         },
         {
@@ -894,9 +887,9 @@
       ]
     },
     "MDA": {
-      "price": 28.44,
+      "price": 28.47,
       "prev_close": 27.57,
-      "change_pct": 3.156,
+      "change_pct": 3.264,
       "quote_time": "2026-10-15T15:00:00-04:00",
       "name": "MDA Space Ltd.",
       "news": [
@@ -952,9 +945,9 @@
       ]
     },
     "GOOG": {
-      "price": 345.21,
+      "price": 345.25,
       "prev_close": 343.65,
-      "change_pct": 0.454,
+      "change_pct": 0.466,
       "quote_time": "2026-10-15T15:00:00-04:00",
       "name": "Alphabet Inc.",
       "news": [
@@ -1045,9 +1038,9 @@
       ]
     },
     "FSLR": {
-      "price": 178.15,
+      "price": 178.22,
       "prev_close": 179.08,
-      "change_pct": -0.519,
+      "change_pct": -0.48,
       "quote_time": "2026-10-15T15:00:00-04:00",
       "name": "First Solar, Inc.",
       "news": [
@@ -1200,27 +1193,20 @@
           "source": "kalkine.ca",
           "published": "2026-10-15T17:33:00+00:00",
           "via": "Google News"
-        },
-        {
-          "title": "Nano One\u2019s Supply-Chain Progress Puts LFP Commercialization in Focus (TSX:NANO)",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMGNUTGVvaERwVDR2M0hnMWU2YkFuWnNiTlZ6bW82a3BNSndTb01rcWNkb0JKNVNyOTgxOFo5Q3RVLVludjBkX1BGUmRIdDlnOVp6dTRMM3Z2T1NlampncnRITm8ybHNHU1BnbWJ0Qk5qTXRaUjBMTzJkM3F5S2VjYmU1MmRzalNBWUFSYXJPYkRuWWZpYTYtVDZzQjJydUt5SEVfOHZEekJna0w1NWdN?oc=5",
-          "source": "kalkine.ca",
-          "published": "2026-10-15T17:33:00+00:00",
-          "via": "Google News"
         }
       ]
     },
     "NVDA": {
-      "price": 217.76,
+      "price": 217.73,
       "prev_close": 221.3,
-      "change_pct": -1.6,
+      "change_pct": -1.613,
       "quote_time": "2026-10-15T15:00:00-04:00",
       "name": "NVIDIA Corporation",
       "news": [
         {
           "title": "Nvidia, Volvo Cars Expand Partnership on Automated Driving Safety",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVHUwcW9oWkRmZzRyd3NwWWtXanp0Z0Q4R081NVZHaEoyR095M2pxNEZOMjRLLVpvVXlVVlNhUzhrZkJ0WlZiVUMwTHU5QWZDOHFEbWthSm5FckJFRV82V0xQSXZFOVpnQWlkOU1sdm1WVFRzb2xvVl9Vc1BIQy1oMkR6S3hENjRSR0ZnR3pHRlB3a3ktQ0Ntc2huWl9Hb2xFR0JUVkc4XzJtQlRVcm1qOWRILUp0b3pW?oc=5",
-          "source": "www.marketscreener.com",
+          "source": "marketscreener.com",
           "published": "2026-10-15T18:57:16+00:00",
           "via": "Google News"
         },
@@ -1304,9 +1290,9 @@
       ]
     },
     "AVGO": {
-      "price": 340.97,
+      "price": 341.14,
       "prev_close": 346.25,
-      "change_pct": -1.525,
+      "change_pct": -1.476,
       "quote_time": "2026-10-15T15:00:00-04:00",
       "name": "Broadcom Inc.",
       "news": [
