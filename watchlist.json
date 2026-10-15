@@ -18,7 +18,7 @@
     {
       "symbol": "^TNX",
       "name": "US 10-Year Treasury Yield (%)",
-      "threshold": 0.35
+      "threshold": 0.45
     },
     {
       "symbol": "CADUSD=X",
@@ -30,47 +30,54 @@
     {
       "symbol": "VET",
       "name": "Vermilion Energy (VET)",
-      "threshold": 3
+      "threshold": 4
     },
     {
       "symbol": "VG",
       "name": "Venture Global (VG)",
-      "threshold": 3
+      "threshold": 4
     },
     {
       "symbol": "AMD",
       "name": "AMD",
-      "threshold": 3
+      "threshold": 4
     },
     {
       "symbol": "TM",
       "name": "Toyota Motor (TM)",
-      "threshold": 3
+      "threshold": 4
     },
     {
       "symbol": "CLS",
+      "threshold": 4
+    },
+    {
+      "symbol": "AQN",
       "threshold": 3
     },
     {
-      "symbol": "AQN"
+      "symbol": "CVE",
+      "threshold": 4
     },
     {
-      "symbol": "CVE"
+      "symbol": "MDA",
+      "threshold": 4
     },
     {
-      "symbol": "MDA"
+      "symbol": "GOOG",
+      "threshold": 4
     },
     {
-      "symbol": "GOOG"
+      "symbol": "FSLR",
+      "threshold": 4
     },
     {
-      "symbol": "FSLR"
+      "symbol": "TRLV",
+      "threshold": 4
     },
     {
-      "symbol": "TRLV"
-    },
-    {
-      "symbol": "CSU"
+      "symbol": "CSU",
+      "threshold": 4
     }
   ]
 }
