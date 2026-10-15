@@ -79,10 +79,12 @@
       "symbol": "CSU.TO"
     },
     {
-      "symbol": "NVDA"
+      "symbol": "NVDA",
+      "threshold": 4
     },
     {
-      "symbol": "AVGO"
+      "symbol": "AVGO",
+      "threshold": 4
     }
   ]
 }
