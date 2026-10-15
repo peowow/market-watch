@@ -78,6 +78,9 @@
     {
       "symbol": "CSU",
       "threshold": 4
+    },
+    {
+      "symbol": "CSU.TO"
     }
   ]
 }
