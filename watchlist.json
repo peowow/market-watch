@@ -76,7 +76,8 @@
       "threshold": 4
     },
     {
-      "symbol": "CSU.TO"
+      "symbol": "CSU.TO",
+      "threshold": 4
     },
     {
       "symbol": "NVDA",
