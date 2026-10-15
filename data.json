@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-15T18:58:03.492263+00:00",
+  "updated": "2026-10-15T18:58:53.973191+00:00",
   "quotes": {
     "CL=F": {
-      "price": 96.51,
+      "price": 96.52,
       "prev_close": 95.09,
-      "change_pct": 1.493,
-      "quote_time": "2026-10-15T14:48:00-04:00",
+      "change_pct": 1.504,
+      "quote_time": "2026-10-15T14:45:00-04:00",
       "name": "Crude Oil (WTI)",
       "news": [
         {
@@ -23,10 +23,24 @@
           "via": "Google News"
         },
         {
+          "title": "Brent Crude Prices Steady as US Considers Easing Shadow Fleet Sanctions",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaGhscGR0Y21lVXdsY1htbjRDNE1RUWhvQ0xfc3FLNWU0X0hCejRnNW5ydlozMHZmVzlVUXN1a1oxVHJHdGVSNjJlb09mOXRVVGRIemQ1aDBLM0d1UWVVdDFMd2ZtWDVWT3NyU1NNalh0ZVJXN3lDM0FsTFpDMFpZV1NmNA?oc=5",
+          "source": "Marine Link",
+          "published": "2026-10-15T18:07:11+00:00",
+          "via": "Google News"
+        },
+        {
           "title": "US crude oil inventories fall by 8.6 million barrels",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQczZwaWFtUW5rQXZiLWpfQ2xfQXBIblgtcTZHM0RsOExSZkppWENWSkY2ZEZaUk9PWkFiRHhsSHNiQllaRlFnVzE3bWk0dTlUZzAzWVhON0cyZUlXcC1tSEhHd2dxUkZhQWZhRHBxSldWazdCTFFyVC1WbnU3ckVfQ0thb2lOOVFRUVIzVVJKbFR5azA?oc=5",
           "source": "Report.az",
           "published": "2026-10-15T18:05:53+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "IEA to accelerate oil reserve release, including more than 20 million barrels of diesel",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTi1ROURUVGRjVlhXSDRCRDh5VndVLTlPWEpjY0NkTEVvRG1jcElQakpPZzZXZ1hKNjBrMnBvcnh2UjNGTnAySTBENmNYQ3pyNjZWYWJBV2MtQzhIWGJqRC15ek1lM01oSUN3RVo2Mlo4REQ2WHkta1VwcmNDXzJDbXBR?oc=5",
+          "source": "Mezha.net",
+          "published": "2026-10-15T17:55:41+00:00",
           "via": "Google News"
         },
         {
@@ -77,27 +91,13 @@
           "source": "UA.NEWS",
           "published": "2026-10-15T17:20:36+00:00",
           "via": "Google News"
-        },
-        {
-          "title": "3 Energy Stocks With Pricing Power as Inflation Lifts Oil and Gas Costs",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPejJoX0VYd0JpUm55SV9Xa1A4dlQxakM4RzloVHEwMVNEUWxBeGZzVjZDNnNoSWgxejNaQnk1U2NRMXpXbUI0dE9DeXJVdDY5MEtIdkl5ckpWMWZQLTlqLUFCdUFvX3RncnN4NDM1bjJhVi1faUhoX2wxVnFjcm1qVkRBZW42VTJsVUh6dWZNdw?oc=5",
-          "source": "Yahoo Finance",
-          "published": "2026-10-15T17:10:39+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "Venezuela's Oil Recovery Gains Momentum as New Drilling Rigs Arrive",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb3M3YmZPZUtvcTZLVjhkZzN5TnZpMkRIWUVpOHp1QXdBQXFfdThhT3F6dmNVSmF6M2NZMWlNT1BZeHJscDZQSkJmOGFLOE93SGZtV3d1QUVNWUxHMUwzbTlGelVxR2hmQ3pxOC1XT05vbkE4TUEwcTJabEdOd1VEaE95UWFwM2dwY1Q2c0ZfdnQzcjNSOHB5bHVjY1RTYTJDWWozdFBLdjdNT1VjTW5Mdnp5SdIBswFBVV95cUxOb3M3YmZPZUtvcTZLVjhkZzN5TnZpMkRIWUVpOHp1QXdBQXFfdThhT3F6dmNVSmF6M2NZMWlNT1BZeHJscDZQSkJmOGFLOE93SGZtV3d1QUVNWUxHMUwzbTlGelVxR2hmQ3pxOC1XT05vbkE4TUEwcTJabEdOd1VEaE95UWFwM2dwY1Q2c0ZfdnQzcjNSOHB5bHVjY1RTYTJDWWozdFBLdjdNT1VjTW5Mdnp5SQ?oc=5",
-          "source": "Crude Oil Prices Today | OilPrice.com",
-          "published": "2026-10-15T17:00:00+00:00",
-          "via": "Google News"
         }
       ]
     },
     "NG=F": {
-      "price": 3.222,
+      "price": 3.221,
       "prev_close": 3.198,
-      "change_pct": 0.75,
+      "change_pct": 0.719,
       "quote_time": "2026-10-15T14:45:00-04:00",
       "name": "Natural Gas",
       "news": [
@@ -172,17 +172,17 @@
           "via": "Google News"
         },
         {
-          "title": "US Natgas Futures Rise as Daily Production Falls, Texas Waha Prices Stay Negative",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWTQzLWZWSEczV3pHVHVNT0VSVGJxRXItV196VlhpTHpBRTV5UkJ4TlZmYWVCUmRDUGIyRm5QR1hsc1ZmcjVtYmtVMVI5bnRmV1RoQzZXVWNpTkh0VkJobkVpbThqMkgydU0ySk5pc2RxWGVFMklfR2UtMk0tNE4wemNldVJZWncxVXBMMTlFQjNQZ1FnclFCZGEtNFFIQzNZX3FIaXBMejZkeFo2RU01dA?oc=5",
-          "source": "EnergyNow.com",
-          "published": "2026-10-15T16:16:07+00:00",
+          "title": "Egypt keeps fuel prices unchanged through December 2026 - Energy - Business",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT0NnVm11bzVwRnRPWndRaWp3Q1c0cExoUEJiSG9IMnQzVTltQi1HZkxvWFlnWXFKVGJRU2hpcXVvNml0OEozYi1tcm1XM0VXTDNtLUk0T3NuMjI4aTFMbW1xNjc1aHptNjA1U2tER3dWcUt0cUFGN2lHUEtibkRzS1VYMWRFcm50UEJscWItcXlrTnA3ZWhWbXVJMmliZjJVam4wcDhPU1pJUGhhZmRXOUxlS2dENU9HVVdQZTNESDFzZw?oc=5",
+          "source": "Ahram Online",
+          "published": "2026-10-15T15:59:44+00:00",
           "via": "Google News"
         },
         {
-          "title": "Shell Profit More Than Doubles to $9.8 Billion, Second-Highest on Record, as Iran War Lifts Prices",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa0plQVFmeFNZX3hwVmZ6TXFVaXAxb0dELTVVZXo0RFRXVnRfS09XU24xalZYdE9kR0M1M3R1eElCV0F4cDg0ZTNfS1R4MmFJZU5EV1FFS0NhNGxaWldqaVFGSnIwRkV2dTh5eHotSjZWek85OUJ0OGV6cmV0QWVneVgyQ195SERfYVBLdUlEX0RhZ2h1WkZMVEFRbGsydGx4a2dvVWtPMEV4VjZYSU10QW9zcjh5ZTNDNmExWkpBY0c3ZFF1?oc=5",
-          "source": "EnergyNow.com",
-          "published": "2026-10-15T16:13:23+00:00",
+          "title": "Oracle\u2019s Project Jupiter Awaits FERC Decision on Natural Gas Lateral",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObW8tWEk0TnlhTkkwTkxPWmVObXlTQXNzbVhwRTBINVd0Y1I3Tk5HZjJabk0xZXliYnEzTWhJSUpkR092SFluM0JLQzNhUm4taDhzNDJMQS1RTlg2OFIwYkdNaXkyaE1rTE1wUGNhblp3Z2VBV3QtZ0hNbHNqd0dqcHc3UU9jV0JYbUszTFhmZktkUkxlRTFpYWFNQVE2NXZwaE9n?oc=5",
+          "source": "Natural Gas Intelligence",
+          "published": "2026-10-15T15:54:15+00:00",
           "via": "Google News"
         }
       ]
@@ -289,12 +289,19 @@
       ]
     },
     "CADUSD=X": {
-      "price": 0.7047,
+      "price": 0.7048,
       "prev_close": 0.7034,
-      "change_pct": 0.191,
+      "change_pct": 0.193,
       "quote_time": "2026-10-15T19:55:00+01:00",
       "name": "CAD/USD",
       "news": [
+        {
+          "title": "Precious metals slide amid inflation fears and weaker loonie",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVUl1a2xHZUFjUldQMnRta2p2X2ZkQnFxcjRlSURSUFJ3dkd4ZVdYTkd1aS01TWo4VmQtTGVSN3M1NXR4R3g1bmtwLUZ3djRGa0U2N3FZbVVReHpidVFMZUlaUnVyUHVua2tWbzlCQTBiYWtEVlhFVDdSZ0oxQmNfMnZmZUJZTkdQMGJTcG5zSG1uWFpK?oc=5",
+          "source": "Canadian Coin News",
+          "published": "2026-10-15T18:37:46+00:00",
+          "via": "Google News"
+        },
         {
           "title": "US Dollar Turns Lower Against The Loonie As Bond Yields Decline",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSDNJNHNHNjZMNlplLWp5ZElORk1pYkx2TUdBbnZGeE9UVWQ5aGpvOUN4alVueVVib2lqeHhaS3NKbFRUdVdmbEJEam5lZGNBT0dESlZLSXBvU2JBT2lBazNkTXcwbXRBLS1nWDlPdjBObkFNeEZIQ25hRVlGcVJtd0llcXQtM2ZPVWVLVVdvaGhhVDg3bTN2QkZFeWRYQkF6VE1XajhKbkc1RXRMTENHUVZKeDZFTkk?oc=5",
@@ -317,24 +324,10 @@
           "via": "Google News"
         },
         {
-          "title": "Precious metals slide amid inflation fears and weaker loonie",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYnQ4WG1UYU1vUDRmWEdJeGs3ZlRZd2hSZlBsd2hRQnlfbXczYTR5RU9IZlFXQm5xVV9DM0Jwbk9MYmtPTzRNLU1iVXgxUXppT2EzNHo1dEhBeXRvYlZVa1NfSDlSX01HTDF3R3V4alI2TW1LdFhxQTljLWRYSVp5QWJxYm4xVHJSMjlRNnpidmt5akE?oc=5",
-          "source": "Canadian Coin News",
-          "published": "2026-10-15T12:58:42+00:00",
-          "via": "Google News"
-        },
-        {
           "title": "S&P/TSX Composite Index could open in green",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNk53dnZvVGZCU2plcnl5QnZfYk16anlhaDI0WHFxUTVDMzliV1N1SFRBTnlZRm1PbkdVOXZ6VDBxUzNENlQ1amd1VDlDRDctMzNvN0c5eFM4MjVzNFFSajdKd2tXaG43NWF2LVIyalFFcjBEWDUtcVRCTThlTW9oTm9R?oc=5",
           "source": "kalkine.ca",
           "published": "2026-10-15T12:46:02+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "Equity selloff unwinds dollar\u2019s CPI surge",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOWtjSGJXSnRYd2x0RXByUmdzak1MZmpzLTJOcGo2ZWZYTVYza2tPZmxNbHBLaXpENG45RE5hOXFYV0dGalFEMFNyMEw3cEhKdGJuQWZhOWVNQXVxdkVBN1ZEaHNlOU14S0tFRDVMMFAwU2N4dkVISF80Tm5FazR5WmdmOGw2MmVTWk1WNkl3QVhfX3dvcl84Rk84VzItblY0QWR1alM2bUVRVXF0d1p2T1BxWHVwZw?oc=5",
-          "source": "Convera",
-          "published": "2026-10-15T12:42:16+00:00",
           "via": "Google News"
         },
         {
@@ -368,6 +361,13 @@
           "via": "Google News"
         },
         {
+          "title": "VERMILION ENERGY INC. : TD COWEN RAISES TARGET PRICE TO C$22 FROM C$19",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYbk43ZGRHalZEZ1FxVkx2VmlKTzBKeEgzMU8ta1RmZEJGNmFVTVlqN1lMNkdWY1NKWkcwZk05RTJralk5blprMHJqbzVWU0lsZ0YwcGxUX2NsZXRlbFZ5ajB4UdIBY0FVX3lxTFBYbk43ZGRHalZEZ1FxVkx2VmlKTzBKeEgzMU8ta1RmZEJGNmFVTVlqN1lMNkdWY1NKWkcwZk05RTJralk5blprMHJqbzVWU0lsZ0YwcGxUX2NsZXRlbFZ5ajB4UQ?oc=5",
+          "source": "Bitget",
+          "published": "2026-10-15T17:06:19+00:00",
+          "via": "Google News"
+        },
+        {
           "title": "Visteon (VC) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZGZVUHFOWDZVQzk0TzIzcTNTZDlfd2RadGtua1d2Vk5LM0JtNG1OZlpqalFLU3MtckthZlo3SHdyTFY4Mno5NEVwb2NOQ0NsSFBJWlV2TjhtbjY0SklYQm5tSE1aVDVRQzkzRC1xWGl0Y1hXaFV4bEI4ejdWTUg2SHR0UGdMZHVBU2U3X24wTzFENFBLRlVkY1pOOU9mMlk?oc=5",
           "source": "Yahoo Finance",
@@ -391,9 +391,9 @@
       ]
     },
     "VG": {
-      "price": 12.5,
+      "price": 12.505,
       "prev_close": 13.27,
-      "change_pct": -5.803,
+      "change_pct": -5.765,
       "quote_time": "2026-10-15T14:55:00-04:00",
       "name": "Venture Global (VG)",
       "news": [
@@ -484,9 +484,9 @@
       ]
     },
     "AMD": {
-      "price": 555.28,
+      "price": 555.6501,
       "prev_close": 570.82,
-      "change_pct": -2.722,
+      "change_pct": -2.658,
       "quote_time": "2026-10-15T14:55:00-04:00",
       "name": "AMD",
       "news": [
@@ -670,9 +670,9 @@
       ]
     },
     "CLS": {
-      "price": 311.235,
+      "price": 311.01,
       "prev_close": 323.32,
-      "change_pct": -3.738,
+      "change_pct": -3.807,
       "quote_time": "2026-10-15T14:55:00-04:00",
       "name": "Celestica, Inc.",
       "news": [
@@ -698,17 +698,17 @@
           "via": "Google News"
         },
         {
-          "title": "CCL Mar 2027 24.000 put (CCL270319P00024000) Interactive Stock Chart",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00UDNoTFlfVEFIb1hiWndiNkZ6ZXhCal9KYnJ6LTRFZUdkVmNCTmV0MEZOMTBHUnNQNDZiTXdMSG9kRnZ5TFVTMDZ3cnFBd3hqWkw2bXZpbHEzS0tZZ3NRYWNHaVU1UUM4c1FUNQ?oc=5",
+          "title": "(FD9MXM.MI) Stock Forum & Discussion",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kWHVwWWd3cU5IQ0VEdTJEZmZ4T21KdG0zdVZMM0kyUmdERGpUd01sdmIzeHk0cmxPYmNpSlQ1YjNLN0lqdTN0R28tV2UtUnBvYU93ZzZWdTFWNTh3MGpybjFUZFlBdw?oc=5",
           "source": "Yahoo! Finance Canada",
-          "published": "2026-10-15T17:05:09+00:00",
+          "published": "2026-10-15T16:58:22+00:00",
           "via": "Google News"
         },
         {
-          "title": "When it comes to autonomous naval warfare, there is no sovereignty without software",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcmJXNjVKSjdoZFBzVkJnSDNXNjRWbFVuQ0Y3TWpseGkzTG9mSUl1NWt5WXE5ZXNESm9lczdwMDI4aF9ucDFSZEZyYmdLcnBQYnFFVm5zNnhTX25kU0FtNExSb0dYZWFfS0RNX3duNEhwWGdfZVQ0WkliUk1CQVhUVDFZQmREMGZYY2c?oc=5",
+          "title": "TECL Jun 2027 90.000 put (TECL270617P00090000) Interactive Stock Chart",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ea2ZmMXpSSHJGVnNQSFg0aFo0RWFYTmhqdlVmM0x3ekNWRl9IZlhFVjlEYW1zelJuS2Mzak5vQV9hV014LWx0ZERCSmR4QzV3M3A5UDZyYndpVGZTYlByOXJpNUZ2VVRPd29Tczhn?oc=5",
           "source": "Yahoo! Finance Canada",
-          "published": "2026-10-15T16:57:34+00:00",
+          "published": "2026-10-15T16:52:30+00:00",
           "via": "Google News"
         },
         {
@@ -747,41 +747,41 @@
           "via": "Google News"
         },
         {
-          "title": "LRCU Oct 2026 41.000 call (LRCU261016C00041000) Interactive Stock Chart",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9INUwxVnNFM3FnaGJsU1V6TklWbjZTZUNrZWpXQmRKTlNUd3RJX3NTR0U0QnpLZDFzRjNiQ1kzMHVLd2xJX3p3TE5kRU5CaHlhelE4YU85VjlWR3RISW8zYi1vUmVvNVVCdGtfWi1R?oc=5",
-          "source": "Yahoo! Finance Canada",
-          "published": "2026-10-15T16:30:12+00:00",
-          "via": "Google News"
-        },
-        {
           "title": "Rocket Lab (RKLB) Stock Sees Modest Fair Value Cut As Analysts Reset Targets",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRFlDb2dEOHMwdGZ2VzVkM0p0a3JjdzNXZEtReGQ4SG5QVG1QVDc2YkRNZDUzMGgteF91Ql81dEFUbXRXaGlTYkNidkw0OHlBSkZCVVJxeWZrNUhJZjZhYjUyRzRtd0lqQ2ZiLTNPWW5LVlJQVmJMaDY3OXByX3ZGLQ?oc=5",
           "source": "Yahoo! Finance Canada",
           "published": "2026-10-15T16:13:14+00:00",
           "via": "Google News"
+        },
+        {
+          "title": "CoreWeave wins Bank of America\u2019s backing as revenue growth forecasts rise",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnMwdEs1X1MzeTVPelZON0NDZW9HcXRHbnF1dHM5MjFMUHNheTROb09HNlNab05seXZURWJ6dC1Bc0pqUWJCTEZhSjY3LU43WkxTLXNoakEwVEwzaW9wdldQcU9KWDU1ZjNSVEI1MXZMdmUxNDRRNUotSWJjOVVpR2tYSGlobURKaFBSWA?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "published": "2026-10-15T16:07:00+00:00",
+          "via": "Google News"
         }
       ]
     },
     "AQN": {
-      "price": 5.235,
+      "price": 5.246,
       "prev_close": 5.15,
-      "change_pct": 1.65,
+      "change_pct": 1.864,
       "quote_time": "2026-10-15T14:55:00-04:00",
       "name": "Algonquin Power & Utilities Cor",
       "news": []
     },
     "CVE": {
-      "price": 32.2,
+      "price": 32.205,
       "prev_close": 32.62,
-      "change_pct": -1.288,
+      "change_pct": -1.272,
       "quote_time": "2026-10-15T14:55:00-04:00",
       "name": "Cenovus Energy Inc",
       "news": [
         {
           "title": "\u2018Hardly surprising\u2019 many Alberta business leaders staying mum on separation: expert",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWlFQOXpNM1h3V1BvVGdXV0lvZ1c5LUlYa044NU9wNjZYTHFDVDVzSWNaRUp4eVFzTGZpaGYwa1N4SmFVeDNKMDctdlRmYWpoc0E0bHF0VkNJblpLNUxNQ2VoczhyamVoOHJiLUszRnU2cUd3LTlhQjFHYzgtaHlnS2lPZGppM01YU3dBQ19xWnVhOGp5dGgySjJlbEJtc2pDazhIT1ZRaEloa0s2ejRpVnE1WDZWMGItWHfSAboBQVVfeXFMUFpRUDl6TTNYd1dQb1RnV1dJb2dXOS1JWGtOODVPcDY2WExxQ1Q1c0ljWkVKeHlRc0xmaWhmMGtTeEphVXgzSjA3LXZUZmFqaHNBNGxxdFZDSW5aSzVMTUNlaHM4cmplaDhyYi1LM0Z1NnFHdy05YUIxR2M4LWh5Z0tpT2RqaTNNWFN3QUNfcVp1YThqeXRoMkoyZWxCbXNqQ2s4SE9WUWhJaGtLNno0aVZxNVg2VjBiLVh3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRF9aWkF3aXN6ZHU4UXM3aV95dHJlVWp6Wi1Fb0ZISXBFSE5LOXd2UzZiRTF0YmFLWmprSkRDSGloRW44ZzU2LXJ3MlJSbGEwLXFjV1ZLUXluZ19hblFqVTkwYUFmUE5rVHk0UVY0Vm10bERZZjJ1TFdKb29ITzQ0aWZEM2Vhbk9YeVM0TURudWtVSDNnZ1BUQW91clZwNndtaFFkWjFXSms0RVhlYzRnOFlXbTHSAboBQVVfeXFMUFpRUDl6TTNYd1dQb1RnV1dJb2dXOS1JWGtOODVPcDY2WExxQ1Q1c0ljWkVKeHlRc0xmaWhmMGtTeEphVXgzSjA3LXZUZmFqaHNBNGxxdFZDSW5aSzVMTUNlaHM4cmplaDhyYi1LM0Z1NnFHdy05YUIxR2M4LWh5Z0tpT2RqaTNNWFN3QUNfcVp1YThqeXRoMkoyZWxCbXNqQ2s4SE9WUWhJaGtLNno0aVZxNVg2VjBiLVh3?oc=5",
           "source": "BOE Report",
-          "published": "2026-10-15T17:23:04+00:00",
+          "published": "2026-10-15T16:35:01+00:00",
           "via": "Google News"
         },
         {
@@ -843,9 +843,9 @@
       ]
     },
     "MDA": {
-      "price": 28.31,
+      "price": 28.35,
       "prev_close": 27.57,
-      "change_pct": 2.684,
+      "change_pct": 2.829,
       "quote_time": "2026-10-15T14:55:00-04:00",
       "name": "MDA Space Ltd.",
       "news": [
@@ -901,9 +901,9 @@
       ]
     },
     "GOOG": {
-      "price": 345.17,
+      "price": 345.1351,
       "prev_close": 343.65,
-      "change_pct": 0.442,
+      "change_pct": 0.432,
       "quote_time": "2026-10-15T14:55:00-04:00",
       "name": "Alphabet Inc.",
       "news": [
@@ -994,9 +994,9 @@
       ]
     },
     "FSLR": {
-      "price": 177.6,
+      "price": 177.74,
       "prev_close": 179.08,
-      "change_pct": -0.826,
+      "change_pct": -0.748,
       "quote_time": "2026-10-15T14:55:00-04:00",
       "name": "First Solar, Inc.",
       "news": [
@@ -1094,96 +1094,6 @@
       "name": "Trulieve Cannabis Corp. Subordi",
       "news": []
     },
-    "CSU": {
-      "error": "no data from Yahoo for this symbol",
-      "name": "CSU",
-      "news": [
-        {
-          "title": "[Live Broadcast] CSU Craiova vs Getafe Live Coverage October 15, 2026",
-          "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPQm00WTdWY0JXSE1vSFdFMjhYRk9Qai1MejZHMGNjWkpzNF9FSGJMMUx4WVBxQklsOU5uUE95UmcyN2wwZjRUOVBnd0NuMENwRW9pRE1QOU51ODFlQXVUeThMYk9EbW5mOU9NZGltZGVfeWswTmlfNktBWjRPRkFpdW9QdWxzMm5BTG1MUnZXaEdKY3pENHNMSmlTaDZQaGQ4WURtdG9nMHdTYmx4U3NzMk5pdHV1enVwbmtHRWM1d3Azam5senVxQjN5RlYzd2trdkxPWHlDeGc4NUxnM0xuNlc4aHlHTElESUIteWdteklTYXdpNmU3b2RfMkdBNzBLTWhGTFBrdzJ4Mmk5Q3UyMnN1QlhCMWFWeUJaa0NfVTJSWE5acTkySjZmN09rWFM3QW16SUhqYlZmdkZoUGFtNjNiUDdNQTdMUDhmeUVQZ2FVeWkyQ3cyQWNuWnRtZmN4NUR6Y0g2Y28yZkhNUEpqa3lVd3hXRnlkdnhQUWZGMzJmbTlh?oc=5",
-          "source": "Universidad de C\u00f3rdoba (UCO)",
-          "published": "2026-10-15T17:34:36+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "[MATCH LIVE] CSU Craiova vs Getafe Live Broadcast October 15, 2026",
-          "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNUkpVc2o0NEVHRUxDeVlHOTNvdHpFYlRXLWxoSEtVakVmWVBTQ3JXVERKU0haSDZTeHJPSXJPQ3UxdEJkX2QxMWRLVFNzOXhXdzJ4SHZsa2VDcV8xenFYTDMyNUpJXzRZeHptUGkwcHI5bFJOLVNCeE4yYzZBNXZxMHlVV2h0WURVS1M4QTNaYXRvR3V2T3ZEVDkyM0hKdXE0YkV2REVOMzBLMG1WNGdON2VDRm1KYnJBb2JsZE5wdUdyVm15Zy14czM0Sk01Tm9tLTNZRmNUQTJiLVRjckFJMEFKSzZ1MU05cTBPeGtXQjRhWUdJc01odHFxYVd2TGxiMzdnaU1yM2JGMURpakJMSXNla2lOUWJaSHVQNmtWbTVsMU0xblNtR3ZVVHBrT0VodEx5VmFrb2JaSXhudWpSU00zeW1yNUtZdTZOSFJKTlBIQUxLYjJLY1N4Mk04cklMWXJxUGZ6OTFuQWt4Q081ZGF4OUJCM3Bsam9kRmFyaUN1bVR6?oc=5",
-          "source": "Universidad de C\u00f3rdoba (UCO)",
-          "published": "2026-10-15T17:34:28+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "[LIVE UEFA] CSU Craiova vs Getafe Live Football",
-          "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNdWVtdnFpcm9MLVp6d0U2YWFhd0FTNVQ0RkFrMUVlbnBZeng1RG5XMGsybFhBdUpBdU85UWdHcnZqTWRld2VCTmhjNHV5ZnR5M2x3V1UzVmFVZk9DV29KRExNbnZWSkJtd19qSG9VVkVJbnhDc3RWaGJVWTlXYVhlS0hHbmxzVUhKYW51Zi1SQ3JKOXlGWnExZGRTbVQ3Rzlzel9rQzdjeW9wcWg1TEt3Tjg2aGtmTGZCWExELVRRRk1OcmZRUXFVRzZScWx3YXJBbWprUzdqeE1Qd0hIOXE1UzFWUnZ5ZzdFQm9vQURXWjIzdERnUUk2X20ycThWYmFNWldhY2FPMkx2UG1yRHJHVjhldmpYNVZRSTUyUnFBSVpldTJwSVJfRDVzQ1MtVzYxX3dZTFFxenFHRy1TQlF6YkVBTlUxRXlHM0NNUjY0TDZMS3V4cXhDZzBKWDZ6TmlvWXVRR3JpRkI0eG8xUWpidDRUNzJoOHhLV2Fnam9oTFF6eDNi?oc=5",
-          "source": "Universidad de C\u00f3rdoba (UCO)",
-          "published": "2026-10-15T17:34:25+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "Constellation Software Inc. (TSX:CSU) grabs attention: what could move the S&P/TSX Composite Index stock next?",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb1BrdUNOei1UTngzM2JfdXcyYXZXdnMxYjE5Y0tFZG0wOTcwWXAtQ1JYLWdpWnZQV2lfVGxnemhMYlpKdjk1RU42OVkzNjJmeW5MTzBva3dnQlYxWE5XRjFvN01qWGdraXQwRmxNV0k5ZDZxUExCYWNMWkQwdnNfai1zbU40RmI1emJtNnA1Q0dVYmEzdlVqVDRIZkRCMFFNSjlvSUVlakM3ZjJqMVB5NUNLNUt4bmtvUi0xdXl4VmxtTUJMcU5sMVdKQktzWTFzM28w?oc=5",
-          "source": "kalkine.ca",
-          "published": "2026-10-15T17:33:00+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "The \u2018Good Day\u2019 Trap: Are Your Chronic Hives Actually Under Control?",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVS10dGtFZUhZaDY5d0RRakZLVWtfNkh6WlYwN1JVRTkzZlI2ZWFKc0dGeDlmNXFiT3gzZzBja1lTeGtrcF91dzdvWl82QkxLM2wyRDFnSmJhREJzaTc4Wl9lU0xnRk5EME9ZWXJuRW1QQlFxeEtQZm1Pay0yTUNRSS1Lc2hJUlhGd2FfUGJNb1VGdHIxclg3aHdfVkw1Y2Zo?oc=5",
-          "source": "Flow Space",
-          "published": "2026-10-15T17:29:18+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "CSU Craiova vs. Getafe (Oct 15, 2026) Team Stats",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVVUUlZOclZGdFJld1ktaVZ5MjlvM1NyTUd4d182NkhaLU15ZEZpYTJZRjZ2VkxVdVNxZDhyRXd2bnEtaW1HM2ZTeWxqeTk1RkdheEVDV1E2UGEzb3ZIbjdSY3hBMjFrZVpKZVZEMWpvQU1Bbk85MG5FUTJJaWh2V0pERGVIWllP?oc=5",
-          "source": "ESPN",
-          "published": "2026-10-15T17:20:18+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "CSU Craiova vs. Getafe (15 Oct, 2026) Live Score",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91Sk5acDhfLUdic0E4cXBCM1g3QlpoSG4ycU40WC1OWW5QMDVUNGE3cWt3Wi1oWjBfLUpMbXhSd3QtZmlZZTdYeWFqNExwb3I4RHFXWHNiSG5VTTI0YkhJaGxsVFVJTEs4?oc=5",
-          "source": "ESPN",
-          "published": "2026-10-15T17:19:09+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "Colorado State Taps Oak View Group to Bring More Concerts, Live Events to Canvas Stadium",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUUZxRU9OZGRRZ2ItUk1JdW9BdEdpNTFFYmREUzZwMFRnMG1PbjdEM2RwMlV4Z3QxSW1na3FBR1NfVGlzUzF4OUxuWVNIM0lLWGRuMDg0clMtWTlsTXg3WEVGMnNXdXRRcWUwTEhtZDBDbElxQ3dPUVpLSDNNZGU3VmhNWkY?oc=5",
-          "source": "TicketNews",
-          "published": "2026-10-15T17:08:40+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "+[#!LIVESTREAMs!]\u2122Getafe vs CSU Craiova Live FreeGetafe vs CSU Craiova 15 october 2026",
-          "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQYjhjbTZwWU1ZLW52UzBYbmVqYnc1cE5XdUw0clZaVWZaaUU1QzRFVkhLN05laG1nb3p5ckp0VmR2eWlqSHQyS19Nb25qWEViRXlfVGZDb1o5aVJJOTIwaWNvdjJ2c3VxWVpzZlBXajd3WkdRZ2E0YnBEV3Vtajc4TXotT1pPZHdhdmN3WkV3X1hCR1lnNVYzbWtWN05oa01CcW1XN0RlMldUNFdpU2xfNExPdlhfSmxMY1NHakozZGM5aVFTU2pTYjVjeGt2VURDQTM4eWI3Wm1DX095V0ZaN0FKMmdCaWxZcUVvcTBJM3p4V1Z4OEJvQWZocmpxU1NvejBfYkJ6ZkJ3aG5fZ0JXay1UZVdXblJYNGIxOURTbEs0UHB0Um1qd0dSWER0dzc4b2pNWk94Z0NRZDJsczVYVGJRbGZaNmFLdXZXTzVWaHByOFFXZGltWU4wNVdPZw?oc=5",
-          "source": "Universidad de C\u00f3rdoba (UCO)",
-          "published": "2026-10-15T17:06:29+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "(+!LIVESTREAMs/HQ+)!*Getafe vs CSU Craiova Live free online October, 15, 2026",
-          "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOT3Q3ckh5VnFwYjU3RUNTZEx4SDE2SHJFektZX002LUN6U2N2YjdPZXlRUC1DM3BLVFpYR1VIU2h1cHhaMk1UM3dXcmJ0M3ZSSk5mUEdsZWRyX0RYU2N4ak5nQUNmNEhtN3FXYjBKTDdySTZfMWN0ZGF3N05LUmh1Q3lRQUhHUl90WGNfZEdWOUQ2QnZVSzJfSnY0bi1iUU90bmRsOW51cTFTc0JLOVNxUE12czQtRm9KTW95enZGazdhODEtS1UzMDg0aV82UzFWYTJIVDVaYmlLTXlWWjVCSlYyUmhpbS1YaU40YTRHTlE3SkwtTnJOX29wWGdoMG1odVpaYklpbWtwYk5DREV3VjdqWml1Q2JJNE9tTlQwSHNabEZScUo1NFBVZ3V3VmFWcXJtVzBjS01xTUJxdVFLakNFamhPdFk2X0hmeFoxZw?oc=5",
-          "source": "Universidad de C\u00f3rdoba (UCO)",
-          "published": "2026-10-15T17:06:17+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "HERE\u2019S!* WAY TO WATCHGetafe vs CSU Craiova LIVE STREAMS NBA ON TV CHANNEL",
-          "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPSndFRUF5NnNRYXFseWdUdlBNOENQR0tWQURrclYwaXNhQWpaMGVHYUdHM1o1Rlg4WHNtMm9WNDdlMWdPdXphZjA5eTRMYUhCa2NTczhWWnduSEs4b1M2clhrZlhVTUFrSG1aMEhVbUdwOVdmamFacUxHek55RDh0d3R6NHRWQWNMREJkT3Jqb2o5elNMU1NnNVYwYVVVOWZOUVJBQWhKRW9SVUhlbkk4VHZiTlZVRFV4dlV1V3NJX2dDVlBZNm9OTTYzeWxpcVcwRnlJUmdSeVFIWUNXalpHZy1CZW5VZW5SazVHS1hYTGo3T2F3VlpmYzVnZ3Q2TzE3RlRuUHFvLXl6azhyYWtGbnhiTjhnaDMtM3BHX0djUl9fbGRELThqb0xraVlEalpvRnB3RFhfSWhnN2pJSU0yWjhLYWhnWHJZU2pxSlRkOHUwMTdaLU9J?oc=5",
-          "source": "Universidad de C\u00f3rdoba (UCO)",
-          "published": "2026-10-15T17:03:22+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "!$>[LIVE!#KAMP]* CSU Craiova mod Getafe \u2013 LIVE-d\u00e6kning 7935169",
-          "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQaFJCTk52aHFKdEZaYk5DMkIwZG5vRVZmT296cGZTVVg2SmI5XzZiYXpiMmFyMGtQMlB3SHZNYTNGODVfSmRHRExkNFpWaXBKd0xTMW1OSFNBUGVUeU56Uk1xdFFKV0FyOGh2dmxLNHlWTWVHdW45ME02RzhMRVJpNk1NVWo2SEVNdXhUYVhSQk16NE54RWdkakZFbVBwa3lYMmFyMFFWRzQ0THRRd292SWhVRWFuWVlUd1dxbGhfZ1d1S0J0eUJzVDZrVlRVTllCcF90cHdra2ppeVQtcmVkS21tRjRQY3k3Vk5uT2YxM0o1QXZfYUpIZWI2UFZ3OVFYZ2Y1YlliNFVuNTNYY3B0c3lpVzFvc1FfVmNlNlFMVmY3Y3o2Tk5GdTdxWXhCWHN1bGxORzNRdTdmZlk3eGI0VEZIaW12N2ZtNVpzbUxlWGJOM0JraFQ4ZEkzMUN0c3ZWaTMyLWd3?oc=5",
-          "source": "Universidad de C\u00f3rdoba (UCO)",
-          "published": "2026-10-15T16:54:48+00:00",
-          "via": "Google News"
-        }
-      ]
-    },
     "CSU.TO": {
       "price": 3290.9399,
       "prev_close": 3139.3,
@@ -1238,6 +1148,99 @@
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUjBGUWw3MkxhUi1vY1dGX0trWjlIUlRYamk1RVFFUHc2V25vS0Rmc29uOFJtM0YyemtCVGlfbFFnX0VUVlNRTzhRdnlucXhjMVdZQzdKcHJLVHFmQlpGQWQ4Yk5xS01GY19RakdBakIwTThOTVowVjNMdjRZTHhyRVZ4aHV1ekl3ZF9ybWhIMkI1X0RTRDN6eFNkQTNzcEFuUkxReXVSMmh0QnpFNWtueUNRUjY2dw?oc=5",
           "source": "kalkine.ca",
           "published": "2026-10-15T17:33:00+00:00",
+          "via": "Google News"
+        }
+      ]
+    },
+    "NVDA": {
+      "price": 217.4802,
+      "prev_close": 221.3,
+      "change_pct": -1.726,
+      "quote_time": "2026-10-15T14:55:00-04:00",
+      "name": "NVIDIA Corporation",
+      "news": [
+        {
+          "title": "Secret documents reveal donors behind $330 million for Trump\u2019s ballroom",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbF81QjJldmktUTltNm5EcHFORGM2cXJXQmUwRWJxZnQ1SWRTZ0FzV0NpMERoa05LbElyWXNWNHVHay1raVR2SmJTVy1BanBzRDQzdFhmWU1pd0Z1ZGpDTWtKdWh0ZmxvUDBySENKNHJSZ2Z4TGF2LWNqSm5EQk96Y1lvM2hvU1JRZU8wX2pmSnNrZWdGMkU2cVRNN1FYOGh0el9MTU85LUdEUVdvQ1M2Y3QxYVNxMEtqeTBCZHR2Y0w?oc=5",
+          "source": "The Washington Post",
+          "published": "2026-10-15T18:54:57+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Nvidia NVDA Stock Extends Toward $200 as ASML Warns of Chipmaking Capacity",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU1N4Q3NoWWY1VEJ1dTRsLVNwR3JXa2JFR2pQTDVjQkVFaHhERjBYOFJOOVUwSXdJN2V5TXlzdFBuQlVjeldQNzVMbk56SjhyLWlFenI2Tm50ZlcwOGZROHdneWVxekhJT1B3Y25nb1AyVVdMRVF1RjhqTEtDbTlVQ25RdnVEbXJFYXFsY3NVam9mVmMySkdDcXN2Vzg5S0dOaWEwNUtETURtMlZQa2tmeUNDSV85M2M?oc=5",
+          "source": "FXLeaders",
+          "published": "2026-10-15T18:45:56+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "AI Stocks Plunge, but Jensen Huang Says Nvidia Gets New Chip Orders Almost Daily",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb0ZiMVIxeDBtWVM4ZDRoc1RWbGNMMk9Vb21GTW1BYjMzekRWcDFmM0EtZlEtcVVhejAyTERyenU1LWVMV1pDRU9rbVJURVBzTEYtSGZIVVRIUEE2Ymw2TWVraTdtV2M4azlpTVBzYy1IdWhEczJiUURrZmIxYUs5VEdqN3ZyOHoxbGs2SXBGek0ycGZzV200X255OGo1VmZKNFJ6Q19B?oc=5",
+          "source": "Benzinga",
+          "published": "2026-10-15T18:37:17+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Jensen Huang Says Nvidia Must Work With Chinese AI Firms",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMGVZSDVkQ0Y5RWU0WnRSaG1VdTZFNGNLSEVnN0xGY1oxNkpIV0t6WGlfWUI4dVhVbHFsNU5yaWtnUmN5S3JHbXVIOGVXRk0yUThjWkk4SkphMGRJUnFQMXRWRXg0bFQzWDg5WlUyXzZhOTJfTlZvenZNMFVudzA0TFpBTFRBQWJIOS1nZ0FUV1NZWWR0cjdlRQ?oc=5",
+          "source": "Yahoo Finance",
+          "published": "2026-10-15T18:30:19+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "NVIDIA CEO Optimistic About CoreWeave's Financial Health (NVDA)",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbE1iQTBPc1AyRlVfTHdEY3EwdXdYclRINnZPT0tjZlplLUtUWUdLUzhmeGJHSGh3Y1hJQS12emF1THkxUnBEdTlMX3hGRmNPaDZxSW13ZUhOYl9xck1JY0NSakF0NFNoNml5MENuaFF6YVNFc2lrclJYSkt6WWVWa004YkE1MXlXT2w0aUpNeDNtUjRQWW1FdHJJeWd3REZx?oc=5",
+          "source": "GuruFocus",
+          "published": "2026-10-15T18:27:02+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Volvo Deepens Nvidia Ties to Roll Out Hands-Free Driving Before 2030",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SSG5CT21qazluMDJ3eW9PUWRSLVpiYzdTTzN4a2hSVmVldmRBbzdKMFJfbzcySlppVkRZZWlsQ19jSWFNeGVVQVh6WGNjOUhlUmx3cGFiU0h5bk54bmw5M1pmYklpTV9QSHRiZkFBcDVVdjNQZXc?oc=5",
+          "source": "BigGo Finance",
+          "published": "2026-10-15T18:19:00+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Volvo expands partnerships with NVIDIA on automated driving (VOLAF:OTCMKTS)",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYUotRjZnUVZXRlh2TVN0dFYzNUFmT3BYZzg4OWF6cUNWZzlrcWNwY05lWjBBTUpydVB0TUxzd3RPLS1MUXFZazRaLVhBXzRnT21Lb0RWUGF2ME11aG5NS3FEdEVOTGhqb0tUWWlGbmJFMlBhY1lHNHplOTQxZlVLbU9pTkQ2Mks2SzRpV0VjOW9iZnRCbWFnUG94MXpGQQ?oc=5",
+          "source": "Seeking Alpha",
+          "published": "2026-10-15T18:16:30+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Micron vs. NVIDIA: Which AI Stock Is the Better Buy After Earnings?",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMkxWOTRHVHFibmRDalJwZEY0RDBNT2FCT1ZEa3h0YjRFaG1RVXJyeHN1cEdGRlVMdHJFQlZRYmRrODR2WWZ2Snd1NXgxY3dRQnJETWdzXy1ORndQR0JUS3V5UUJCTnJBT3VmTExqM0x4X0J2RlZMdkRYV09BTS1KeDdENENIbVNfZGsxMHpPR3FhOEFMSHZVUGRDZ3kzVHUwOEVIM1RiMUs?oc=5",
+          "source": "Zacks Investment Research",
+          "published": "2026-10-15T18:05:09+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Volvo Cars Expands Automated Driving Partnership With Nvidia",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb2c2ejRTWlUtYko0U0VsUTRPcVFwWG5pdjU0Y3ZOM3cybDZqZW4yRkZPM2pqdjZuLU9ncHcybkpZbmM3ZFppazR6N2JNdW9QWnBIYzJOQTE2bmxHekkzcnA5UkMyNGZYOEcwRm15WkFsUGplVVlKeWI1Tmg3ejdsbXhnb3Q4TUxiTWMwcHVSU1pFU3B2UEp4LVV1TGY?oc=5",
+          "source": "Global Banking & Finance Review",
+          "published": "2026-10-15T17:42:22+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "NVIDIA : Volvo Cars and NVIDIA Expand Partnership to Advance Safe Automated Driving",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeWFFYzI3VHFhWDE2aHhvb2JDOHJ0bGlhNzRZQldkdTBaMVBoWWVDd2dNQUlXeDdqWG14SnZSV1BBcnlRYWhmWllNOVZwdTBHTU5tWEI3VjFkUEplUm9CZHRWb2pwMXRUdndyUDdtNU4zeGlTOXRmbEdOR0JIU3VqanRJSWNHTkxVLVhNSTcyYjU1VjZGNGZnOHNMbDBDRWlfMU9BdTlkV2ZQWHQxUXBlUG9ncVRzVjZBNUxYOU9LNlVQNlRKS1hCTTZ5ekRSYmc?oc=5",
+          "source": "marketscreener.com",
+          "published": "2026-10-15T17:39:07+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Volvo Cars and NVIDIA Expand Partnership to Advance Safe Automated Driving",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYURrcF9BTUJoeTZhQ2NQLTFnUEs0M2o5TnQyN0FmdjJHYm5iOUFtUVYxalZCVWMwbkpQSi11djI0SUs0UVR0ODNEcWlyQ09zSUxYbmloZURidVB2clU5VVI4OTg4QVZkYjN6SGM2U0tNNk8yS21TbkFkQ3AzY0lKbTI2OUJLSDJQSUREdmw1ZDdHLWJ2SXpKeVgzT2plcjZfS25VUTNqcFRJSW1pMXc?oc=5",
+          "source": "NVIDIA Newsroom",
+          "published": "2026-10-15T17:38:50+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Adobe, Nvidia Expand Collaboration to Improve AI Processing Speeds",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUjBmNHlKTDlUOWxQS2ZSZ3d0WlhYYmdTQTNRc0Y5dFBCUWliVW5qRjVQdkdLbEdyVWFNQi1wSkw1SFhnNlZHM1oyYnZRN01qNTdyOEtJOTRqVk50RWltVDRYc2lIY1BUV3BIOXhLb2pPdTJYcDZoSjBYM0RPal9lZzlzTWY1MmlLNUdRZElSRVUxVkRvaXZzNVI1Q25veHlCUG5fWGwzT3psdE9IVmNVaktJd2V1OVl1MWc?oc=5",
+          "source": "marketscreener.com",
+          "published": "2026-10-15T17:35:24+00:00",
           "via": "Google News"
         }
       ]
