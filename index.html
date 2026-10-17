@@ -375,7 +375,11 @@ function repoInfo() {
   if (host.endsWith(".github.io")) return {owner: host.split(".")[0], repo: location.pathname.split("/")[1] || host};
   return null;
 }
-const ghHeaders = () => ({"Authorization": "Bearer " + LS.get("gh_token", ""), "Accept": "application/vnd.github+json", "X-GitHub-Api-Version": "2022-11-28"});
+// A GitHub token only ever contains letters, numbers and underscores. Anything else (a stray space,
+// an invisible character picked up when copying between devices) would make the browser refuse to
+// send the request at all, which looks like "no internet", so it is stripped out here.
+const cleanToken = t => String(t || "").replace(/[^\w-]/g, "");
+const ghHeaders = () => ({"Authorization": "Bearer " + cleanToken(LS.get("gh_token", "")), "Accept": "application/vnd.github+json", "X-GitHub-Api-Version": "2022-11-28"});
 function b64decode(s) { const bin = atob(s.replace(/\n/g, "")); return new TextDecoder().decode(Uint8Array.from(bin, c => c.charCodeAt(0))); }
 function b64encode(str) { let bin = ""; new TextEncoder().encode(str).forEach(b => bin += String.fromCharCode(b)); return btoa(bin); }
 function ghError(status, what) {
@@ -437,6 +441,7 @@ async function refreshNow() {
   setMsg(msg, "Starting the update…");
   const res = await ghDispatch();
   if (!res.ok) {
+    if (res.status === 0) return done("Couldn't reach GitHub. Check your connection (or try mobile data instead of Wi-Fi) and try again.", "err");
     if (res.status === 401) return done(ghError(401, "starting the update"), "err");
     if (res.status === 403 || res.status === 404) return done("GitHub wouldn't start the update. Check the token has Actions set to Read and write, and that update.yml is in .github/workflows.", "err");
     return done("Couldn't start the update (GitHub error " + res.status + "). Try again in a minute.", "err");
@@ -569,7 +574,11 @@ $("addForm").addEventListener("submit", async e => {
 });
 
 $("saveTok").addEventListener("click", async () => {
-  const msg = $("tokMsg"), t = $("tok").value.trim(), rp = $("repoIn").value.trim();
+  const msg = $("tokMsg"), t = $("tok").value.replace(/\s+/g, ""), rp = $("repoIn").value.trim();
+  if (t && /[^\w-]/.test(t)) {
+    setMsg(msg, "That doesn't look like a GitHub token. A token only contains letters, numbers and underscores, and starts with github_pat_. Copy it again from GitHub (tap the copy icon next to it) and paste it here.", "err");
+    return;
+  }
   if (rp) {
     if (!/^[\w.-]+\/[\w.-]+$/.test(rp)) { setMsg(msg, "Type the repository as yourname/market-watch.", "err"); return; }
     LS.set("gh_repo", rp);
@@ -585,7 +594,9 @@ $("saveTok").addEventListener("click", async () => {
       setMsg(msg, `Connected to ${info.owner}/${info.repo}. You can now add and remove tickers and use Refresh now.`, "ok");
       try { await loadWatchlist(); await loadQuotes(); refreshGroupOptions(); render(); } catch (e) {}
     } else setMsg(msg, ghError(r.status, "opening the repository"), "err");
-  } catch (e) { setMsg(msg, "Couldn't reach GitHub. Check your internet connection.", "err"); }
+  } catch (e) {
+    setMsg(msg, "Couldn't reach GitHub (" + ((e && e.message) || "network error") + "). Check your connection. If you use a VPN, a content blocker or iCloud Private Relay, try turning it off for this page, or try mobile data instead of Wi-Fi.", "err");
+  }
 });
 $("clearTok").addEventListener("click", () => {
   LS.del("gh_token"); setMsg($("tokMsg"), "Token removed from this browser.", "ok"); updateSavebar();
