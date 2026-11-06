@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-06T13:44:01.073202+00:00",
+  "updated": "2026-11-06T13:44:52.813283+00:00",
   "quotes": {
     "CL=F": {
-      "price": 91.15,
+      "price": 91.13,
       "prev_close": 90.52,
-      "change_pct": 0.696,
+      "change_pct": 0.674,
       "quote_time": "2026-11-06T08:30:00-05:00",
       "name": "Crude Oil (WTI)",
       "news": [
@@ -95,9 +95,9 @@
       ]
     },
     "NG=F": {
-      "price": 2.996,
+      "price": 3.002,
       "prev_close": 2.947,
-      "change_pct": 1.663,
+      "change_pct": 1.866,
       "quote_time": "2026-11-06T08:30:00-05:00",
       "name": "Natural Gas",
       "news": [
@@ -109,10 +109,17 @@
           "via": "Google News"
         },
         {
-          "title": "Big Oil\u2019s Spending Caution Speaks Louder than its Profits: Bousso",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaTNSWkdzU19nSDRETDJNOGNybHd4ejFyNjdoVG52bm95Vks2anctVF9pTi14WXNfYkswTmpxNVhJbUZHM1hWMHpSY0lMeWZKbFhWTVdza0IwbklDemVUUENhRkV2Yk9HYlY4OU9yZWhCNU15V1pLa3FLNXJuZUhMM2NJaDMtZElrbUhOR1FKVllsdm9lUFNoTQ?oc=5",
+          "title": "COMMENTARY: Nova Scotians Don\u2019t Need to Fear Fracking of Oil and Natural Gas Wells - Yogi Schulz",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUUpFSERwbkI3eVZ3RVYtLXNFQkFWLVJhTUpYMlBTZGlLTmI3elF0a0FDdnUtMnpraUZNS3VhWC1jYnp5aFNFM2VmdnJzc2JISXRVVzliOTVLYUlleEZXMFZPNzFfRDFSQlllMDNKck93cHZXR3VrUjJqa3ROdUlqZXhuRkFWRjY1Rl90eVd0QXlKTzlEOVVLZDB2TWdzRVpVQlR2YkZzLWdJb1NsZlJBRg?oc=5",
           "source": "EnergyNow",
-          "published": "2026-11-06T11:31:31+00:00",
+          "published": "2026-11-06T11:53:54+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "United States Natural Gas Fund, LP (UNG) Stock Price, News, Quote & History",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ld1BSdTVVVUJKLXBJQXRLNVRaQTZwSnhLSTdQMEl3c3liVnM4TzBpMkNUbzY4bU9MZDA4Q01Hb1k2Ry05MVJMTDJSeE9ldGpX?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "published": "2026-11-06T11:48:53+00:00",
           "via": "Google News"
         },
         {
@@ -151,20 +158,6 @@
           "via": "Yahoo Finance"
         },
         {
-          "title": "Why the U.S. midterm election is affecting GTA gas prices",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1N3NDamNyRGxJc19VRkxuM2pYLXE1NEd3eHlsM2xxcWFvQ3N6dzJnZllPWUtMaG5ENVhKMldoc0VjMG8yU1lRdThmZURudFFab0xnU0ZFQzZrdw?oc=5",
-          "source": "CBC",
-          "published": "2026-11-06T10:11:56+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "IEA: Europe\u2019s gas reserves at lowest level since 2013",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd3NFREdwNnBqcDBocHNPeE9CNmdnNWFDdldTaVlPUFlEbDJUMWNaYzh1Sk1La2NLV0dRbmJ0S1N2TVl4eHFQbEtYYklWWVJDOVpEN0kxbTFpMmh5UklyXzA5d3N1TnV6Y0FKaHROc1cyWHA0U1E0REJFU1M2UTJPY0lVOFl2WEJTNmJMNmp0Q25SWFBYWkRSNmp0NS1ndTh3aDM1SjBn?oc=5",
-          "source": "Pars Today",
-          "published": "2026-11-06T10:06:00+00:00",
-          "via": "Google News"
-        },
-        {
           "title": "European Buyers Hold Talks to Ship Canadian LNG via Panama Canal to Diversify Supply",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMkZGaVNycjBQQ2F5T0ZhaWJIbDZaOUJiTTdubV8zSWpUbTBRdG54dkxSXzR4S2ttVWtnRzRYcUdxMTFqbThwazhpZGdaVHBGNUpocnlBNE1BQmFFUXlITUJ3dXljbkdHc3pDcHBrMUlFMjZIbGplUl81WnROT1l5eGVjT2YyZS1FQUdraFhGQVEwOFpyVVlBZ0JXTGFoRVYtLXlPYmF6azdmOGoxWGI3VE5ZWDM?oc=5",
           "source": "EnergyNow",
@@ -184,11 +177,21 @@
           "source": "Reuters",
           "published": "2026-11-06T09:13:45+00:00",
           "via": "Yahoo Finance"
+        },
+        {
+          "title": "Gas (GAS) Price Prediction 2026 2027 2028 - 2040",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hVlRBdXYyb0RfSXZkOUplZktfamxjekZFNERTT09HNUJBNHlDNF9JMUxMb09MQ2JpeFZOdXVDNE1uQW9od0YwUjNjUXRoMzZjMVZxblFha2pVV2hnMTc0Nmt3?oc=5",
+          "source": "Changelly",
+          "published": "2026-11-06T09:12:35+00:00",
+          "via": "Google News"
         }
       ]
     },
     "TTF=F": {
-      "error": "no previous close",
+      "price": 87.41,
+      "prev_close": 90.679,
+      "change_pct": -3.605,
+      "quote_time": "2026-11-06T08:30:00-05:00",
       "name": "Dutch TTF Natural Gas Calendar ",
       "news": []
     },
@@ -251,9 +254,9 @@
       ]
     },
     "^TNX": {
-      "price": 4.868,
+      "price": 4.872,
       "prev_close": 4.837,
-      "change_pct": 0.641,
+      "change_pct": 0.724,
       "quote_time": "2026-11-06T07:25:00-06:00",
       "name": "US 10-Year Treasury Yield (%)",
       "news": [
@@ -283,6 +286,13 @@
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5saWVfU1VzVHBQclktczBZT0FQRkhqY0ozZVdrenV6MkxkcXQ2LVZGNEFjczJjNXg3V3V1UXVGdWVLcEhkRkV3b1Z0V1RkcEowUGFNOXJsZFhWQQ?oc=5",
           "source": "www.tokenpost.com",
           "published": "2026-11-06T11:49:00+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Market Movers blog: Oil prices rise again as US indices drop at the open",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZHNUUnlOeExDV2hSRjhxWEs0blpwaGhqUzIzQ054d1JaTnNIcGZWbkhtTDVwZFdwUXM5ekRkX2Z5UFJEWW5uMGtRSzVnd2NwZDFRUWZnYm9JWHFlTUptZzJGSHdKOS1oTEJxOUk0bFRWdw?oc=5",
+          "source": "Investment Week",
+          "published": "2026-11-06T11:14:22+00:00",
           "via": "Google News"
         },
         {
@@ -333,20 +343,13 @@
           "source": "Crypto Briefing",
           "published": "2026-11-06T09:04:02+00:00",
           "via": "Google News"
-        },
-        {
-          "title": "Shafaq News..Dollar firms amid AI selloff, falling Treasury yields",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMk9mbzVGd052SWpvUnlMaEFYQVFqeDFrSDlTc1JHeGdjeUxtWm1sZFBUUFpwYXF0WGNpd1g0VVJTUkl5X1NScS1UdGx0UmJ4VFdBSV9XTnkxYXdFZzM2aGM5MjRYYUFGeHpVMG92bXNfMjQ3SEx1QVhsRVlUTThJaWNkU3Q5eXlVNVE?oc=5",
-          "source": "\u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
-          "published": "2026-11-06T08:47:39+00:00",
-          "via": "Google News"
         }
       ]
     },
     "CADUSD=X": {
-      "price": 0.7096,
+      "price": 0.7094,
       "prev_close": 0.7157,
-      "change_pct": -0.851,
+      "change_pct": -0.883,
       "quote_time": "2026-11-06T13:40:00+00:00",
       "name": "CAD/USD",
       "news": [
@@ -437,6 +440,13 @@
           "via": "Google News"
         },
         {
+          "title": "Vermilion Energy Inc. (VET) Stock forecasts",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcDBZTktzYUNGcmlrVWZnR1k1eWhTMGVFekhpakdqVnNVaG9DUklPbUhXU1lSeDdGNDVlWmx5Z1dTZEFjZ1IyRHUxMzlNY3pVX3JlZXBsQ08xRjRDNzdWUTJTOHExdEVmd0pjOU40Rk9ENXVzclVvUmxJLWFoa1JEY05ET3VvZm5YRFhlcmJsT3A5MVNr?oc=5",
+          "source": "Yahoo Finance Singapore",
+          "published": "2026-11-06T06:11:15+00:00",
+          "via": "Google News"
+        },
+        {
           "title": "(VET) Stock Evaluation Report (VET:CA)",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYWIyZDh3T1RMTUo4d0RGZGcxcE9YTEprQXJ1RDZPQmlLelF6YmdqeVBZclVtNjRmeW9iNV9PMF8xbHRjZklMVzBDTkdxYzNBYXhpSV8wOXo0ZURIVURZR29vcFZJWXhnbWFWZVFJTzZxNlRmNGxmQkl1amFncWZTbjRxOUp2eEpCdE1CcFRR?oc=5",
           "source": "Stock Traders Daily",
@@ -460,9 +470,9 @@
       ]
     },
     "VG": {
-      "price": 11.6,
+      "price": 11.69,
       "prev_close": 11.52,
-      "change_pct": 0.694,
+      "change_pct": 1.476,
       "quote_time": "2026-11-06T08:40:00-05:00",
       "name": "Venture Global (VG)",
       "news": [
@@ -553,14 +563,14 @@
       ]
     },
     "AMD": {
-      "price": 436.31,
+      "price": 436.9,
       "prev_close": 404.4,
-      "change_pct": 7.891,
+      "change_pct": 8.037,
       "quote_time": "2026-11-06T08:40:00-05:00",
       "name": "AMD",
       "news": [
         {
-          "title": "Nvidia, AMD, Micron, and Sandsik lead chip sector higher following worst sell-off since 2020",
+          "title": "Nvidia, AMD, and Micron stocks lead chip sector higher following worst sell-off since 2020",
           "url": "https://finance.yahoo.com/markets/article/nvidia-amd-micron-sandsik-lead-chip-sector-higher-134336542.html",
           "source": "Yahoo Finance",
           "published": "2026-11-06T13:43:36+00:00",
@@ -585,13 +595,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/microns-17-stock-plunge-reveals-131843845.html",
           "source": "GuruFocus.com",
           "published": "2026-11-06T13:18:43+00:00",
-          "via": "Yahoo Finance"
-        },
-        {
-          "title": "Michael Burry Dumps 25% of His Semiconductor Bet Amid Brutal Tech Selloff",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-dumps-25-semiconductor-131244639.html",
-          "source": "GuruFocus.com",
-          "published": "2026-11-06T13:12:44+00:00",
           "via": "Yahoo Finance"
         },
         {
@@ -642,14 +645,21 @@
           "source": "ad-hoc-news.de",
           "published": "2026-11-06T12:01:54+00:00",
           "via": "Google News"
+        },
+        {
+          "title": "Stocks lost $2 trillion. The market is wrong about AI",
+          "url": "https://finance.yahoo.com/video/stocks-lost-2-trillion-market-120000040.html",
+          "source": "Yahoo Finance Video",
+          "published": "2026-11-06T12:00:00+00:00",
+          "via": "Yahoo Finance"
         }
       ]
     },
     "CLS": {
-      "price": 220.8,
+      "price": 220.75,
       "prev_close": 205.64,
-      "change_pct": 7.372,
-      "quote_time": "2026-11-06T08:40:00-05:00",
+      "change_pct": 7.348,
+      "quote_time": "2026-11-06T08:45:02-05:00",
       "name": "Celestica, Inc.",
       "news": [
         {
@@ -702,18 +712,18 @@
           "via": "Google News"
         },
         {
-          "title": "Celestica Inc. (CLS) stock price, news, quote and history",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wempYOFMtaFhFX1pUX1B3MXkxbW5GTHpkMF9Fc3RuT1lxbEFnaFpkeWZ4dnJlS1Jhemp4dUI5cjRxcWRsazc1UkhBX2ZQcTRlOUcwcklURVNaWnpjeE4xRA?oc=5",
-          "source": "Yahoo Finance Australia",
-          "published": "2026-11-06T11:41:49+00:00",
-          "via": "Google News"
-        },
-        {
           "title": "What Makes Jabil a Buy Despite the Recent Stock Price Slump?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/makes-jabil-buy-despite-recent-112400975.html",
           "source": "Zacks",
           "published": "2026-11-06T11:24:00+00:00",
           "via": "Yahoo Finance"
+        },
+        {
+          "title": "NINEPOINT CELESTICA HIGHSHARES (CLHI.NE) Seasonal returns chart - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05bF8wNERya2hrNTNNQ1MxektuNkVzWGN4Y18xby1salFyNEF6bGg2X2NLVTFBMEM1eW1ZbzV4cXJpa2NoZHBMQW9CN2FGMTI2aktWektPNng5V01yVFJIcWYxazdFZw?oc=5",
+          "source": "Yahoo Finance Singapore",
+          "published": "2026-11-06T08:42:18+00:00",
+          "via": "Google News"
         },
         {
           "title": "Canada stocks lower at close of trade; S&P/TSX Composite down 2.13%",
@@ -762,10 +772,10 @@
       ]
     },
     "CVE": {
-      "price": 27.67,
+      "price": 27.65,
       "prev_close": 27.61,
-      "change_pct": 0.217,
-      "quote_time": "2026-11-06T08:10:00-05:00",
+      "change_pct": 0.145,
+      "quote_time": "2026-11-06T07:00:00-05:00",
       "name": "Cenovus Energy Inc",
       "news": [
         {
@@ -776,10 +786,10 @@
           "via": "Google News"
         },
         {
-          "title": "Devon Energy Corporation (DVN) stock price, news, quote and history - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mdVlfcmtYLUpkWWZmVE52a1BxdVJaNjVsbzE3MG1DZjEzdjJURVBhcDVVQlBUSjhCbmFCazN4by1pZDdYOTJyQnpnRnBHbzU4RDBBZ3Z6TXpVS0lUZFF6OA?oc=5",
-          "source": "Yahoo Finance Singapore",
-          "published": "2026-11-06T11:55:24+00:00",
+          "title": "Canadian Analyst Updates: Nov 5th, 2026",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX2pqYkxzXzBLaHdxd25uWE4zc19tajJGR05IeThIM3ZVbU1GZ203dGNrRWl5bmV5Qk9Hc044V1VxNE1FTTJCczhsSmhXUkFKNGRIVFAwdWNESzFDRzhCTkVTY0pTSmVBOUthQjhYT0x1QzAwcVdVb0FKblRvbm1obTlfRVB1TDlJX1kxd0JLYTZtMUtBdHBoRnB1Y3g2Tnl4a2FDMkZHRmtmRFlJaFdjUDBXY2FQcUNKUmc0N0ZsYVk?oc=5",
+          "source": "The Globe and Mail",
+          "published": "2026-11-06T11:53:31+00:00",
           "via": "Google News"
         },
         {
@@ -811,13 +821,6 @@
           "via": "Google News"
         },
         {
-          "title": "Canadian Analyst Updates: Nov 5th, 2026",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeXdTaEJLUm9BcVF4Sk5MakVUeWxqVW5tdVRiY2pzTGtkMnhyVmdqa0FhOGxRMERveENMMXZaS2VQQlVYbk1HZUVfbUlPQ2laNTY4SE9QTXpZV2xSV05DS1N2cGJ5elMta0FLNVd4a29faHpUTGt1X3JQYlppNDc2dklQNXF0Z0dVVFpnNVlERXk1cVpVOXFnWnZDWEVCX1drR2tBY1ZsWndWM2tVdjdyc1RMMmlldjJhQ3ROekJkOUE?oc=5",
-          "source": "The Globe and Mail",
-          "published": "2026-11-06T04:14:04+00:00",
-          "via": "Google News"
-        },
-        {
           "title": "Whitecap Resources Inc. (WCP.TO) Stock Price, News, Quote & History",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmN0tWWXpfZ0kybmVsTUNDOEdkdnYxQUZxSUxkOUVPMTdqZjc4N01IZFNyRnFoM1ZfNEl0T0ExUUpvQlVRQ2loZlJIcnNJY3FzS1AyMA?oc=5",
           "source": "Yahoo! Finance Canada",
@@ -834,13 +837,6 @@
       "name": "MDA Space Ltd.",
       "news": [
         {
-          "title": "Calian Group Ltd. (CGY.TO) stock price, news, quote and history",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9EWkY3eVRGMzJGUjVoSTZnZEZERF9XRU1LUjZiRXk1bk9vMnVqUld2Y19Qa2FUS0NvRWxtMmRJOC1ILVl4MmZlLUxQZUwwVS16S1IweA?oc=5",
-          "source": "Yahoo Finance UK",
-          "published": "2026-11-06T11:36:40+00:00",
-          "via": "Google News"
-        },
-        {
           "title": "MDA Space Ltd (MDA) Q3 2026 Earnings Call Highlights: Revenue Jumps 22% as Guidance Rises and ...",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUzJTMkNGOGdmQ0w3Q0xCbkNDQ1pNQnhaTjFDM3dlQ0xFbHRFT0NjbkZlbWR6UnBWdlI0b2kwbFBiOFJZMHVpMWxGSDRScU8waWUweXpwVXFBbG81dWFqWGpkbTJMN3ozMnR4ZVM3WHhLYzFpemJJVDJicmpPMFBxQkYweUNtVFV2OVRVOGhvWnkyTUlUaUlqNlNXMVFjQzRsaVR4MW9CNW1XTkx4YWJYUk1OQmpmTDNOckpWRFVkdWItVXZucllLLU8wQmhaeHFxMndVVDZTbE0?oc=5",
           "source": "Investing.com Canada",
@@ -855,6 +851,34 @@
           "via": "Google News"
         },
         {
+          "title": "MDA Space Ltd. R (U0O.MU) Q4 FY2025 earnings call transcript",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQVlrRlJUZnhndFRVVV9VV2VVcm0xVGx6MVRfcjVLRl9DRWNEeEQxVjRpZ3JOWVJkZXA3WW5GaGQ4OUpSVDJUMjFpSmt4X0lhT21TMGlMLVVlVzdfZU1vb3NHWDVLY3c3aHBIaEJfdXB3Nnp3QWxPbTBHaEhQSHlBRzY0Q1ZRUTJlQ0QwdGtvNk5WQQ?oc=5",
+          "source": "Yahoo Finance",
+          "published": "2026-11-06T04:34:43+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "MDA Space Ltd. R (U0O.MU) Q1 FY2026 earnings call transcript",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWnpIX2FHZmpvRzlwam91bmRqTVFoX2tQOUp0dUZRZXNnWGdxbDdSVGhybHpOYlgzaDA4UjZXTFQzSGFaY2VLeS03NzF4YkdXWDdrQkJRWGNwMmotWFpQTnZvUVcxRW1ad3dScWJrbVBteHZIVWhnODh1YmdSZGlHS1dIY3ZNRHZUbVhnVFBrbmh0UQ?oc=5",
+          "source": "Yahoo Finance",
+          "published": "2026-11-06T04:31:01+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "MDA Space Ltd. (U0O.MU) stock major holders",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jNGxUTUt5XzRHS3hac1FWQnNoemhQT2xjZDZNY2drMDJINlVacUNGdmxyc1NZNWQ3alU5bU9BXzgxTVhiSUdiNUJxdDJBQko1X1RxRDRGVExBT1IxOW04?oc=5",
+          "source": "Yahoo Finance UK",
+          "published": "2026-11-06T03:19:23+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "MDA Space Ltd. (U0O.MU) options chain",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qNFljVVRnNDFVb2FoNU9TNTFjdUNadXFXVUlYaDlzUmNMTmJ4LUItVk16S19MVENjdWJLV3Vkd1hMQ0tzd0Rwb2U5cFc4b1RfSVdZTTBkYmFVV0RHcnF3?oc=5",
+          "source": "Yahoo Finance UK",
+          "published": "2026-11-06T02:38:57+00:00",
+          "via": "Google News"
+        },
+        {
           "title": "MDA Space Beats Q3 Estimates, Enters EU Sovereign Constellation \u2014 and Builds a Two-Continent Military Antenna Footprint",
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONjExRjIyWmxqdndFaEltTXlZTnY3QVNpQTN4bGFaNHlkYUZpYjQzZ3gxLVcycVFKN016dHJyQlNXZ21pLUJCNXVmWEIydGRuZjkyVkZnSzR1YlFLb3dmNkdMZEMwek1MVTFyT0xzR0Y1UWZaYWhuNmdSSHlMVEE2R0h2eFU3WktvUXpQWUhDdEs5Mkh6Q2RHR2lZZ3VpN2xLeFhrSjdfcU1kX1VHY2JmVkxDVm9vXzhPbVU0ZFBsZVUycTgwQ0R4dTFOZGFybHlMTmI4UEN1YTc0dkk5cEdnLQ?oc=5",
           "source": "Tech Times",
@@ -864,9 +888,9 @@
       ]
     },
     "GOOG": {
-      "price": 281.36,
+      "price": 281.4,
       "prev_close": 281.74,
-      "change_pct": -0.135,
+      "change_pct": -0.121,
       "quote_time": "2026-11-06T08:40:00-05:00",
       "name": "Alphabet Inc.",
       "news": [
@@ -1041,11 +1065,11 @@
           "via": "Google News"
         },
         {
-          "title": "Wall Street\u2019s Top 10 Analyst Updates for Nov 5th",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaVNHZkJFMkFaMFFFUjV0WWdQQWw2YVZteWRSd2RNdE5GTy10MGl4cjZiV2U4dE9ZblNheV9senZpb1VtY1pFZ3d4SHpHYzl1eEJmVi1ScVhyT3Fqam1CVDRVSGdvWWdHc0xCbF9FQlVCWUVUMjF3NE9JSzA2YndFSHlScTFSWjdkb0psVVFpeUlOQXk3WjRwR0JvQjZ6eHNGMEFPMFJRVE5CUUJmaWZUM09QRjRVNkZVNFlDUmlfMGs1RV9fMV9XT3RKSQ?oc=5",
-          "source": "The Globe and Mail",
-          "published": "2026-11-06T10:07:14+00:00",
-          "via": "Google News"
+          "title": "Democratic Sweep Could Be A Big Deal For First Solar Stock (FSLR)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/democratic-sweep-could-big-deal-091559405.html",
+          "source": "Simply Wall St.",
+          "published": "2026-11-06T09:15:59+00:00",
+          "via": "Yahoo Finance"
         }
       ]
     },
@@ -1102,14 +1126,14 @@
       ]
     },
     "NVDA": {
-      "price": 189.0644,
+      "price": 189.151,
       "prev_close": 181.6,
-      "change_pct": 4.11,
-      "quote_time": "2026-11-06T08:40:00-05:00",
+      "change_pct": 4.158,
+      "quote_time": "2026-11-06T08:45:16-05:00",
       "name": "NVIDIA Corporation",
       "news": [
         {
-          "title": "Nvidia, AMD, Micron, and Sandsik lead chip sector higher following worst sell-off since 2020",
+          "title": "Nvidia, AMD, and Micron stocks lead chip sector higher following worst sell-off since 2020",
           "url": "https://finance.yahoo.com/markets/article/nvidia-amd-micron-sandsik-lead-chip-sector-higher-134336542.html",
           "source": "Yahoo Finance",
           "published": "2026-11-06T13:43:36+00:00",
@@ -1195,9 +1219,9 @@
       ]
     },
     "AVGO": {
-      "price": 306.35,
+      "price": 306.0,
       "prev_close": 291.53,
-      "change_pct": 5.084,
+      "change_pct": 4.963,
       "quote_time": "2026-11-06T08:40:00-05:00",
       "name": "Broadcom Inc.",
       "news": [
@@ -1213,13 +1237,6 @@
           "url": "https://finance.yahoo.com/markets/article/tech-just-had-a-crisis-sized-day--the-kind-that-came-in-2000-2008-and-2020-chart-of-the-day-132049015.html",
           "source": "Yahoo Finance",
           "published": "2026-11-06T13:20:49+00:00",
-          "via": "Yahoo Finance"
-        },
-        {
-          "title": "Michael Burry Dumps 25% of His Semiconductor Bet Amid Brutal Tech Selloff",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-dumps-25-semiconductor-131244639.html",
-          "source": "GuruFocus.com",
-          "published": "2026-11-06T13:12:44+00:00",
           "via": "Yahoo Finance"
         },
         {
@@ -1283,6 +1300,13 @@
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNW5CT2FUQkh0UG4xRlBxOHBiX1RMd2dJX1BjOVNIUXViREVibDZ4X2ZteFZLOXFJRXhLWlpjcFpNWXJPLVlBclpnLWNFNldoWVhQUHc1TUpZN01JOUhaWEYwbGluUFYzLU5tVXdVaFcwcFlSSGQ2b2JPZElpRERJWlpzMkxab25VbUVHMnZTSXhQV0xXQnZXTjMxVDJvRm1HVy1LZU1qeElBUGM0WEZMc2NLSllsNG9hSXZ6Z0hZY2ItUFVHTDhGODhRempZOVgxN2M2U3c3Z2Z0TEQtT1hEMUoxSVB2UQ?oc=5",
           "source": "ad-hoc-news.de",
           "published": "2026-11-06T12:21:18+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "US chip stocks rebound after yesterday's selloff",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbkNOWktic1VsY0UweUt1S19sM1hmZW9GNDBBX2lkc0U2c0poYUlpZnRDT2tVc2dSaFNtYXlOaHRKUDdKaGRMc2ZOMnh5OUY1N0lKM0dONmxhY0hXTk5fOHdOd0lvN3RnVmwyLWplQ0hSUmVhQm41ajYyMWR5aWRXMEFEVFl4Uno0Wkh1M2tMd0lkS19rNExBdg?oc=5",
+          "source": "Breakingthenews.net",
+          "published": "2026-11-06T12:17:00+00:00",
           "via": "Google News"
         }
       ]
