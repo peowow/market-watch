@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-09T03:08:57.482369+00:00",
+  "updated": "2026-11-09T03:09:49.341277+00:00",
   "quotes": {
     "CL=F": {
-      "price": 91.02,
+      "price": 91.03,
       "prev_close": 90.83,
-      "change_pct": 0.209,
+      "change_pct": 0.22,
       "quote_time": "2026-11-08T21:55:00-05:00",
       "name": "Crude Oil (WTI)",
       "news": [
@@ -12,6 +12,13 @@
           "title": "Gold gains more than 1% as softer oil prices ease inflation worries",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEdIVXlJc2RaUEw2RmFrR2FZcXYzYlBKUG9Cdl9WUVFfalVxT0hGcGFCdW1DS3JMT2daanhDYktBeXVGNGt5TGlsOGZJVWVSMFpnT3ZVa2RBUjZYakRlVlQ3SXd1ZkpTQVNXVkpoNUZoemdycWY0MG02dVk0cWRuWG4taG5VMm9kbEluSHctTVZVMXJwWXNWSWdVcmxQeWtRSW1EWDQ2dTJ6QVV2TzhoeQ?oc=5",
           "source": "Reuters",
+          "published": "2026-11-09T03:01:00+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Iran war and ambiguous fuel pricing squeeze Indian fishermen",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWHN1Rktoa3doMG51M0czanhfNnJWVEdTVTFMekgyV2staExTY01mU3FsSU9obGg4SWdRdVdmZEMyTklEMzJuc0Q5WG1yamRMckpPX1h4LThfclVyNWJzRVNiQ2FWWjZZVFZNWmt1OFpkcEJMLVZPQ3ktRnZwN3BUSTUzQ0gzWEhUcTN1TlFNZmYwQ1VEY0xMQmFsaXZ2TnBhQ2NHVUFB?oc=5",
+          "source": "Nikkei Asia",
           "published": "2026-11-09T03:01:00+00:00",
           "via": "Google News"
         },
@@ -83,13 +90,6 @@
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObUtPNERVSHJVVTFTLXlKb09uTGsxdy1Mb1h2WWNLb01iT0VoeXU2ZE1KTnB5bVJCUjR4UjFWQ1BiSzlkRTU4MUhITjVkblNkSGg0X0lEdTB3SGdoMk50dXE0NHQ0MXVlLWNDQUNfb1M0aHo2WXhaZE1YRUhZTThsbGdGRUJOSjRybFE4OGxHOXdYVUlqVFRXY3ZYNWd2SWpvOEtrUVg4ZjM3MWZSWTFUNUNlWVVld3BtVzBZ?oc=5",
           "source": "IndiaIPO",
           "published": "2026-11-09T02:34:42+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "Crude Oil Price Falls As Trump Says New Iran Attacks 'Unlikely'",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONi1jVzg2a2FyWG9GQ3pPYWlYOVhDcFlrNEpOVm1CMGJSNk9ZSHp6VThTNndLTW5GaXhTc01MX21oLW5aMlNLS18yT3NhZ2FkRGkyNkF3ZVItb004UzRfcV9aYkNkMjhEc19OQ0NOaUdRU0FSdVlMUXlLTXZlVkw2R2VWVnZlN0UtOU00SkI1TGVCQ21reW1jbnNsZGtVWEktUXpyaGNYTGhDSl9xQ2g3endONlVQcll4YnpEQtIBwgFBVV95cUxNVWNGRl9YQ25Ma05qUDdhTXpreGFaZ3lFZ2NpbUF0S0NHVzBJaWhvbEZuVXJWc1JsVjZKWU5lTTJaWU5OdnNRSzdwbnNpejRXWUhWdVFKU2tub2dHQXYwd0ktaVUwbVJLUmJ5S0RmdjhyYnVGdUM2UnhjTE1YWnV4TlV4T1dsMUluSzJNZFppUEJ0ZnV5X2cxb3BkUjdfcFRJNFBvdEs1VTZMbmZFWlZsMHVyWjNDZVZuYmRWYWFiSmlYZw?oc=5",
-          "source": "News18",
-          "published": "2026-11-09T02:17:58+00:00",
           "via": "Google News"
         }
       ]
@@ -165,13 +165,6 @@
           "via": "Google News"
         },
         {
-          "title": "Donald Trump Jr. Echoes President's Iran War Comments, Says \u2018Jacked Up\u2019 Gas Prices Caused Republicans to Lose Ground During Midterms",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOel9Gak1FcWxCemVMaF8wcUhqQnBRbFlGWWtkVjVQWlJuVy0weFNucGlILTR3Rm9WOW0yZjhzNWthU203djdZMzVHYlhCZFZRc1VkV3haejNkLWtQOS00SnRyaXJ2T1hxcjRsVS1ldWc0dWlGdW51Ym4waXR6X01VaWpWcWhnQ0dfcjZyM2daaUNya0JvOVV4RQ?oc=5",
-          "source": "Yahoo",
-          "published": "2026-11-09T00:30:00+00:00",
-          "via": "Google News"
-        },
-        {
           "title": "Trump thinks war, gas prices led to midterms loss",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQnNKQUdhWnpCaDd0UzBDOHJ2QTRYemhpWTdQVHRsMVFzVV9aekk5RFBsSnI2MlJUQk82NzRPSUp3VWhaSFBucVg5M0ZyNHRjLVd4aGp4aFJ4ZThsaWUzVmlULVphT1NvdERNVFZYQVozY1h5UnFCaU9FdWJzSkVzaTZnbnZreXBOVG9ZUEFDYkE1Q1pLMDFQOQ?oc=5",
           "source": "Breakingthenews.net",
@@ -184,6 +177,13 @@
           "source": "MyNewsLA.com",
           "published": "2026-11-08T21:42:31+00:00",
           "via": "Google News"
+        },
+        {
+          "title": "Pine Cliff Energy Q3 Earnings Call Highlights",
+          "url": "https://www.marketbeat.com/instant-alerts/transcript-pine-cliff-energy-q3-earnings-call-highlights-2026-11-08/?utm_source=yahoofinance&utm_medium=yahoofinance",
+          "source": "MarketBeat",
+          "published": "2026-11-08T21:14:04+00:00",
+          "via": "Yahoo Finance"
         }
       ]
     },
@@ -196,10 +196,10 @@
       "news": []
     },
     "HG=F": {
-      "price": 6.333,
+      "price": 6.3315,
       "prev_close": 6.218,
-      "change_pct": 1.849,
-      "quote_time": "2026-11-08T21:59:00-05:00",
+      "change_pct": 1.825,
+      "quote_time": "2026-11-08T21:55:00-05:00",
       "name": "Copper Dec 26",
       "news": [
         {
@@ -421,13 +421,6 @@
           "via": "Google News"
         },
         {
-          "title": "IPO Stock Of The Week: Energy Leader Venture Global Breaks Into Buy Zone As Oil Prices Surge",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EUTFmdF9fVFh6YWVmT0lSem94Ujc2dWhGUndCVXp3UnVUUTU1SzJ1eHNnYVZtS3hxY1pOeFgtX0dCNks0Z2RvNGtmSVZQd2VnZWcxb2JsSGMtUkVaVS10cENSNGNmMkwwRkx0NGgtanRTNmxPeU9wTnBuU1VYYms?oc=5",
-          "source": "Investor's Business Daily",
-          "published": "2026-11-08T23:12:51+00:00",
-          "via": "Google News"
-        },
-        {
           "title": "Navigator Global Investments Fell While Sales Rose",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMjlVY3ZKbXIzYkh1RVdkSnRPTGs0ZFpVaGhoNGVGaG1IUmFjX0JCNVhpTUtwVHNBLXBnVmg2MExHZVZCeVpNODluWl9PWGRWNDFXRzNwSFVEdlFUZjJHS1lRZWVfVmlPbzNfbnZqMkNpbUlLYk9WUmoyWkFJZWJySE0xLThSYmhoYUNIUTQ0ZGdXMTF5ZTJDRjFYSEc2NDZRTU1LWHpaUQ?oc=5",
           "source": "Yahoo Finance",
@@ -474,6 +467,13 @@
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2FVVHJzY1d5akRyY0JZcnB6Tm9ad2NwZW1KRG5xdHh2WDF6WGJPM25ReUJ4Z1RtWHVUOUZ1WUxwOUhvOXZSaDNVYS10YlV2RmlnM3Z4cGk4Ync1czg1cW1xeEF3eDE4bkxTY2xNcWlqMG5tSzl3RllsbGREMHliR0lPaVZ3R1B6T2dhQ0QyZ0VLQ1VxOGVwdTBBc3BfUm00WUhZYUhrQmhJeVJYUFFSYw?oc=5",
           "source": "Barron's",
           "published": "2026-11-08T19:00:00+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "SUNS,BNL,BCDA,FG,NTHI,ZOMDF,BATRA,ATLO,OPAL,MRP,NEOG,PEB,SAIC,INNV,NEWT,MTDR,VG,LUCK,GROV,EVH,BUSE,IRIX,RNXT,BLNE | Stock Prices | Quote Comparison - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcVNqaDI5Q1l4RGFqQ3hMMF9hLXJZMEFyX2w5VXoxa2RFWkxuYkFBdkhjcUpxNldDOGpGRjlRVnR6ak5DcncwQVQ4MFp3YWt1VkYyenBIVkUzN0J3RkVhV3didTF4aEZ5ZTZjNFcwZXVCcDhNVUU4UllwQVp2cUpJV1pMX3g2TEhPT1I0ZldBWFRJYTlaQWFMVXFsR2t4SzBhY1c0blZjOTYzaldCN1FrM1dxMlpXeGFrU19SSGNTaVJjWUFpb0FjT0JIdXVha2VVVjBhOTJfZzRTT2FoYS0wa2kzQmI?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "published": "2026-11-08T16:59:24+00:00",
           "via": "Google News"
         }
       ]
@@ -852,13 +852,6 @@
       "name": "CONSTELLATION SOFTWARE INC.",
       "news": [
         {
-          "title": "Earnings Calendar for:",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTHBNLXdDazY2SW1uakR2NUw5d0hGZmxCa0NyMUU2NE5aUW9iMXRscjZYX0c1N2F5WXNZaVh6T1FRNmJ3cU1TaG9nNlVoeXlHTUQ2NkR3dHlBb2ExaVJCbzhjNDdvREVOZHBZRkJHczB6YTlQd2lRb3hqazNuWVFzaDkxQV9zMkZVUGJkSFhuRHM5amdsTmc?oc=5",
-          "source": "Yahoo! Finance Canada",
-          "published": "2026-11-08T23:46:51+00:00",
-          "via": "Google News"
-        },
-        {
           "title": "Constellation Software Revenue Climbs 19% as Q3 Earnings Per Common Share Reach $10.01",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWbmZEYm4tMUM5Z1hWdTVlVk1sdkgyUkhsLTZoNGdtaVlMNW4zckZVUWpLeUEzUFNaWW5FLV9KWHdoSW5lMVAwdnp1Y1JlVDh4TGdQOTV5WW0?oc=5",
           "source": "TOKENPOST",
@@ -886,6 +879,13 @@
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTTFmbFl3Y2J5eHlvNjREZ2lzbndvR0tIU0YwTV9jTHh0bFVYLUxmZV9SLW1TdUhqTEw3dzdYTU5iMHZNNmVGR3IyaGpEeDRDcGV4YjZMcVk3VWxvYjhNZmZwVDFEcVhwSDRVSXNpS0tZMjlmMGZ6NXg5dGVKQXIwVVQxRjFzcjFuTDJ3NmZpQzdERU5obTM0Q2J4STdVNW50?oc=5",
           "source": "Moomoo",
           "published": "2026-11-09T03:03:35+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Nvidia board to investigate CEO over relationship with suspected Chinese spy",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVTZRZkl3UkhITGpaSXB3cmV4R282Zm1vMi1JWWZQMS1yTjJwMzFyZ09UcHQzRkc0THA2QU0yVW0xTGtENzJ4VmhnUDBJTjJwczZXeW4xYjhyWVFuSkxud0dtTUE5el84Vmt6MHVCMW5zdzAxaXBWaWt0V3NGenRvRThONlo5UVJyRmdkWTZwX1F2MUF1cGpzZGZPc1hDYnZ6VXlLcndINWVaMjhwRVQwTGgxSDNKNjBhREVCanExZ0Y0VVo4dnV2Ri1scnU?oc=5",
+          "source": "The Washington Post",
+          "published": "2026-11-09T03:00:32+00:00",
           "via": "Google News"
         },
         {
@@ -938,13 +938,6 @@
           "via": "Google News"
         },
         {
-          "title": "Who Is Alice Huang, Chinese Woman Linked To Nvidia CEO Jensen Huang",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oZlFac3gyRDBKeGI1Sm9GU1BuSlNscnMyanpsdk8zUkc1aXpCNnpGaVVBcFdSbmd3NDhyVUpGczNmdko5YlFRRnVaQ1JPOHdhNjNF?oc=5",
-          "source": "\u0634\u0628\u0643\u0629 \u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a\u0629",
-          "published": "2026-11-09T02:42:55+00:00",
-          "via": "Google News"
-        },
-        {
           "title": "Nvidia launches investigation into Jensen \u2060Huang's affair with 'Chinese spy'",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaTNJSlRMNlh5dWhmMWFaY1dpdzJIT0Zldm9pQTMyLWFXcmpYTjU0WUlLWHpfdHlfOHhGdnNvYmY2UENPN0tXTEhmX1NSYTBibEdvRHRrS08zSWRKU1c3UWNzaThtLWlvNVQtYXo1VzBTS2ZZcUhid3FQRHE1NGgzcmFLT1Y0bVB1WTdaY3VLcnZ0SmltbzBRRFpmc1FrTlFKaGZHX29PbEFSeFg3R2g3bzdiMTlFaEZYaXNxdVE3blVUSGlqMGhtRW52MA?oc=5",
           "source": "Sky News",
@@ -982,10 +975,10 @@
           "via": "Google News"
         },
         {
-          "title": "Cathie Wood\u2019s ARK sells Deere & Co, adds Broadcom stock By Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS1ZWYnBwTVBNa3VUNWJLb2VCdEZhTU51a2lXRklHVVJISUdDSG1GYU1ZdGFEV0dFNVdTbm1NMlRHazJyU3BaQ0RiTHl4LWZQdkNfNFY2TlREdTZoYnJZcHQ5VlVSVi1XZnJmQ2FGZkVHdEN0d3pRTUcyV2cwLWQwRXJldU9jSlFRRzFENl9iMUpzUjZlOXVpYzk5UnZpRG9KekRpYS1kSkhXY1duVE5wRXFFUQ?oc=5",
-          "source": "Investing.com India",
-          "published": "2026-11-09T00:47:31+00:00",
+          "title": "BCFT ETF Holdings List \u2014 HAN:BCFT",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5QkNmVWx4UmZzRDBHQVFwSF93aThZV2c5bGxKcjlNaGRLeld4Q1dLYlAtcFlmTjlQUjRVelMtMERvTFhCVFlHdkc1YjRJQkV2c0JjeTYxbHBCYWhWc1B4MEdIZnU?oc=5",
+          "source": "TradingView",
+          "published": "2026-11-09T01:39:21+00:00",
           "via": "Google News"
         },
         {
@@ -1031,6 +1024,13 @@
           "via": "Google News"
         },
         {
+          "title": "AI Semiconductor Landscape feat. Dylan Patel | BG2 w/ Bill Gurley & Brad Gerstner\uff5cBG2Pod",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wSGdWaFNoOE9NbmJtcy0tSTlNMTd4TWs4blI0YUw4eWN4OUtvc0RzQmZvZnBTeUtHX1hIaEIyNEc1dktoZlQ5U1FjcHVSRzBDLWY0Y3BVb2t1QkI5WnZv?oc=5",
+          "source": "finance.biggo.com",
+          "published": "2026-11-08T16:48:02+00:00",
+          "via": "Google News"
+        },
+        {
           "title": "Broadcom's AI Story Now Hinges on Execution Details, Not Market Size",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNkYzRHNmV0FMMGlodEVfQzZ4OV82MGdfWDZzNFl4R1lVZzE1My15a0wxV0JwMmNnbHRPSFZCck8tVGtUZzhJdlR2NElVT2piSzk3Q01jVHI0TkUyeGFsMW8tYVJzODFFOTBaVkx2UEFTWDZNcHY3NnIxU1ZPNkE4aXRwTG5Ca0V2bEY1MFVhRWRGZ0NhdWhCZ1dmd0U3ZlZEMGZmNldqaGJqUmZobkhEMEppVVFnMk1wZE1GQmJuTmMyaUJJTzFQOFdrRzhjQUhQWVdrVk5n?oc=5",
           "source": "ad-hoc-news.de",
@@ -1050,13 +1050,6 @@
           "source": "24/7 Wall St.",
           "published": "2026-11-08T16:15:33+00:00",
           "via": "Yahoo Finance"
-        },
-        {
-          "title": "Broadcom Stock Has Lost Nearly 40% From Its Record. I'd Buy It Now.",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSnRScjZITGJLaGl0TmtGTmVyNUxSVTVXajBVRXVQRWlNaFVqMG93QlZGWG91OFBVWVR5MTJWWjZubmxndU1yYkhIY29oWDRaejhMUzMwRTVIV1IzR2dHRmlnbFpWZzAya1NjdTZielRlbDZBenUzOGttOW45WFZBT09qdlBXZ0dqWllrLWlyY0dXOHVPODh3ZHNNS3kwSFNGa1E0T2xxNHpfREZWZEpuUl9vQXdTNURmZ1dSaC1Fb2dneEtvTU5qUVRVZ1RBc2FPZkJJdWlvZGlfNFVCNk5nZU5R?oc=5",
-          "source": "The Globe and Mail",
-          "published": "2026-11-08T16:08:20+00:00",
-          "via": "Google News"
         }
       ]
     }
