@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-09T12:10:29.893595+00:00",
+  "updated": "2026-11-09T12:13:56.160692+00:00",
   "quotes": {
     "CL=F": {
-      "price": 88.57,
+      "price": 88.42,
       "prev_close": 90.83,
-      "change_pct": -2.488,
+      "change_pct": -2.653,
       "quote_time": "2026-11-09T07:00:00-05:00",
       "name": "Crude Oil (WTI)",
       "news": [
@@ -16,17 +16,17 @@
           "via": "Yahoo Finance"
         },
         {
+          "title": "Oil prices fall over 3% as hopes of US-Iran peace talks ease supply fears",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQVZ1cjZESHhCRG1Kby05ZFYyTlVpdmVSbWwxNTVKV0p2VlVOWWZWTk50R0RRa2lhUnp1UUxJYnhNaGZLaVgxQV91MHR4cjh5YUVwc1Jfa2RsazdHSWlVRHdOY0VFRlJFcllrMWpqd1BzZHA0UWpac3hEbktxdFdVQUNXN1RBNHkyWDhJZXZVT0FJckZCaV9QQWFpdDdJSEh5MnBhVmp0ZXl0Qm5TSDlvcEtyaFNYR1XSAbwBQVVfeXFMT0tQcW0yQ053Y3dGVk1KOWJPdFFYakxLcThReXdxN1lQaFlVaHFxaFZmRmpjVDZiVU9qOWVTQTVNQU1yYlRnZTNkLXhqdlFEN1BmQW9yaUhvaXdRcnFoTU1kM3pXdGpxa1FVUVhNZXRLQjBNYVZNR2dQQmx2eVVObEFuZnEzS2FzbU9KRTZRNU1lMVpFMkIxeHFBTFZuck42V094azVTVWVFZU1KZ3FOX0RLd3JFMG1jR1Znc2c?oc=5",
+          "source": "CNBC TV18",
+          "published": "2026-11-09T11:59:00+00:00",
+          "via": "Google News"
+        },
+        {
           "title": "War Divides Fortunes: Huge Earnings for Refiners, Big Losses to Petrochemicals",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QQU1uNGZ4V3hRdFpHQldReVlfendHSmZPUFF5MjdzeFJweWZVTm1TTmtDeUhObFU1VWxjRkxLSlVpOVhWM0pLT2pDMFFwZ25UZVI1RzRiT2Jzb284di1Ia25rX0F2dnpzTVFkQnE1RkNTSTZY?oc=5",
           "source": "Businesskorea",
           "published": "2026-11-09T11:53:41+00:00",
-          "via": "Google News"
-        },
-        {
-          "title": "Rupee settles at 93.93 against US dollar amid softer crude prices",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTzN2eW8yVDdxa1UyX0huNlRmemhSZTJKTmQxVXFIVGw0QUdDaEY3Szk4ZTRkdF8zbjVBaGRKU3otbUp5b3RmWFVBY0kwRHdscWgweDNhdVEwbnhvNm43cDN0LUVzSTFRUS1vVDRacXVXeVdqMjZxOUVvR0RpUnRLM1F4N21sN293c1dDRmhQTzFIWXZ2aHJR?oc=5",
-          "source": "Telangana Today",
-          "published": "2026-11-09T11:51:44+00:00",
           "via": "Google News"
         },
         {
@@ -95,9 +95,9 @@
       ]
     },
     "NG=F": {
-      "price": 3.015,
+      "price": 3.014,
       "prev_close": 2.998,
-      "change_pct": 0.567,
+      "change_pct": 0.534,
       "quote_time": "2026-11-09T07:00:00-05:00",
       "name": "Natural Gas",
       "news": [
@@ -121,6 +121,13 @@
           "source": "MT Newswires",
           "published": "2026-11-09T11:21:55+00:00",
           "via": "Yahoo Finance"
+        },
+        {
+          "title": "Virginia Gas Prices: Cheapest and most expensive places to fill up - Nov. 9, 2026",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdVpzVklOTFZKM0RicF9HRWJmYm00UUtia2lkbjgweGMza0hJX0JvaHI0dUhrNUpFWWpkZmFkRGJvZmF6T1gyNnJCR0x1dGQxRFYtNm1IYXZOLVVKODVIUXVuaUp2RU9tWGVodXQzR1ZsOGRJSzN1SDQ0NUdaMjVHZ2lSTTZUUWFpWDJtMjF6a084STJWd0ZZZFE5V3B4YUtpbEV4Z3F4Sy1qdzRYeHFDYW91Z19JNEpmaldFZ3JiWEQ?oc=5",
+          "source": "WSLS",
+          "published": "2026-11-09T11:21:49+00:00",
+          "via": "Google News"
         },
         {
           "title": "TC Energy Corp (TRP) (Q3 2026) Earnings Call Highlights: Raised Guidance, $30 Billion Backlog ...",
@@ -177,28 +184,18 @@
           "source": "LiteFinance",
           "published": "2026-11-09T09:24:41+00:00",
           "via": "Google News"
-        },
-        {
-          "title": "Granite Ridge Resources Inc (GRNT) (Q3 2026) Earnings Call Highlights: Record EBITDAX, Buyback ...",
-          "url": "https://finance.yahoo.com/energy/articles/granite-ridge-resources-inc-grnt-090727058.html",
-          "source": "GuruFocus.com",
-          "published": "2026-11-09T09:07:27+00:00",
-          "via": "Yahoo Finance"
         }
       ]
     },
     "TTF=F": {
-      "price": 83.975,
-      "prev_close": 85.588,
-      "change_pct": -1.885,
-      "quote_time": "2026-11-09T06:45:00-05:00",
+      "error": "no previous close",
       "name": "Dutch TTF Natural Gas Calendar ",
       "news": []
     },
     "HG=F": {
-      "price": 6.3335,
+      "price": 6.3315,
       "prev_close": 6.218,
-      "change_pct": 1.858,
+      "change_pct": 1.825,
       "quote_time": "2026-11-09T07:00:00-05:00",
       "name": "Copper Dec 26",
       "news": [
@@ -317,13 +314,6 @@
           "via": "Google News"
         },
         {
-          "title": "Jensen Huang Puts $200 Billion Dent in Nvidia\u2019s Stock Price",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcms4NmFRS0JiemF2SGRaMDczOXZ5LXRlTVFFanhvSEZxMlV0VVBXaDh6RWl5VXBTM1hWeXpNZHRuY2NmM25PNVM1eXE4NmF2VHdvWnJzREwtNXRXeUFBWGl6Y0lDWXdLdDF0VGRabXFwQ2RNZ3p2czY0TGY4aU9zbkt4ekZRd0dkZkVhdHJLZUd1dWFnZEdSdGRoMmFHMl9CWENDN0JFZUs1QldJSFR5SzFR?oc=5",
-          "source": "Bloomberg.com",
-          "published": "2026-11-09T11:22:26+00:00",
-          "via": "Google News"
-        },
-        {
           "title": "Treasury Yields Rise on Strong Jobs Data",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTjNsSlBvQ2VnWnZFM1RMRHEyUjM0RnlaRnByUDlZajM3VWFvSjMzeU1QYXktM0llSmtNRTQ4aGNkWFdYVnR1S2w5TXhiM1dlbWxaZk5UVy1tcFd0TnVUOXh6N1FfdlcxTDZxaWN1TWVYNE9GOTcydWJ2RmpkUnpkdmNxcGF5ZUVnR0RiT09lYklIUU1DbklyQzM5cUZHZFNJSVEzVTNKZkE?oc=5",
           "source": "WSJ",
@@ -374,17 +364,24 @@
         },
         {
           "title": "Goldman says 'the pieces are in place' for a shift in Treasury yields, global 10-years",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tYTVYTm5XNDhfRVJRaE5pMW5IdTMwdk54eTVjYVZIb0VkTklrbW9QNmptbXp1ai1nQXJQendGNk5NVFFUV3ZKR3J1VFJYaXZkMXp0RTJGS240WXg0a21xTmJWRDk5Mk9uTDhxMUFSUjZma3dU?oc=5",
-          "source": "CNBC",
-          "published": "2026-11-09T08:19:07+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYXUtalJIdUotbjZsU3ZXOVg0UXZvdXdQUnQ1d0I5SDBIdjVoNVFpazdOUHNCLV92Zk1FSEFxRmhUdUROb1g4YW9XcUgyS2hyaVoyLWVYaE50Nmh2T2RGdlQ5Mk9Ma1hzSVE5ZFFmSjB0bG1DdWRXZV8yVXZWM09uYjE0MFRfWW5KajEyQ1VLa1BoczJnU2d4M2piaW9GNGY2SXpaN0dBSXhnZw?oc=5",
+          "source": "Rich Picks Daily",
+          "published": "2026-11-09T08:44:52+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "S&P 500: Treasury Yield Breakout Signals the Potential for More Upside",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa2hiZGZocWRuaUlWb2Z4NC1iSzZkUkpTM2VjZXJEWUJIcE5fNm9RRkYzSVZYOXJVM05oaGFRejBvcXN6dDRmdU96VzZZc1NvbWt5ZHVkdDFyTUI3cWphSzktYlk3ZWJQaElQUkNWRDVMMGJyZXRfbV9LZ1VWZ1l0SGRvaGZQQU1pOFZoVkNzcjN3aVpZNXFVLVVXSDRSeEh4X0d1aVktdEtsOE1kUnVEQ1NBWQ?oc=5",
+          "source": "Investing.com",
+          "published": "2026-11-09T06:24:20+00:00",
           "via": "Google News"
         }
       ]
     },
     "CADUSD=X": {
-      "price": 0.7094,
+      "price": 0.7093,
       "prev_close": 0.7134,
-      "change_pct": -0.558,
+      "change_pct": -0.575,
       "quote_time": "2026-11-09T12:10:00+00:00",
       "name": "CAD/USD",
       "news": [
@@ -449,10 +446,10 @@
       ]
     },
     "VG": {
-      "price": 11.47,
+      "price": 11.52,
       "prev_close": 11.53,
-      "change_pct": -0.52,
-      "quote_time": "2026-11-09T07:06:14-05:00",
+      "change_pct": -0.087,
+      "quote_time": "2026-11-09T07:13:58-05:00",
       "name": "Venture Global (VG)",
       "news": [
         {
@@ -460,6 +457,13 @@
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdXFDM2QtWGh2X1FjM0xZZlNyUzFOWmRmRVRXVkN1UXBPYU1LVzg3VG9zZEI3TnRzUW13NU5wZ21qLWg5MGV4S2hYRDA2Sk8tTWhDMnpJNWJwUUZ4emh2U3VxUjJqV2NudmFqZjhGbWlnYWhFa3JnYnlwb3VvQjBMVUdSUlhtN3RURE0wVU5oa3FDT1dRbmZMa3RwcmdGR0N3c2R4MS1FV0tVYVlkMUZxWU55NWtQTVJlc2UtVWo1YUZiUQ?oc=5",
           "source": "Royal Gazette | Bermuda",
           "published": "2026-11-09T12:00:00+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa1hIdHNKUHJ0SkdoZ0RmYXVnTW1UbGlkR185dGo2cy12WHp1T0VBa0xFU3NSSVFvSUI1XzFfaERjMnREY0tkNEtGXzJ5SXVMalFhN0Myc1hLMWY2cnhmWVQ3WEZGY2dielg0aWxiQmItaFAyUVRmNE1kY2N6WFlaWFJ1UnB2S0EtVWN5VWtOeXc4bU42cEVEMGI3ZGxPckE4LTdjQjhCOGJtTThDWVE?oc=5",
+          "source": "Decrypt",
+          "published": "2026-11-09T11:50:36+00:00",
           "via": "Google News"
         },
         {
@@ -531,21 +535,14 @@
           "source": "Petroleum Australia",
           "published": "2026-11-09T08:39:58+00:00",
           "via": "Google News"
-        },
-        {
-          "title": "US Exporters are Plugging a Qatar-Sized LNG Supply Hole \u2013 For Now: Maguire",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMnhTRmNfSC1TaERJYkpVWlpfOFhRUnBUNTg2UXloWVdOMEo4QkRuRjRiOElyeHpEdTlDaHgzcGpibWFVdHROb0RsRHJPUlR1bGg1V255LTFKcXl1M2tKZVdHcXo1UFpNV2F0bEM1aDlUZC1FdThRVHBfeW91eVBpQzJPR3MzSzl1SFZrdUNSN2R0OXJVNmlxT2FSVGlpZ2pHQTQ5Qg?oc=5",
-          "source": "EnergyNow.com",
-          "published": "2026-11-09T08:34:50+00:00",
-          "via": "Google News"
         }
       ]
     },
     "AMD": {
-      "price": 468.37,
+      "price": 468.6188,
       "prev_close": 449.04,
-      "change_pct": 4.305,
-      "quote_time": "2026-11-09T07:10:38-05:00",
+      "change_pct": 4.36,
+      "quote_time": "2026-11-09T07:10:00-05:00",
       "name": "AMD",
       "news": [
         {
@@ -635,10 +632,10 @@
       ]
     },
     "CLS": {
-      "price": 209.0,
+      "price": 209.5836,
       "prev_close": 206.68,
-      "change_pct": 1.123,
-      "quote_time": "2026-11-09T07:05:00-05:00",
+      "change_pct": 1.405,
+      "quote_time": "2026-11-09T07:10:00-05:00",
       "name": "Celestica, Inc.",
       "news": [
         {
@@ -663,7 +660,15 @@
       "change_pct": -2.128,
       "quote_time": "2026-11-06T17:55:00-05:00",
       "name": "Algonquin Power & Utilities Cor",
-      "news": []
+      "news": [
+        {
+          "title": "COR GL CAP USD-C-AC (10911618.IR) Seasonal Returns Chart - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBObzJzTkJjelU1dXVpc2FkNEJHWjBzSzlFdXlqWlR0YVl2Q3JUWFdnYnpGTHg4TlY1Wk1KUnFlY2ZpUkRrNEZadnFOQ2tQeGN3bkZ3Sm1BVVQ2N2J6WHh2ZUJqQ24wQnN2N25Z?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "published": "2026-11-09T01:33:52+00:00",
+          "via": "Google News"
+        }
+      ]
     },
     "CVE": {
       "price": 27.09,
@@ -673,15 +678,68 @@
       "name": "Cenovus Energy Inc",
       "news": [
         {
+          "title": "Cenovus Energy stock clears 1 million BOE/ d production milestone",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSXUwWDVkOXUwS0EzRGhuZDBOYlk1N3JZc09UZzNPeGFuQWFVWE9HdUxPLWptWnBUdG5icnhOS21VQ0piRHRlYmJ4ZGhQdWJ2M1diU1ZZNlBBekk3dmJqMF8zdmNRaWRaZ3g2VWNFMDB4M3FpZXRNM2RVX0Z5TFlXNjFiZjd6VGJJOGJRWWFmZzBzNGJMT295TERXV29aRlNVbEpkNTFLc29Xd3Jud2RNcTVqRnM4M2VKMTFYczgyQmdrQ01fZnc?oc=5",
+          "source": "ad-hoc-news.de",
+          "published": "2026-11-09T12:03:32+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "CVE: Cenovus renews buyback of up to 126.5M shares",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRk5sN1R4OUh6RXp1ZE9HU2xudlBUQjBNXzFsN2hVWmsybXliZEFvWnZQS0xyek5tdk5UelVFMkl2V0F3TWhXRW53bHA5aTBVVnluSnJpYlhkYW44Tk4tVkx1NTRTbU1uam0tUDRTUkRMUld5R2NDTWFJTG1EaG82SHJ1U2RsdjJrdk9n?oc=5",
+          "source": "Quantisnow",
+          "published": "2026-11-09T12:02:44+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Cenovus renews normal course issuer bid for up to 126.5 million shares",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNc01Ka0RqWWF1YzlfWTk4TDlxYlU0MndmYmxYOTdTWXdmWWJZR204V0d0ajVnZElfSXZFV0MtellmRE5KSzZrNkVnenBhZ0stZDE3eXdPdzM1ckRWaHpQYXpfSHZCQks3alZaN0NlYUN2RTlrbm1DSDlpX1RDRkp3d3Z0RlV3SU5EMjhhZjZ1M0p4Uk5XMF9Ca1FqRFQ1dFhHMFJvY3JWb2s1NXNSdkdqQm5qeEd4Qnh4dGxwdjdJUmlPdGhKZV8xbDVUYy03UQ?oc=5",
+          "source": "TradingView",
+          "published": "2026-11-09T11:19:26+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Cenovus Energy Announces Renewal Of Normal Course Issuer Bid",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMXVtMzN5STZYOE5DbE90MzlSVkVLa3Yybi1XTWdFRTQwb2dQNTY3dVBVeW5hakJReE5oSE1OcnBtdGNnTy03SHprN3ZDYTN2VmdpZU1VRGRGeUFVYlhlSU9oX3BDalJzMURGdUsxX3J1YkhObmFHYVJkVkpCMEZRQ2Q4YVhJVEUwZXduTXNQajBERDU1WDFDaUdwYXhzWWhubTV2XzZiT3BLaUdxOVJXbHpLUGVzNUhYcDdzWmtYQTZoOTBQa0JnYWNlSlo0eHR5V243N3hCb3puQlJramNMNlpn?oc=5",
+          "source": "Toronto Star",
+          "published": "2026-11-09T11:00:00+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Up to 126 million shares can be bought back; Cenovus will cancel any it buys.",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONW9ORGpWY2owSWd1MUFQUDN6Vk5xRFhRSFF2S1ZNX05NdU9fUV8wS3E3YlJlSktVT25TbTdDckVETFhuSFl2Yi1Sa2NUTElYMVdJcW5BWWV3UnU5bTlIRzM1UFVaRXVxZmlaQ0o2Y0NFS3dqcXdIMnZLejV2d3ppakNpRldBLXhBWV9tOFNpOF9sTnJOeDIyQ1k0VEZ6SHM4MWtGZVRRdFg2OVhETjg0?oc=5",
+          "source": "Stock Titan",
+          "published": "2026-11-09T11:00:00+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "46,798 Cenovus Energy Inc $CVE Shares Sold by Beverly Hills Private Wealth LLC",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYmdvVU5tSlkzMWx6czFoQnJQZklJczZ4cGxPQW5XVUVzcF9OQkl0R0s0M3dmaU9lR3RKZk4wNU1fU1VZdmJCMi1UTWlJN2ttVXRDdjkyRmp2YS1IVjdGaEk0MUJEQUNSZjlCdGVyS3l5NFExWThEal9LczNYQmsxMl9tbk0zR1VuOWlvQTNGdVNLMV9QazMycWpCd2lvSTFhaHk0OEZaOWFXTExLWE1PV1VUcG0xN3JOb2tIRlRreXV4REwwZEl5TDY1UnlGN2FDS3Bn?oc=5",
+          "source": "MarketBeat",
+          "published": "2026-11-09T09:32:19+00:00",
+          "via": "Google News"
+        },
+        {
           "title": "Zacks.com featured highlights include DMC Global, HF Sinclair, Cenovus Energy, ZIM Integrated Shipping and POSCO",
           "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-dmc-092900036.html",
           "source": "Zacks",
           "published": "2026-11-09T09:29:00+00:00",
           "via": "Yahoo Finance"
+        },
+        {
+          "title": "Gerdes upgrades Cenovus Energy stock rating to buy on valuation By Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMDQzcmZ6UlZRbFU0RFhCb3dIYmtVYW16NmJJazFBSy1sT2JwcTAtZS1xME9NZ3cwX1ppNU5kLTdPYVlsVVFndUJtaWFOTDVvZGRSZXRZZEJhVTFmT19TQ1VTY1BjNmpVOTJVTEU3MmhsTERtTUdNN2tLQ1hTaUtfVG43VHg5eHB2aWx2b09RUVRpQ3hiYkRPcmtNNU5pT1Nya2dqdG5zQjE2RWFQSkVlSy1CYzB2VkxCVkEzbXkwODF1UQ?oc=5",
+          "source": "Investing.com Canada",
+          "published": "2026-11-09T06:55:36+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Cenovus Ready to Back New Pipelines as Output Nears One Million Barrels Per Day",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRWNTUGUzQWt2VnJwNHAzYkwwSGNua0VpS1pVNlI5ek1MYWYxLUt4SUR3aFlpQndLci0tVXN6RXUyay1TVUw2NEk1Q013aW05Y0lxRHAzZ213eDRVTHJ2YlJFQVljVXhGU3BfVTh1RVE4Y25aS0NaMzBTN0VpT1BJS2tEU2RzQVJQbXJPc2NPOW81eVZrVC0wTVoyYndmVzNlenBtUXMyTHdnS1R4VFE?oc=5",
+          "source": "EnergyNow",
+          "published": "2026-11-09T03:08:31+00:00",
+          "via": "Google News"
         }
-      ],
-      "news_errors": [
-        "Google News: HTTP 503"
       ]
     },
     "MDA": {
@@ -692,6 +750,13 @@
       "name": "MDA Space Ltd.",
       "news": [
         {
+          "title": "L3Harris Technologies Inc (HRS.HA) Analyst Insights, Price Targets & Recommendations - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCaGRGeHdHV2RXeWxpeFlKdWNJa0pqT2E0RUxqWnJwaVBEVXRzVlhlVjhOalZpMHdoTnhWdWx4VDR5MjQ1SWE5UTVscXBMRmZ6VzlTVFFTYUtrclNFaXFTeGl1WVlrMVNteE5Z?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "published": "2026-11-09T04:35:14+00:00",
+          "via": "Google News"
+        },
+        {
           "title": "Bombardier Inc. (BBD-B.TO) Stock Price, News, Quote & History",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qOHRMeG5hbWlmSGpPemM2N2t1MzV3TXUxQWJzLWFFLXpZenZETUdsTkh2T3lES1hGa3NXbUlCWHdDNmhEZDg1RUJhV1BnM3ZtT3NNWHhSaw?oc=5",
           "source": "Yahoo! Finance Canada",
@@ -701,17 +766,31 @@
       ]
     },
     "GOOG": {
-      "price": 289.195,
+      "price": 288.97,
       "prev_close": 283.93,
-      "change_pct": 1.854,
+      "change_pct": 1.775,
       "quote_time": "2026-11-09T07:10:00-05:00",
       "name": "Alphabet Inc.",
       "news": [
+        {
+          "title": "Alphabet Plans Up to $3 Billion Asia Bond Sale as AI Funding Pressure Draws Focus, Shares Rise Over 1% Pre-Market",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORnNhSmI3dFVDV3JLamJhV2JKODZpUW5SQzVCbE1tX3ZiZEhaU0RiRnBfQTJMTWUzSU9hV2JJcUVEV2N4Vy1pRTZBQmxzZ21MbjU2R0M1M3hUZUpwa2U5RlBWVjdKQ3JLcTQ1QTQ0YTIzZWF2dUtKNGtUZzBuOFllNHNnVnRIUEJIbXhVd254djZ4a3FiOUNBNFc4eWVhWWdGNUY2R05iZDk1b3lNNGExNUhpN2EtV2dCa3pOelQ3U1JEVWlYLVFZTHBrNWNmcDZjRU9B?oc=5",
+          "source": "TradingKey",
+          "published": "2026-11-09T12:11:34+00:00",
+          "via": "Google News"
+        },
         {
           "title": "Google makes a $300 move Pixel buyers should know",
           "url": "https://www.thestreet.com/technology/google-pixel-11-pro-300-discount-black-friday",
           "source": "TheStreet",
           "published": "2026-11-09T12:03:00+00:00",
+          "via": "Yahoo Finance"
+        },
+        {
+          "title": "OpenAI's Hail Mary: GPT-6.2 Astra and a $1.25 trillion bet",
+          "url": "https://finance.yahoo.com/video/openais-hail-mary-gpt-6-120000784.html",
+          "source": "Yahoo Finance Video",
+          "published": "2026-11-09T12:00:00+00:00",
           "via": "Yahoo Finance"
         },
         {
@@ -776,28 +855,14 @@
           "source": "GuruFocus.com",
           "published": "2026-11-09T11:06:23+00:00",
           "via": "Yahoo Finance"
-        },
-        {
-          "title": "State Street SPDR Portfolio S&P 500 (SPYM) Buys $23.9 Million More Apple on Nov. 5",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-spdr-portfolio-p-110543000.html",
-          "source": "GuruFocus.com",
-          "published": "2026-11-09T11:05:43+00:00",
-          "via": "Yahoo Finance"
-        },
-        {
-          "title": "iShares Russell 1000 Growth (IWF) Buys $42.9 Million More NVIDIA on Thursday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-russell-1000-growth-iwf-110538850.html",
-          "source": "GuruFocus.com",
-          "published": "2026-11-09T11:05:38+00:00",
-          "via": "Yahoo Finance"
         }
       ]
     },
     "FSLR": {
-      "price": 200.2,
+      "price": 200.3,
       "prev_close": 201.14,
-      "change_pct": -0.467,
-      "quote_time": "2026-11-09T07:05:00-05:00",
+      "change_pct": -0.418,
+      "quote_time": "2026-11-09T07:14:16-05:00",
       "name": "First Solar, Inc.",
       "news": [
         {
@@ -815,10 +880,10 @@
           "via": "Google News"
         },
         {
-          "title": "Sunrun Inc. (RUN) latest stock news and headlines \u2013 Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50b3pBMndYUTE4VmNjV202ZG8wOURpbm4xMEtFLWl1LXl1dzdYVUhDdFNMNTJLMWF1WHpIMWFFQmpIT19UVElqTlpySjdrXzYyWGIta0JuUQ?oc=5",
+          "title": "NextEra Energy, Inc. (NEE) stock price, news, quote and history - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93TWl5emY3TEd2bjJaejlTdXhiQXVQUUo3UjFBS3JQSVJPVjBheng5RmlvZnpyWG1oYUJPNzVsLUxzVDF3LTFKbTY4MDJjZ2lCUUpKeGNYTmpZcDJ0VXp3UQ?oc=5",
           "source": "Yahoo Finance Singapore",
-          "published": "2026-11-09T11:16:01+00:00",
+          "published": "2026-11-09T11:14:05+00:00",
           "via": "Google News"
         },
         {
@@ -857,13 +922,6 @@
           "via": "Google News"
         },
         {
-          "title": "NextEra Energy, Inc. (NEE) stock price, news, quote and history - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93TWl5emY3TEd2bjJaejlTdXhiQXVQUUo3UjFBS3JQSVJPVjBheng5RmlvZnpyWG1oYUJPNzVsLUxzVDF3LTFKbTY4MDJjZ2lCUUpKeGNYTmpZcDJ0VXp3UQ?oc=5",
-          "source": "Yahoo Finance Singapore",
-          "published": "2026-11-09T10:14:04+00:00",
-          "via": "Google News"
-        },
-        {
           "title": "Solar Industry Grows Rapidly with Imported Technology",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLXRHLXFlQTRVR0M3LU5qdUFTZjM3VVRMYXVTRmhzZ0NXNzd0ZFBXdzdOcEhXQVEyRS10X3g5YTF0cmhVVHhseXRtZ21yZjZDQzJodVRDd1ZZb3pka0xZSmxBNFFDbVBZUGNWQVZrdGFKVWE0ZERIU0g1TXRRVUtRN19qMUVyU0tfX3ljWHlSOEZpdGZLb2Q4LUVjVTQ5Mjk3MlA5ZkhkTmExSHNiVnpJaldIb3lla1M5T2c0djItdkgzd9IBxwFBVV95cUxQWm9UdXFZdnJCTVJuemx6RjA1aGhYYmlGSW41RjdZQms3dFplcXNwUzNEME5iY2tQMVgxTnhMeG5VMjZLWUp6dHNtR25BbWdaNzhweTJBODBSeEptMWFwNFBiSjczZDBUMkFudFhYQzFhMnh4cldxUkpQNVg2cnRxUUxmTnptcEhPb0Y3NEpIVWFKZGlxUDBnLS1CRjUwSWZCN2oxZFp0SjIya0tMallYQzZQaENsQUNubmNfMGxMVkthdElTaHBJ?oc=5",
           "source": "The Manila Times",
@@ -882,6 +940,13 @@
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaURTczNSMk9ST21uWGFGXzk3NUM4YzNLYnYwUWJERnBLMFVqRy1HaTVrY0NvWS12YkNoV2ZLQ3BYNkZ4cmtkZmZyS0p1U0FQWDZLcVFQYURKYmNFaGcybmxPclNBRFgtU29NWmRhcDJUeGJKY1lyRDdNSVZ0Sy1GYjRRT2NyZE5lVnJJcWhSZTFHWmxZZ3BJSE1hbEoxc2w3V2U4bThrUTNHaHRVeEJldUh2ZExvWUlfZmQ0aml5VFZna1pSQnfSAcsBQVVfeXFMTzIyYmdxcEVjVm0xMDZpeFp0RUd5X2lhMG15Q1M5djJ0S0hkU1FvTjRLN0gyZFJBd2NrYmNnNjRDMDhwckRHdTNVTEo0YlNyLWllRU40U2dWTmdUaGU5TTlpdnkzVWJCei1OUDNHNFRBMjRkWnlTMmJ4al9UOGlxbU9sTGhpUThaZU16bUVydi1NaHJtSWdmQk9JOWtMbjdTNEJyNk5UN1ZYcDZjM3JYVHZOVTBZb1A4LVNBZ05fZ01QRW5PbUgzbHEyakE?oc=5",
           "source": "Simply Wall St",
           "published": "2026-11-09T06:20:20+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "US Solar Imports Face Shifting Trade Landscape",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaU1jb3lsejEzbXdpZlVUaDlYcGhaMUwzalk1M2VVVWJyTGJoVXc3MzRIMUJQOHZlME1CTUUzcEJjS0xRc0ZoUjhsWUJtMFA2ZDVRODdHRFJEZ3ZYSWM0QVlSZXJ4ZEdXbmdUeFFMNmFYc0RHUzZGYzZXTTFLYXhIVE93?oc=5",
+          "source": "IndexBox",
+          "published": "2026-11-09T05:30:36+00:00",
           "via": "Google News"
         }
       ]
@@ -911,9 +976,9 @@
       ]
     },
     "NVDA": {
-      "price": 174.98,
+      "price": 175.25,
       "prev_close": 186.64,
-      "change_pct": -6.247,
+      "change_pct": -6.103,
       "quote_time": "2026-11-09T07:10:00-05:00",
       "name": "NVIDIA Corporation",
       "news": [
@@ -923,6 +988,13 @@
           "source": "Reuters",
           "published": "2026-11-09T12:09:44+00:00",
           "via": "Yahoo Finance"
+        },
+        {
+          "title": "Nvidia stock set to open in oversold territory",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVkxJdVBoRUlTTjU0LUtFbkRIcnB4M0p4TGdRSlA4RkROMGZQX0dKQ2ZmNFFpU1JWT1dhTEJDNlRkak5XZ2JPRGU3d3lpa3VLYU1aeng4dDdWY3NGWThtWjVCd2pPRkxDcDZrQ0pUTU1paGRCOEJOZ2lobl9HQkVkNEhKTzZEZUZjVWY1RA?oc=5",
+          "source": "Seeking Alpha",
+          "published": "2026-11-09T12:09:00+00:00",
+          "via": "Google News"
         },
         {
           "title": "Can the AI trade catch a break? Nvidia, Anthropic and CoreWeave may have a say.",
@@ -993,20 +1065,13 @@
           "source": "Motley Fool",
           "published": "2026-11-09T11:45:00+00:00",
           "via": "Yahoo Finance"
-        },
-        {
-          "title": "Jensen Huang's net worth dropped $21 billion in AI rout\u2014Nvidia's recovery will be 'capped' after he admits affair",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYjJIUTlEZFUtb1JubTNjbUVVM2Z1LUxJaTJyTFFKRzdscVYxeFIxSkJzYTJkQjdIRldMbVItNFFVUUJ5a0xTM3BrSEd6UlFSX3ZhRUJYU25jcjd6Sm1yN0VxZFpfbEJtR25yQkk2Q2NWRDNMTXhtMm5wZ19HRFBIdUV2ZEFvUWVt?oc=5",
-          "source": "Fortune",
-          "published": "2026-11-09T11:43:00+00:00",
-          "via": "Google News"
         }
       ]
     },
     "AVGO": {
-      "price": 299.95,
+      "price": 299.61,
       "prev_close": 293.69,
-      "change_pct": 2.131,
+      "change_pct": 2.016,
       "quote_time": "2026-11-09T07:10:00-05:00",
       "name": "Broadcom Inc.",
       "news": [
@@ -1092,6 +1157,96 @@
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNE5FY1ZTOERRaXJuTW5xek1qeHI4b3pPdTRLd2d0YmRmdU1yODFnUXZUWlVJQ3ZZODJMeUdVbEZBclJWN280cDdoRlBZRkQwNXVEUUsyUWctZ0ZES0ltMUhqNnlpbWl3OHl2R3Rqd2Z3a25jRHJ6VTAxVnI3bzRMejAwTTZCUUJrbFlzZHNVaG5tTkZ3bnpwTkpINk5hb0Q1OTRiRXhkUkZhcEZNa3VYQjFELWFUVVVJcUtiMzZRMnNfaGd4dDZ4NUlHUEFDYzdHWDlJVnpOYzNUeTM5N2tORy00VzQ?oc=5",
           "source": "MarketBeat",
           "published": "2026-11-09T10:26:07+00:00",
+          "via": "Google News"
+        }
+      ]
+    },
+    "FM": {
+      "error": "no data from Yahoo for this symbol",
+      "name": "FM",
+      "news": [
+        {
+          "title": "Jordan FM in Damascus for talks after deadly Syria strikes",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM0I5dzFib2Yyc21Jcl9IcUs1Zk9MWjJmeUNLdmhNeXNyVUYybkZHaXlUd3FUVHNTS3VvWE5qUl9ETEFHNTlkYnFfV092TVNtQ0RHRk00NFlSNXhUUFloU0lreWtFY3RQcy1fNWZRSVZQNG94dXpUUE9GNnNTSlphQm5tVWExVTg?oc=5",
+          "source": "The New Arab",
+          "published": "2026-11-09T12:11:16+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "The Open to be held at Carnoustie in 2029 | News - Tay FM",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQmFuSGVJYTFFYVM0OTZpRUdySWFMYm00YVBLblJfTWNrYTlFMUl0MUloNU5oMzRwd3VMdFJEN1NCUnN4bjh0akh4T0hhN0d4VnhXeUNKRlZYMEFhNUxoVjJ1MHdlMFA2bE9USHVqZl9kZ0ZJWW9HUWFueVRnMWtJaDhyREplRGo4eXN1dA?oc=5",
+          "source": "Rayo",
+          "published": "2026-11-09T12:08:30+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "KTIC 840 AM/98.3 FM/98.7 FM - Suspicious fire destroys Madison-area house scheduled for training burn",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT1ZEU3ZaRXRidkprVVlxUjNaZ3FiMHRNWW92NkJVWUY1N2hGcWlvbWM1T3JaRjBaVlFycUhlNFJ0aWZnRlFEUnkyaGZHQmFNbVltblZGa3pNZ0NDQmxHMnQ2TzFYbVRURS1DZ1oySU4xZnFHWDdBdVd0elBIOWdFWFFxVXZmLS1hMkVGLVBKeWltZW1UZWZSMks5X2dWREVXQXpKbGdvNUM?oc=5",
+          "source": "Rural Radio Network",
+          "published": "2026-11-09T12:05:36+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Food crisis hits Ethiopians fleeing violence into Kenya\u2019s Moyale",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM2xRcXI2alVEVjg1S2hkTV9lZDQwdG9FYmdBTUUyZWdXd0p4MU9Oa0VhMnlvUHB0cjQ3VE9lNlU4Y2lZTnNNcW53UHVuNlh1MEhyaW9CektHVXpfQXdvdW1tSTlOSEl2dUwwU1RBa09BVVpQSmM5bUkwWHBLMHJfbVFUcHFJdDBHbW1abWM1Zi15Rzg?oc=5",
+          "source": "Capital FM Africa",
+          "published": "2026-11-09T12:03:09+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Russian FM: Regional security to be main topic of Abu Dhabi talks",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaHA5QlZMdlJrS3R5OUNRYUpDUzMtOWhSWDRvWVNMMk1NaVVjUGlnZ0QyMEd5S09IS0d4Skx6WWgtaTJkMXZJdzFwNWw3eHFhaHdxWGhFMjlHbVJMeVh2OWNJZ0dPREdTblBwaDZmUkkyOEwtU2h3QjB3VXY3ZEJTUVZhOGZSRzVNei03NWVzd2M3T0FUdUlMS3hKSzFjb1Ryc2IxRXp3?oc=5",
+          "source": "Apa.az",
+          "published": "2026-11-09T12:02:00+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Jordan's FM visits Damascus to smooth relations after deadly air raid",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TTDlFYU52ekFGS3FHWUQtR3N1bC1FREkxbmRCYjBaZnA2ZkdFWUNCSHlpZFZ3NVRQQ295QTRkQm5obXJhbzJyU2lRdDF1LS1NT1NxYXMtWVdhbWVscnJFSzdQVFVQXzg3NFlXRVlVejZCWENS?oc=5",
+          "source": "The National",
+          "published": "2026-11-09T11:38:21+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Five dead, including three children, after single-vehicle crash at FM 725 and IH-10, Seguin Police Department says",
+          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPS1Y2ekdFYlJZaWcxRGRnNTRvUDNoX0Y2ZlpmbEVXcW1wMVBhekk5T0RjSkdOclFJN2oyVHdneldVTnlHb2RQbzgzbEZaNVo0OHBId1kwTlRmaUJlQnRtWEU1TDZzR0FyVkl3NnhpajBDd09RanFmelVtQVNMWm1xa2ZCejZ3U3hZM3NVWDNhM01wSXUtVDdFaDlUYWlybTJKcFhxNEJuN1owT2kxVlhOU3pFRHhpeHF2X1NQWm5YRHNqYzNFbm82RzZLdkZIZUVxUi1HR1lqc2dmRFAtV1p0MEY3ZW1UX2pILWItNHVPSF9wWnBpZHBsbGcwLW1ia0w3M0pybVdiUzlLLUdRdDl1TG9qSXVoNE5DMmxPQjhFSmtNQW1K?oc=5",
+          "source": "kens5.com",
+          "published": "2026-11-09T11:37:30+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Michigan National Guard to deploy to southwestern U.S. border",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB3a2FsN0EyLXdoa3dxTUJYamhVZEc0TGhzQ0oxaG5iaEtFTEYyQ2F1b0VyNlI2dFFiUHlTWWdUclRTLVd4TnYtdnFVUQ?oc=5",
+          "source": "WHTC",
+          "published": "2026-11-09T11:31:55+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "Veterans Day events planned across the F-M area",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQXQ2YnhhSzMwRk5rbkxSNHh0cDlGdkVKZ1o4cGFGYWtObVY4X1ROTUs2andvMmtkQ2JHbnlXcXdTVkZSX25oSUo3d2RUdHFQOHRySkF1SkdPODF2b0NrcWNiYl9BQmcyYUNYcllDV0RuREhOZWFrQ1p4ZHZLUTZDM0FqNkU0THdXR0QzWS0zdw?oc=5",
+          "source": "Valley News Live",
+          "published": "2026-11-09T11:29:00+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "FM heads to Paris for G7 Foreign Ministers\u2019 Meeting",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQamtjNFJZTGJvUWRCMTc1YXRhOGx0QXpPMURUZDlaeGtjblVSR1VWS20xQk55QmU3bndoeURTVG5sTXd3UFdJelFyTG42TGlVdzJ5Ylh3eXFwbVd3OXVhaE1VcGxHYUNLNGZSM1M0YU9XZFQzc1hCVFc0ekZSMUVlRGNwNGtGeVU3WDBDNA?oc=5",
+          "source": "Egypt Independent",
+          "published": "2026-11-09T11:23:28+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "JACK HAMM IN STABLE CONDITION",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kV1ZpVW90aGpScUhKdXRlUFBqZVZRTnhuR3doX1hDOFV1V1JiblBFRUpDNW5qVFFZb0hBNWtPUzJNaDBmSHFBM3FCak5aRU9YSlA2LXhJcWIzMWtfQjNzTXBYSHpEczl0NXZIdDFBcmJGeHp2UGc?oc=5",
+          "source": "WCCS AM1160 & 101.1FM",
+          "published": "2026-11-09T11:22:38+00:00",
+          "via": "Google News"
+        },
+        {
+          "title": "TikTok Removes Over 750,000 Videos For Platform Violations In Kenya",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYmprRTViVXNxTG5fZi13c0U0VVJHaGR0MjBCOFViLWZyQi1fcjhMaGdfWWFjZ1RQd2o2TTd3YUp0VWlNUXJSSXFyVWJtNTUwQ0cwVENqd09oTTZaM1BFM2hNcUtZQ2pBRlhjRGZxTmVUb3EyOEVjY3U1bk84T3MzT04yTWF4VDNOQU1jNXJUbWRQRTVSUVNR?oc=5",
+          "source": "Capital FM Africa",
+          "published": "2026-11-09T11:21:59+00:00",
           "via": "Google News"
         }
       ]
